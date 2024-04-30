@@ -1,2 +1,0 @@
-For Test Execution : jmeter -n -t D:\SQA\JMeter\Daraz Load Testing.jmx -l D:\SQA\JMeter\fabrilife.jmx
-For Create a HTML Report: jmeter -n -t "D:\SQA\JMeter\Daraz Load Testing.jmx" -l "D:\SQA\JMeter\daraz-report.csv" -e -o D:\SQA\JMeter\html-report
