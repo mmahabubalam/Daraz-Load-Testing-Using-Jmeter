@@ -1,0 +1,1350 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.71449E+12,62531,HomePage,200,OK,New Thread 1-28,text,TRUE,,1154400,232,50,50,https://www.daraz.com.bd/,224,0,169
+1.71449E+12,224,HomePage-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,815,114,50,50,https://daraz.com.bd/,224,0,169
+1.71449E+12,62306,HomePage-1,200,OK,New Thread 1-28,text,TRUE,,1153585,118,50,50,https://www.daraz.com.bd/,826,0,538
+1.71449E+12,64439,HomePage,200,OK,New Thread 1-43,text,TRUE,,1154347,232,50,50,https://www.daraz.com.bd/,232,0,177
+1.71449E+12,232,HomePage-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,815,114,50,50,https://daraz.com.bd/,232,0,177
+1.71449E+12,64206,HomePage-1,200,OK,New Thread 1-43,text,TRUE,,1153532,118,50,50,https://www.daraz.com.bd/,2642,0,245
+1.71449E+12,67423,HomePage,200,OK,New Thread 1-3,text,TRUE,,1154347,232,50,50,https://www.daraz.com.bd/,670,0,610
+1.71449E+12,674,HomePage-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,815,114,50,50,https://daraz.com.bd/,670,0,610
+1.71449E+12,66745,HomePage-1,200,OK,New Thread 1-3,text,TRUE,,1153532,118,50,50,https://www.daraz.com.bd/,940,0,549
+1.71449E+12,69145,HomePage,200,OK,New Thread 1-12,text,TRUE,,1154347,232,50,50,https://www.daraz.com.bd/,515,0,455
+1.71449E+12,519,HomePage-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,815,114,50,50,https://daraz.com.bd/,515,0,455
+1.71449E+12,68624,HomePage-1,200,OK,New Thread 1-12,text,TRUE,,1153532,118,50,50,https://www.daraz.com.bd/,637,0,546
+1.71449E+12,69239,HomePage,200,OK,New Thread 1-33,text,TRUE,,1154320,232,50,50,https://www.daraz.com.bd/,237,0,182
+1.71449E+12,237,HomePage-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,815,114,50,50,https://daraz.com.bd/,237,0,182
+1.71449E+12,69001,HomePage-1,200,OK,New Thread 1-33,text,TRUE,,1153505,118,50,50,https://www.daraz.com.bd/,828,0,426
+1.71449E+12,70127,HomePage,200,OK,New Thread 1-23,text,TRUE,,1154400,232,50,50,https://www.daraz.com.bd/,295,0,235
+1.71449E+12,299,HomePage-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,815,114,50,50,https://daraz.com.bd/,295,0,235
+1.71449E+12,69825,HomePage-1,200,OK,New Thread 1-23,text,TRUE,,1153585,118,50,50,https://www.daraz.com.bd/,9790,0,561
+1.71449E+12,70572,HomePage,200,OK,New Thread 1-25,text,TRUE,,1154383,232,50,50,https://www.daraz.com.bd/,253,0,193
+1.71449E+12,257,HomePage-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,815,114,50,50,https://daraz.com.bd/,253,0,193
+1.71449E+12,70313,HomePage-1,200,OK,New Thread 1-25,text,TRUE,,1153568,118,50,50,https://www.daraz.com.bd/,605,0,544
+1.71449E+12,71948,HomePage,200,OK,New Thread 1-27,text,TRUE,,1154340,232,50,50,https://www.daraz.com.bd/,224,0,169
+1.71449E+12,224,HomePage-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,815,114,50,50,https://daraz.com.bd/,224,0,169
+1.71449E+12,71724,HomePage-1,200,OK,New Thread 1-27,text,TRUE,,1153525,118,50,50,https://www.daraz.com.bd/,1080,0,559
+1.71449E+12,72288,HomePage,200,OK,New Thread 1-18,text,TRUE,,1154503,232,50,50,https://www.daraz.com.bd/,395,0,334
+1.71449E+12,398,HomePage-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,815,114,50,50,https://daraz.com.bd/,395,0,334
+1.71449E+12,71887,HomePage-1,200,OK,New Thread 1-18,text,TRUE,,1153688,118,50,50,https://www.daraz.com.bd/,1940,0,548
+1.71449E+12,77805,HomePage,200,OK,New Thread 1-4,text,TRUE,,1154390,232,50,50,https://www.daraz.com.bd/,670,0,610
+1.71449E+12,674,HomePage-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,815,114,50,50,https://daraz.com.bd/,670,0,610
+1.71449E+12,77128,HomePage-1,200,OK,New Thread 1-4,text,TRUE,,1153575,118,50,50,https://www.daraz.com.bd/,3028,0,553
+1.71449E+12,81387,HomePage,200,OK,New Thread 1-16,text,TRUE,,1154384,232,50,50,https://www.daraz.com.bd/,437,0,375
+1.71449E+12,439,HomePage-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,815,114,50,50,https://daraz.com.bd/,437,0,375
+1.71449E+12,80946,HomePage-1,200,OK,New Thread 1-16,text,TRUE,,1153569,118,50,50,https://www.daraz.com.bd/,1332,0,548
+1.71449E+12,81659,HomePage,200,OK,New Thread 1-10,text,TRUE,,1154384,232,50,50,https://www.daraz.com.bd/,556,0,497
+1.71449E+12,560,HomePage-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,815,114,50,50,https://daraz.com.bd/,556,0,497
+1.71449E+12,81097,HomePage-1,200,OK,New Thread 1-10,text,TRUE,,1153569,118,50,50,https://www.daraz.com.bd/,1506,0,544
+1.71449E+12,81970,HomePage,200,OK,New Thread 1-46,text,TRUE,,1154347,232,50,50,https://www.daraz.com.bd/,223,0,167
+1.71449E+12,223,HomePage-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,815,114,50,50,https://daraz.com.bd/,223,0,167
+1.71449E+12,81746,HomePage-1,200,OK,New Thread 1-46,text,TRUE,,1153532,118,50,50,https://www.daraz.com.bd/,2589,0,202
+1.71449E+12,84293,HomePage,200,OK,New Thread 1-45,text,TRUE,,1154357,232,50,50,https://www.daraz.com.bd/,233,0,177
+1.71449E+12,233,HomePage-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,815,114,50,50,https://daraz.com.bd/,233,0,177
+1.71449E+12,84059,HomePage-1,200,OK,New Thread 1-45,text,TRUE,,1153542,118,50,50,https://www.daraz.com.bd/,4905,0,206
+1.71449E+12,85653,HomePage,200,OK,New Thread 1-6,text,TRUE,,1154365,232,50,50,https://www.daraz.com.bd/,638,0,576
+1.71449E+12,640,HomePage-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,815,114,50,50,https://daraz.com.bd/,638,0,576
+1.71449E+12,85011,HomePage-1,200,OK,New Thread 1-6,text,TRUE,,1153550,118,50,50,https://www.daraz.com.bd/,617,0,545
+1.71449E+12,87605,HomePage,200,OK,New Thread 1-38,text,TRUE,,1154331,232,50,50,https://www.daraz.com.bd/,239,0,179
+1.71449E+12,239,HomePage-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,815,114,50,50,https://daraz.com.bd/,239,0,179
+1.71449E+12,87366,HomePage-1,200,OK,New Thread 1-38,text,TRUE,,1153516,118,50,50,https://www.daraz.com.bd/,2870,0,332
+1.71449E+12,87588,HomePage,200,OK,New Thread 1-48,text,TRUE,,1154347,232,50,50,https://www.daraz.com.bd/,242,0,187
+1.71449E+12,242,HomePage-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,815,114,50,50,https://daraz.com.bd/,242,0,187
+1.71449E+12,87346,HomePage-1,200,OK,New Thread 1-48,text,TRUE,,1153532,118,50,50,https://www.daraz.com.bd/,889,0,508
+1.71449E+12,88127,HomePage,200,OK,New Thread 1-22,text,TRUE,,1154374,232,50,50,https://www.daraz.com.bd/,315,0,255
+1.71449E+12,319,HomePage-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,815,114,50,50,https://daraz.com.bd/,315,0,255
+1.71449E+12,87805,HomePage-1,200,OK,New Thread 1-22,text,TRUE,,1153559,118,50,50,https://www.daraz.com.bd/,1938,0,548
+1.71449E+12,88929,HomePage,200,OK,New Thread 1-1,text,TRUE,,1154327,232,50,50,https://www.daraz.com.bd/,677,0,610
+1.71449E+12,677,HomePage-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,815,114,50,50,https://daraz.com.bd/,677,0,610
+1.71449E+12,88251,HomePage-1,200,OK,New Thread 1-1,text,TRUE,,1153512,118,50,50,https://www.daraz.com.bd/,2958,0,551
+1.71449E+12,88854,HomePage,200,OK,New Thread 1-41,text,TRUE,,1154364,232,50,50,https://www.daraz.com.bd/,224,0,167
+1.71449E+12,224,HomePage-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,815,114,50,50,https://daraz.com.bd/,224,0,167
+1.71449E+12,88629,HomePage-1,200,OK,New Thread 1-41,text,TRUE,,1153549,118,50,50,https://www.daraz.com.bd/,431,0,295
+1.71449E+12,89780,HomePage,200,OK,New Thread 1-21,text,TRUE,,1154359,232,50,50,https://www.daraz.com.bd/,335,0,275
+1.71449E+12,339,HomePage-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,815,114,50,50,https://daraz.com.bd/,335,0,275
+1.71449E+12,89438,HomePage-1,200,OK,New Thread 1-21,text,TRUE,,1153544,118,50,50,https://www.daraz.com.bd/,2994,0,554
+1.71449E+12,89711,HomePage,200,OK,New Thread 1-26,text,TRUE,,1154371,232,50,50,https://www.daraz.com.bd/,235,0,175
+1.71449E+12,239,HomePage-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,815,114,50,50,https://daraz.com.bd/,235,0,175
+1.71449E+12,89469,HomePage-1,200,OK,New Thread 1-26,text,TRUE,,1153556,118,50,50,https://www.daraz.com.bd/,952,0,555
+1.71449E+12,89920,HomePage,200,OK,New Thread 1-36,text,TRUE,,1154364,232,50,50,https://www.daraz.com.bd/,238,0,184
+1.71449E+12,238,HomePage-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,815,114,50,50,https://daraz.com.bd/,238,0,184
+1.71449E+12,89681,HomePage-1,200,OK,New Thread 1-36,text,TRUE,,1153549,118,50,50,https://www.daraz.com.bd/,899,0,365
+1.71449E+12,91887,HomePage,200,OK,New Thread 1-31,text,TRUE,,1154363,232,50,50,https://www.daraz.com.bd/,226,0,169
+1.71449E+12,226,HomePage-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,815,114,50,50,https://daraz.com.bd/,226,0,169
+1.71449E+12,91661,HomePage-1,200,OK,New Thread 1-31,text,TRUE,,1153548,118,50,50,https://www.daraz.com.bd/,639,0,502
+1.71449E+12,95205,HomePage,200,OK,New Thread 1-14,text,TRUE,,1154354,232,50,50,https://www.daraz.com.bd/,475,0,415
+1.71449E+12,479,HomePage-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,815,114,50,50,https://daraz.com.bd/,475,0,415
+1.71449E+12,94724,HomePage-1,200,OK,New Thread 1-14,text,TRUE,,1153539,118,50,50,https://www.daraz.com.bd/,1162,0,541
+1.71449E+12,95150,HomePage,200,OK,New Thread 1-40,text,TRUE,,1154324,232,50,50,https://www.daraz.com.bd/,222,0,167
+1.71449E+12,222,HomePage-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,815,114,50,50,https://daraz.com.bd/,222,0,167
+1.71449E+12,94928,HomePage-1,200,OK,New Thread 1-40,text,TRUE,,1153509,118,50,50,https://www.daraz.com.bd/,474,0,330
+1.71449E+12,95733,HomePage,200,OK,New Thread 1-35,text,TRUE,,1154383,232,50,50,https://www.daraz.com.bd/,221,0,166
+1.71449E+12,221,HomePage-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,815,114,50,50,https://daraz.com.bd/,221,0,166
+1.71449E+12,95511,HomePage-1,200,OK,New Thread 1-35,text,TRUE,,1153568,118,50,50,https://www.daraz.com.bd/,2900,0,404
+1.71449E+12,96019,HomePage,200,OK,New Thread 1-32,text,TRUE,,1154347,232,50,50,https://www.daraz.com.bd/,232,0,177
+1.71449E+12,232,HomePage-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,815,114,50,50,https://daraz.com.bd/,232,0,177
+1.71449E+12,95787,HomePage-1,200,OK,New Thread 1-32,text,TRUE,,1153532,118,50,50,https://www.daraz.com.bd/,1843,0,452
+1.71449E+12,95914,HomePage,200,OK,New Thread 1-47,text,TRUE,,1154358,232,50,50,https://www.daraz.com.bd/,226,0,170
+1.71449E+12,227,HomePage-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,815,114,50,50,https://daraz.com.bd/,226,0,170
+1.71449E+12,95687,HomePage-1,200,OK,New Thread 1-47,text,TRUE,,1153543,118,50,50,https://www.daraz.com.bd/,2623,0,180
+1.71449E+12,97991,HomePage,200,OK,New Thread 1-34,text,TRUE,,1154394,232,50,50,https://www.daraz.com.bd/,233,0,177
+1.71449E+12,233,HomePage-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,815,114,50,50,https://daraz.com.bd/,233,0,177
+1.71449E+12,97758,HomePage-1,200,OK,New Thread 1-34,text,TRUE,,1153579,118,50,50,https://www.daraz.com.bd/,2947,0,413
+1.71449E+12,99522,HomePage,200,OK,New Thread 1-5,text,TRUE,,1154387,232,50,50,https://www.daraz.com.bd/,655,0,595
+1.71449E+12,659,HomePage-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,815,114,50,50,https://daraz.com.bd/,655,0,595
+1.71449E+12,98861,HomePage-1,200,OK,New Thread 1-5,text,TRUE,,1153572,118,50,50,https://www.daraz.com.bd/,1573,0,541
+1.71449E+12,104074,HomePage,200,OK,New Thread 1-20,text,TRUE,,1154325,232,50,50,https://www.daraz.com.bd/,356,0,296
+1.71449E+12,360,HomePage-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,815,114,50,50,https://daraz.com.bd/,356,0,296
+1.71449E+12,103712,HomePage-1,200,OK,New Thread 1-20,text,TRUE,,1153510,118,50,50,https://www.daraz.com.bd/,1913,0,548
+1.71449E+12,104433,HomePage,200,OK,New Thread 1-37,text,TRUE,,1154339,232,50,50,https://www.daraz.com.bd/,224,0,169
+1.71449E+12,224,HomePage-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,815,114,50,50,https://daraz.com.bd/,224,0,169
+1.71449E+12,104209,HomePage-1,200,OK,New Thread 1-37,text,TRUE,,1153524,118,50,50,https://www.daraz.com.bd/,9806,0,366
+1.71449E+12,105655,HomePage,200,OK,New Thread 1-7,text,TRUE,,1154368,232,50,50,https://www.daraz.com.bd/,613,0,553
+1.71449E+12,617,HomePage-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,815,114,50,50,https://daraz.com.bd/,613,0,553
+1.71449E+12,105036,HomePage-1,200,OK,New Thread 1-7,text,TRUE,,1153553,118,50,50,https://www.daraz.com.bd/,657,0,548
+1.71449E+12,108955,HomePage,200,OK,New Thread 1-13,text,TRUE,,1154388,232,50,50,https://www.daraz.com.bd/,497,0,437
+1.71449E+12,501,HomePage-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,815,114,50,50,https://daraz.com.bd/,497,0,437
+1.71449E+12,108452,HomePage-1,200,OK,New Thread 1-13,text,TRUE,,1153573,118,50,50,https://www.daraz.com.bd/,677,0,544
+1.71449E+12,109470,HomePage,200,OK,New Thread 1-11,text,TRUE,,1154381,232,50,50,https://www.daraz.com.bd/,536,0,476
+1.71449E+12,540,HomePage-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,815,114,50,50,https://daraz.com.bd/,536,0,476
+1.71449E+12,108927,HomePage-1,200,OK,New Thread 1-11,text,TRUE,,1153566,118,50,50,https://www.daraz.com.bd/,1345,0,549
+1.71449E+12,108834,HomePage,200,OK,New Thread 1-44,text,TRUE,,1154391,232,50,50,https://www.daraz.com.bd/,230,0,176
+1.71449E+12,230,HomePage-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,815,114,50,50,https://daraz.com.bd/,230,0,176
+1.71449E+12,108603,HomePage-1,200,OK,New Thread 1-44,text,TRUE,,1153576,118,50,50,https://www.daraz.com.bd/,1634,0,218
+1.71449E+12,110243,HomePage,200,OK,New Thread 1-8,text,TRUE,,1154375,232,50,50,https://www.daraz.com.bd/,593,0,533
+1.71449E+12,597,HomePage-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,815,114,50,50,https://daraz.com.bd/,593,0,533
+1.71449E+12,109644,HomePage-1,200,OK,New Thread 1-8,text,TRUE,,1153560,118,50,50,https://www.daraz.com.bd/,1067,0,545
+1.71449E+12,113602,HomePage,200,OK,New Thread 1-39,text,TRUE,,1154387,232,50,50,https://www.daraz.com.bd/,237,0,178
+1.71449E+12,237,HomePage-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,815,114,50,50,https://daraz.com.bd/,237,0,178
+1.71449E+12,113364,HomePage-1,200,OK,New Thread 1-39,text,TRUE,,1153572,118,50,50,https://www.daraz.com.bd/,1168,0,318
+1.71449E+12,115987,HomePage,200,OK,New Thread 1-2,text,TRUE,,1154388,232,50,50,https://www.daraz.com.bd/,670,0,610
+1.71449E+12,674,HomePage-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,815,114,50,50,https://daraz.com.bd/,670,0,610
+1.71449E+12,115310,HomePage-1,200,OK,New Thread 1-2,text,TRUE,,1153573,118,50,50,https://www.daraz.com.bd/,3016,0,548
+1.71449E+12,122170,HomePage,200,OK,New Thread 1-24,text,TRUE,,1154377,232,50,50,https://www.daraz.com.bd/,277,0,217
+1.71449E+12,281,HomePage-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,815,114,50,50,https://daraz.com.bd/,277,0,217
+1.71449E+12,121887,HomePage-1,200,OK,New Thread 1-24,text,TRUE,,1153562,118,50,50,https://www.daraz.com.bd/,605,0,545
+1.71449E+12,64630,Cart,200,OK,New Thread 1-3,text,TRUE,,1155914,363,50,50,https://www.daraz.com.bd/cart/,853,0,724
+1.71449E+12,853,Cart-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,853,0,724
+1.71449E+12,406,Cart-1,301,Moved Permanently,New Thread 1-3,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,406,0,258
+1.71449E+12,63370,Cart-2,200,OK,New Thread 1-3,text,TRUE,,1154710,123,50,50,https://www.daraz.com.bd/cart/,136,0,0
+1.71449E+12,62319,Cart,200,OK,New Thread 1-33,text,TRUE,,1154752,363,50,50,https://www.daraz.com.bd/cart/,871,0,737
+1.71449E+12,871,Cart-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,871,0,737
+1.71449E+12,1411,Cart-1,301,Moved Permanently,New Thread 1-33,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1411,0,1270
+1.71449E+12,60035,Cart-2,200,OK,New Thread 1-33,text,TRUE,,1153548,123,50,50,https://www.daraz.com.bd/cart/,158,0,0
+1.71449E+12,63881,Cart,200,OK,New Thread 1-23,text,TRUE,,1154753,363,50,50,https://www.daraz.com.bd/cart/,2061,0,1935
+1.71449E+12,2061,Cart-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,2061,0,1935
+1.71449E+12,405,Cart-1,301,Moved Permanently,New Thread 1-23,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,405,0,260
+1.71449E+12,61415,Cart-2,200,OK,New Thread 1-23,text,TRUE,,1153549,123,50,50,https://www.daraz.com.bd/cart/,656,0,0
+1.71449E+12,133481,HomePage,200,OK,New Thread 1-50,text,TRUE,,1154343,232,50,50,https://www.daraz.com.bd/,220,0,165
+1.71449E+12,220,HomePage-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,815,114,50,50,https://daraz.com.bd/,220,0,165
+1.71449E+12,133261,HomePage-1,200,OK,New Thread 1-50,text,TRUE,,1153528,118,50,50,https://www.daraz.com.bd/,9370,0,498
+1.71449E+12,74771,Cart,200,OK,New Thread 1-28,text,TRUE,,1155922,363,50,50,https://www.daraz.com.bd/cart/,1862,0,1728
+1.71449E+12,1862,Cart-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1862,0,1728
+1.71449E+12,3222,Cart-1,301,Moved Permanently,New Thread 1-28,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,3222,0,3073
+1.71449E+12,69686,Cart-2,200,OK,New Thread 1-28,text,TRUE,,1154718,123,50,50,https://www.daraz.com.bd/cart/,163,0,0
+1.71449E+12,75028,Cart,200,OK,New Thread 1-25,text,TRUE,,1155905,363,50,50,https://www.daraz.com.bd/cart/,417,0,273
+1.71449E+12,417,Cart-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,417,0,273
+1.71449E+12,422,Cart-1,301,Moved Permanently,New Thread 1-25,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,422,0,277
+1.71449E+12,74189,Cart-2,200,OK,New Thread 1-25,text,TRUE,,1154701,123,50,50,https://www.daraz.com.bd/cart/,142,0,0
+1.71449E+12,146854,HomePage,200,OK,New Thread 1-15,text,TRUE,,1154332,232,50,50,https://www.daraz.com.bd/,455,0,395
+1.71449E+12,459,HomePage-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,815,114,50,50,https://daraz.com.bd/,455,0,395
+1.71449E+12,146392,HomePage-1,200,OK,New Thread 1-15,text,TRUE,,1153517,118,50,50,https://www.daraz.com.bd/,1351,0,551
+1.71449E+12,76247,Cart,200,OK,New Thread 1-27,text,TRUE,,1154738,363,50,50,https://www.daraz.com.bd/cart/,401,0,266
+1.71449E+12,401,Cart-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,401,0,266
+1.71449E+12,398,Cart-1,301,Moved Permanently,New Thread 1-27,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,398,0,260
+1.71449E+12,75447,Cart-2,200,OK,New Thread 1-27,text,TRUE,,1153534,123,50,50,https://www.daraz.com.bd/cart/,146,0,0
+1.71449E+12,82465,Cart,200,OK,New Thread 1-12,text,TRUE,,1154728,363,50,50,https://www.daraz.com.bd/cart/,413,0,279
+1.71449E+12,413,Cart-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,413,0,279
+1.71449E+12,439,Cart-1,301,Moved Permanently,New Thread 1-12,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,439,0,273
+1.71449E+12,81612,Cart-2,200,OK,New Thread 1-12,text,TRUE,,1153524,123,50,50,https://www.daraz.com.bd/cart/,419,0,0
+1.71449E+12,70589,Cart,200,OK,New Thread 1-46,text,TRUE,,1154755,363,50,50,https://www.daraz.com.bd/cart/,803,0,666
+1.71449E+12,803,Cart-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,803,0,666
+1.71449E+12,1406,Cart-1,301,Moved Permanently,New Thread 1-46,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1406,0,1267
+1.71449E+12,68379,Cart-2,200,OK,New Thread 1-46,text,TRUE,,1153551,123,50,50,https://www.daraz.com.bd/cart/,153,0,0
+1.71449E+12,89154,Cart,200,OK,New Thread 1-43,text,TRUE,,1155895,363,50,50,https://www.daraz.com.bd/cart/,781,0,260
+1.71449E+12,782,Cart-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,781,0,260
+1.71449E+12,405,Cart-1,301,Moved Permanently,New Thread 1-43,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,405,0,262
+1.71449E+12,87966,Cart-2,200,OK,New Thread 1-43,text,TRUE,,1154691,123,50,50,https://www.daraz.com.bd/cart/,359,0,0
+1.71449E+12,24131,Products,200,OK,New Thread 1-23,text,TRUE,,412850,375,50,50,https://www.daraz.com.bd/products/,1212,0,1083
+1.71449E+12,1212,Products-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,1212,0,1083
+1.71449E+12,423,Products-1,301,Moved Permanently,New Thread 1-23,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,423,0,272
+1.71449E+12,22496,Products-2,200,OK,New Thread 1-23,text,TRUE,,411638,127,50,50,https://www.daraz.com.bd/products/,291,0,0
+1.71449E+12,67343,Cart,200,OK,New Thread 1-31,text,TRUE,,1154881,363,50,50,https://www.daraz.com.bd/cart/,414,0,277
+1.71449E+12,414,Cart-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,414,0,277
+1.71449E+12,401,Cart-1,301,Moved Permanently,New Thread 1-31,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,401,0,260
+1.71449E+12,66527,Cart-2,200,OK,New Thread 1-31,text,TRUE,,1153677,123,50,50,https://www.daraz.com.bd/cart/,142,0,0
+1.71449E+12,159206,HomePage,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 896,212; actual size: 508,470)",New Thread 1-49,text,FALSE,,2611,114,50,50,https://www.daraz.com.bd/,240,0,178
+1.71449E+12,240,HomePage-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,815,114,50,50,https://daraz.com.bd/,240,0,178
+1.71449E+12,158966,HomePage-1,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 896,212; actual size: 508,470)",New Thread 1-49,text,FALSE,,1796,0,50,50,https://www.daraz.com.bd/,643,0,507
+1.71449E+12,79646,Cart,200,OK,New Thread 1-16,text,TRUE,,1154768,363,50,50,https://www.daraz.com.bd/cart/,412,0,279
+1.71449E+12,412,Cart-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,412,0,279
+1.71449E+12,423,Cart-1,301,Moved Permanently,New Thread 1-16,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,423,0,276
+1.71449E+12,78810,Cart-2,200,OK,New Thread 1-16,text,TRUE,,1153564,123,50,50,https://www.daraz.com.bd/cart/,145,0,0
+1.71449E+12,29405,Products,200,OK,New Thread 1-33,text,TRUE,,412889,375,50,50,https://www.daraz.com.bd/products/,796,0,647
+1.71449E+12,796,Products-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,796,0,647
+1.71449E+12,2471,Products-1,301,Moved Permanently,New Thread 1-33,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,2471,0,1926
+1.71449E+12,26138,Products-2,200,OK,New Thread 1-33,text,TRUE,,411677,127,50,50,https://www.daraz.com.bd/products/,259,0,0
+1.71449E+12,84876,Cart,200,OK,New Thread 1-4,text,TRUE,,1154736,363,50,50,https://www.daraz.com.bd/cart/,400,0,263
+1.71449E+12,400,Cart-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,400,0,263
+1.71449E+12,801,Cart-1,301,Moved Permanently,New Thread 1-4,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,801,0,260
+1.71449E+12,83675,Cart-2,200,OK,New Thread 1-4,text,TRUE,,1153532,123,50,50,https://www.daraz.com.bd/cart/,661,0,0
+1.71449E+12,162055,HomePage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-42,text,FALSE,,4656,114,50,50,https://www.daraz.com.bd/,219,0,163
+1.71449E+12,219,HomePage-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,815,114,50,50,https://daraz.com.bd/,219,0,163
+1.71449E+12,161835,HomePage-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-42,text,FALSE,,3841,0,50,50,https://www.daraz.com.bd/,0,0,280
+1.71449E+12,163534,HomePage,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 937,270; actual size: 738,504)",New Thread 1-17,text,FALSE,,2611,114,50,50,https://www.daraz.com.bd/,416,0,356
+1.71449E+12,420,HomePage-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,815,114,50,50,https://daraz.com.bd/,416,0,356
+1.71449E+12,163112,HomePage-1,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 937,270; actual size: 738,504)",New Thread 1-17,text,FALSE,,1796,0,50,50,https://www.daraz.com.bd/,1957,0,545
+1.71449E+12,165039,HomePage,200,OK,New Thread 1-29,text,TRUE,,1154362,232,50,50,https://www.daraz.com.bd/,238,0,181
+1.71449E+12,238,HomePage-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,815,114,50,50,https://daraz.com.bd/,238,0,181
+1.71449E+12,164801,HomePage-1,200,OK,New Thread 1-29,text,TRUE,,1153547,118,50,50,https://www.daraz.com.bd/,35744,0,506
+1.71449E+12,69041,Cart,200,OK,New Thread 1-47,text,TRUE,,1154737,363,50,50,https://www.daraz.com.bd/cart/,392,0,263
+1.71449E+12,392,Cart-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,392,0,263
+1.71449E+12,492,Cart-1,301,Moved Permanently,New Thread 1-47,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,492,0,340
+1.71449E+12,68156,Cart-2,200,OK,New Thread 1-47,text,TRUE,,1153533,123,50,50,https://www.daraz.com.bd/cart/,707,0,0
+1.71449E+12,77922,Cart,200,OK,New Thread 1-38,text,TRUE,,1154730,363,50,50,https://www.daraz.com.bd/cart/,799,0,664
+1.71449E+12,799,Cart-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,799,0,664
+1.71449E+12,442,Cart-1,301,Moved Permanently,New Thread 1-38,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,442,0,290
+1.71449E+12,76681,Cart-2,200,OK,New Thread 1-38,text,TRUE,,1153526,123,50,50,https://www.daraz.com.bd/cart/,135,0,0
+1.71449E+12,94298,Cart,200,OK,New Thread 1-18,text,TRUE,,1154761,363,50,50,https://www.daraz.com.bd/cart/,398,0,260
+1.71449E+12,398,Cart-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,398,0,260
+1.71449E+12,2713,Cart-1,301,Moved Permanently,New Thread 1-18,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,2713,0,742
+1.71449E+12,91187,Cart-2,200,OK,New Thread 1-18,text,TRUE,,1153557,123,50,50,https://www.daraz.com.bd/cart/,2048,0,0
+1.71449E+12,74790,Cart,200,OK,New Thread 1-14,text,TRUE,,1154787,363,50,50,https://www.daraz.com.bd/cart/,642,0,506
+1.71449E+12,642,Cart-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,642,0,506
+1.71449E+12,1608,Cart-1,301,Moved Permanently,New Thread 1-14,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1608,0,1453
+1.71449E+12,72540,Cart-2,200,OK,New Thread 1-14,text,TRUE,,1153583,123,50,50,https://www.daraz.com.bd/cart/,159,0,0
+1.71449E+12,80293,Cart,200,OK,New Thread 1-21,text,TRUE,,1154722,363,50,50,https://www.daraz.com.bd/cart/,398,0,258
+1.71449E+12,399,Cart-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,398,0,258
+1.71449E+12,400,Cart-1,301,Moved Permanently,New Thread 1-21,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,400,0,265
+1.71449E+12,79494,Cart-2,200,OK,New Thread 1-21,text,TRUE,,1153518,123,50,50,https://www.daraz.com.bd/cart/,140,0,0
+1.71449E+12,74745,Cart,200,OK,New Thread 1-40,text,TRUE,,1155899,363,50,50,https://www.daraz.com.bd/cart/,1808,0,1276
+1.71449E+12,1808,Cart-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1808,0,1276
+1.71449E+12,425,Cart-1,301,Moved Permanently,New Thread 1-40,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,425,0,292
+1.71449E+12,72512,Cart-2,200,OK,New Thread 1-40,text,TRUE,,1154695,123,50,50,https://www.daraz.com.bd/cart/,154,0,0
+1.71449E+12,85885,Cart,200,OK,New Thread 1-45,text,TRUE,,1154722,363,50,50,https://www.daraz.com.bd/cart/,398,0,265
+1.71449E+12,399,Cart-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,398,0,265
+1.71449E+12,414,Cart-1,301,Moved Permanently,New Thread 1-45,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,414,0,278
+1.71449E+12,85072,Cart-2,200,OK,New Thread 1-45,text,TRUE,,1153518,123,50,50,https://www.daraz.com.bd/cart/,1997,0,0
+1.71449E+12,16909,Products,200,OK,New Thread 1-43,text,TRUE,,412938,375,50,50,https://www.daraz.com.bd/products/,446,0,299
+1.71449E+12,446,Products-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,446,0,299
+1.71449E+12,428,Products-1,301,Moved Permanently,New Thread 1-43,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,428,0,276
+1.71449E+12,16035,Products-2,200,OK,New Thread 1-43,text,TRUE,,411726,127,50,50,https://www.daraz.com.bd/products/,268,0,0
+1.71449E+12,82926,Cart,200,OK,New Thread 1-48,text,TRUE,,1154881,363,50,50,https://www.daraz.com.bd/cart/,802,0,657
+1.71449E+12,802,Cart-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,802,0,657
+1.71449E+12,830,Cart-1,301,Moved Permanently,New Thread 1-48,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,830,0,271
+1.71449E+12,81294,Cart-2,200,OK,New Thread 1-48,text,TRUE,,1153677,123,50,50,https://www.daraz.com.bd/cart/,152,0,0
+1.71449E+12,25728,Products,200,OK,New Thread 1-25,text,TRUE,,412876,375,50,50,https://www.daraz.com.bd/products/,413,0,275
+1.71449E+12,413,Products-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,413,0,275
+1.71449E+12,440,Products-1,301,Moved Permanently,New Thread 1-25,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,440,0,287
+1.71449E+12,24875,Products-2,200,OK,New Thread 1-25,text,TRUE,,411664,127,50,50,https://www.daraz.com.bd/products/,276,0,0
+1.71449E+12,62540,Cart,200,OK,New Thread 1-44,text,TRUE,,1154707,363,50,50,https://www.daraz.com.bd/cart/,437,0,292
+1.71449E+12,437,Cart-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,437,0,292
+1.71449E+12,417,Cart-1,301,Moved Permanently,New Thread 1-44,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,417,0,292
+1.71449E+12,61685,Cart-2,200,OK,New Thread 1-44,text,TRUE,,1153503,123,50,50,https://www.daraz.com.bd/cart/,315,0,0
+1.71449E+12,62584,Cart,200,OK,New Thread 1-8,text,TRUE,,1154746,363,50,50,https://www.daraz.com.bd/cart/,1189,0,1049
+1.71449E+12,1189,Cart-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1189,0,1049
+1.71449E+12,406,Cart-1,301,Moved Permanently,New Thread 1-8,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,406,0,259
+1.71449E+12,60988,Cart-2,200,OK,New Thread 1-8,text,TRUE,,1153542,123,50,50,https://www.daraz.com.bd/cart/,472,0,0
+1.71449E+12,36315,Products,200,OK,New Thread 1-28,text,TRUE,,412914,375,50,50,https://www.daraz.com.bd/products/,416,0,273
+1.71449E+12,416,Products-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,416,0,273
+1.71449E+12,411,Products-1,301,Moved Permanently,New Thread 1-28,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,411,0,269
+1.71449E+12,35487,Products-2,200,OK,New Thread 1-28,text,TRUE,,411702,127,50,50,https://www.daraz.com.bd/products/,250,0,0
+1.71449E+12,86179,Cart,200,OK,New Thread 1-36,text,TRUE,,1154706,363,50,50,https://www.daraz.com.bd/cart/,790,0,262
+1.71449E+12,790,Cart-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,790,0,262
+1.71449E+12,1423,Cart-1,301,Moved Permanently,New Thread 1-36,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1423,0,1288
+1.71449E+12,83966,Cart-2,200,OK,New Thread 1-36,text,TRUE,,1153502,123,50,50,https://www.daraz.com.bd/cart/,144,0,0
+1.71449E+12,87842,Cart,200,OK,New Thread 1-41,text,TRUE,,1154707,363,50,50,https://www.daraz.com.bd/cart/,400,0,269
+1.71449E+12,400,Cart-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,400,0,269
+1.71449E+12,395,Cart-1,301,Moved Permanently,New Thread 1-41,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,395,0,258
+1.71449E+12,87047,Cart-2,200,OK,New Thread 1-41,text,TRUE,,1153503,123,50,50,https://www.daraz.com.bd/cart/,442,0,0
+1.71449E+12,45481,Products,200,OK,New Thread 1-3,text,TRUE,,412856,375,50,50,https://www.daraz.com.bd/products/,874,0,729
+1.71449E+12,874,Products-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,874,0,729
+1.71449E+12,2865,Products-1,301,Moved Permanently,New Thread 1-3,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,2865,0,1929
+1.71449E+12,41741,Products-2,200,OK,New Thread 1-3,text,TRUE,,411644,127,50,50,https://www.daraz.com.bd/products/,268,0,0
+1.71449E+12,94277,Cart,200,OK,New Thread 1-6,text,TRUE,,1154729,363,50,50,https://www.daraz.com.bd/cart/,747,0,612
+1.71449E+12,747,Cart-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,747,0,612
+1.71449E+12,4430,Cart-1,301,Moved Permanently,New Thread 1-6,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,4430,0,3822
+1.71449E+12,89099,Cart-2,200,OK,New Thread 1-6,text,TRUE,,1153525,123,50,50,https://www.daraz.com.bd/cart/,122,0,0
+1.71449E+12,22377,Products,200,OK,New Thread 1-31,text,TRUE,,412876,375,50,50,https://www.daraz.com.bd/products/,2400,0,2270
+1.71449E+12,2400,Products-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,2400,0,2270
+1.71449E+12,401,Products-1,301,Moved Permanently,New Thread 1-31,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,401,0,260
+1.71449E+12,19576,Products-2,200,OK,New Thread 1-31,text,TRUE,,411664,127,50,50,https://www.daraz.com.bd/products/,1231,0,0
+1.71449E+12,76440,Cart,200,OK,New Thread 1-7,text,TRUE,,1154843,363,50,50,https://www.daraz.com.bd/cart/,434,0,285
+1.71449E+12,434,Cart-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,434,0,285
+1.71449E+12,424,Cart-1,301,Moved Permanently,New Thread 1-7,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,424,0,277
+1.71449E+12,75580,Cart-2,200,OK,New Thread 1-7,text,TRUE,,1153639,123,50,50,https://www.daraz.com.bd/cart/,329,0,0
+1.71449E+12,22512,Products,200,OK,New Thread 1-16,text,TRUE,,412873,375,50,50,https://www.daraz.com.bd/products/,397,0,266
+1.71449E+12,397,Products-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,397,0,266
+1.71449E+12,385,Products-1,301,Moved Permanently,New Thread 1-16,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,385,0,253
+1.71449E+12,21730,Products-2,200,OK,New Thread 1-16,text,TRUE,,411661,127,50,50,https://www.daraz.com.bd/products/,248,0,0
+1.71449E+12,21691,Products,200,OK,New Thread 1-4,text,TRUE,,412890,375,50,50,https://www.daraz.com.bd/products/,819,0,683
+1.71449E+12,819,Products-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,819,0,683
+1.71449E+12,844,Products-1,301,Moved Permanently,New Thread 1-4,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,844,0,705
+1.71449E+12,20026,Products-2,200,OK,New Thread 1-4,text,TRUE,,411678,127,50,50,https://www.daraz.com.bd/products/,689,0,0
+1.71449E+12,95958,Cart,200,OK,New Thread 1-1,text,TRUE,,1154721,363,50,50,https://www.daraz.com.bd/cart/,425,0,276
+1.71449E+12,425,Cart-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,425,0,276
+1.71449E+12,405,Cart-1,301,Moved Permanently,New Thread 1-1,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,405,0,262
+1.71449E+12,95128,Cart-2,200,OK,New Thread 1-1,text,TRUE,,1153517,123,50,50,https://www.daraz.com.bd/cart/,139,0,0
+1.71449E+12,31531,Products,200,OK,New Thread 1-46,text,TRUE,,412865,375,50,50,https://www.daraz.com.bd/products/,407,0,272
+1.71449E+12,407,Products-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,407,0,272
+1.71449E+12,909,Products-1,301,Moved Permanently,New Thread 1-46,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,909,0,756
+1.71449E+12,30215,Products-2,200,OK,New Thread 1-46,text,TRUE,,411653,127,50,50,https://www.daraz.com.bd/products/,535,0,0
+1.71449E+12,37195,Products,200,OK,New Thread 1-27,text,TRUE,,412866,375,50,50,https://www.daraz.com.bd/products/,419,0,280
+1.71449E+12,419,Products-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,419,0,280
+1.71449E+12,427,Products-1,301,Moved Permanently,New Thread 1-27,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,427,0,286
+1.71449E+12,36348,Products-2,200,OK,New Thread 1-27,text,TRUE,,411654,127,50,50,https://www.daraz.com.bd/products/,228,0,0
+1.71449E+12,186982,HomePage,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 985,919; actual size: 787,183)",New Thread 1-9,text,FALSE,,2611,114,50,50,https://www.daraz.com.bd/,575,0,515
+1.71449E+12,579,HomePage-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,815,114,50,50,https://daraz.com.bd/,575,0,515
+1.71449E+12,186400,HomePage-1,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 985,919; actual size: 787,183)",New Thread 1-9,text,FALSE,,1796,0,50,50,https://www.daraz.com.bd/,5133,0,552
+1.71449E+12,22835,Products,200,OK,New Thread 1-47,text,TRUE,,412881,375,50,50,https://www.daraz.com.bd/products/,410,0,275
+1.71449E+12,410,Products-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,410,0,275
+1.71449E+12,904,Products-1,301,Moved Permanently,New Thread 1-47,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,904,0,775
+1.71449E+12,21521,Products-2,200,OK,New Thread 1-47,text,TRUE,,411669,127,50,50,https://www.daraz.com.bd/products/,796,0,0
+1.71449E+12,95896,Cart,200,OK,New Thread 1-35,text,TRUE,,1155887,363,50,50,https://www.daraz.com.bd/cart/,396,0,263
+1.71449E+12,396,Cart-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,396,0,263
+1.71449E+12,1310,Cart-1,301,Moved Permanently,New Thread 1-35,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1310,0,754
+1.71449E+12,94190,Cart-2,200,OK,New Thread 1-35,text,TRUE,,1154683,123,50,50,https://www.daraz.com.bd/cart/,146,0,0
+1.71449E+12,26767,Products,200,OK,New Thread 1-38,text,TRUE,,412868,375,50,50,https://www.daraz.com.bd/products/,416,0,286
+1.71449E+12,416,Products-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,416,0,286
+1.71449E+12,872,Products-1,301,Moved Permanently,New Thread 1-38,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,872,0,286
+1.71449E+12,25478,Products-2,200,OK,New Thread 1-38,text,TRUE,,411656,127,50,50,https://www.daraz.com.bd/products/,254,0,0
+1.71449E+12,112875,Cart,200,OK,New Thread 1-10,text,TRUE,,1155914,363,50,50,https://www.daraz.com.bd/cart/,411,0,268
+1.71449E+12,411,Cart-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,411,0,268
+1.71449E+12,1262,Cart-1,301,Moved Permanently,New Thread 1-10,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1262,0,705
+1.71449E+12,111202,Cart-2,200,OK,New Thread 1-10,text,TRUE,,1154710,123,50,50,https://www.daraz.com.bd/cart/,145,0,0
+1.71449E+12,104863,Cart,200,OK,New Thread 1-26,text,TRUE,,1154738,363,50,50,https://www.daraz.com.bd/cart/,396,0,264
+1.71449E+12,396,Cart-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,396,0,264
+1.71449E+12,777,Cart-1,301,Moved Permanently,New Thread 1-26,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,777,0,260
+1.71449E+12,103690,Cart-2,200,OK,New Thread 1-26,text,TRUE,,1153534,123,50,50,https://www.daraz.com.bd/cart/,140,0,0
+1.71449E+12,25331,Products,200,OK,New Thread 1-21,text,TRUE,,412867,375,50,50,https://www.daraz.com.bd/products/,851,0,710
+1.71449E+12,851,Products-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,851,0,710
+1.71449E+12,1156,Products-1,301,Moved Permanently,New Thread 1-21,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,1156,0,260
+1.71449E+12,23322,Products-2,200,OK,New Thread 1-21,text,TRUE,,411655,127,50,50,https://www.daraz.com.bd/products/,260,0,0
+1.71449E+12,19074,Products,200,OK,New Thread 1-36,text,TRUE,,412883,375,50,50,https://www.daraz.com.bd/products/,412,0,272
+1.71449E+12,412,Products-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,412,0,272
+1.71449E+12,1467,Products-1,301,Moved Permanently,New Thread 1-36,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,1467,0,1325
+1.71449E+12,17195,Products-2,200,OK,New Thread 1-36,text,TRUE,,411671,127,50,50,https://www.daraz.com.bd/products/,268,0,0
+1.71449E+12,23983,Products,200,OK,New Thread 1-8,text,TRUE,,412884,375,50,50,https://www.daraz.com.bd/products/,886,0,739
+1.71449E+12,886,Products-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,886,0,739
+1.71449E+12,401,Products-1,301,Moved Permanently,New Thread 1-8,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,401,0,260
+1.71449E+12,22696,Products-2,200,OK,New Thread 1-8,text,TRUE,,411672,127,50,50,https://www.daraz.com.bd/products/,260,0,0
+1.71449E+12,19513,Products,200,OK,New Thread 1-41,text,TRUE,,412874,375,50,50,https://www.daraz.com.bd/products/,750,0,254
+1.71449E+12,750,Products-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,750,0,254
+1.71449E+12,860,Products-1,301,Moved Permanently,New Thread 1-41,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,860,0,709
+1.71449E+12,17903,Products-2,200,OK,New Thread 1-41,text,TRUE,,411662,127,50,50,https://www.daraz.com.bd/products/,247,0,0
+1.71449E+12,97606,Cart,200,OK,New Thread 1-5,text,TRUE,,1154707,363,50,50,https://www.daraz.com.bd/cart/,945,0,797
+1.71449E+12,945,Cart-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,945,0,797
+1.71449E+12,2450,Cart-1,301,Moved Permanently,New Thread 1-5,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,2450,0,2303
+1.71449E+12,94211,Cart-2,200,OK,New Thread 1-5,text,TRUE,,1153503,123,50,50,https://www.daraz.com.bd/cart/,150,0,0
+1.71449E+12,26916,Products,200,OK,New Thread 1-40,text,TRUE,,412990,375,50,50,https://www.daraz.com.bd/products/,395,0,265
+1.71449E+12,395,Products-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,395,0,265
+1.71449E+12,398,Products-1,301,Moved Permanently,New Thread 1-40,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,398,0,272
+1.71449E+12,26123,Products-2,200,OK,New Thread 1-40,text,TRUE,,411778,127,50,50,https://www.daraz.com.bd/products/,240,0,0
+1.71449E+12,45827,Products,200,OK,New Thread 1-12,text,TRUE,,412881,375,50,50,https://www.daraz.com.bd/products/,827,0,682
+1.71449E+12,827,Products-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,827,0,682
+1.71449E+12,3164,Products-1,301,Moved Permanently,New Thread 1-12,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,3164,0,2530
+1.71449E+12,41836,Products-2,200,OK,New Thread 1-12,text,TRUE,,411669,127,50,50,https://www.daraz.com.bd/products/,280,0,0
+1.71449E+12,88509,Cart,200,OK,New Thread 1-13,text,TRUE,,1154770,363,50,50,https://www.daraz.com.bd/cart/,435,0,292
+1.71449E+12,435,Cart-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,435,0,292
+1.71449E+12,438,Cart-1,301,Moved Permanently,New Thread 1-13,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,438,0,291
+1.71449E+12,87635,Cart-2,200,OK,New Thread 1-13,text,TRUE,,1153566,123,50,50,https://www.daraz.com.bd/cart/,160,0,0
+1.71449E+12,26160,Mens-Clothing,200,OK,New Thread 1-25,text,TRUE,,555524,390,50,50,https://www.daraz.com.bd/mens-clothing/,133,0,0
+1.71449E+12,133,Mens-Clothing-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,133,0,0
+1.71449E+12,138,Mens-Clothing-1,301,Moved Permanently,New Thread 1-25,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,138,0,0
+1.71449E+12,25888,Mens-Clothing-2,200,OK,New Thread 1-25,text,TRUE,,554302,132,50,50,https://www.daraz.com.bd/mens-clothing/,780,0,0
+1.71449E+12,29832,Products,200,OK,New Thread 1-44,text,TRUE,,412873,375,50,50,https://www.daraz.com.bd/products/,857,0,717
+1.71449E+12,857,Products-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,857,0,717
+1.71449E+12,396,Products-1,301,Moved Permanently,New Thread 1-44,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,396,0,263
+1.71449E+12,28579,Products-2,200,OK,New Thread 1-44,text,TRUE,,411661,127,50,50,https://www.daraz.com.bd/products/,247,0,0
+1.71449E+12,40941,Mens-Clothing,200,OK,New Thread 1-33,text,TRUE,,555772,390,50,50,https://www.daraz.com.bd/mens-clothing/,558,0,0
+1.71449E+12,558,Mens-Clothing-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,558,0,0
+1.71449E+12,144,Mens-Clothing-1,301,Moved Permanently,New Thread 1-33,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,144,0,0
+1.71449E+12,40238,Mens-Clothing-2,200,OK,New Thread 1-33,text,TRUE,,554550,132,50,50,https://www.daraz.com.bd/mens-clothing/,692,0,0
+1.71449E+12,25712,Mens-Clothing,200,OK,New Thread 1-3,text,TRUE,,427860,390,50,50,https://www.daraz.com.bd/mens-clothing/,767,0,260
+1.71449E+12,767,Mens-Clothing-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,767,0,260
+1.71449E+12,140,Mens-Clothing-1,301,Moved Permanently,New Thread 1-3,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,140,0,0
+1.71449E+12,24805,Mens-Clothing-2,200,OK,New Thread 1-3,text,TRUE,,426638,132,50,50,https://www.daraz.com.bd/mens-clothing/,1438,0,0
+1.71449E+12,32645,Products,200,OK,New Thread 1-48,text,TRUE,,412868,375,50,50,https://www.daraz.com.bd/products/,869,0,734
+1.71449E+12,869,Products-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,869,0,734
+1.71449E+12,395,Products-1,301,Moved Permanently,New Thread 1-48,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,395,0,257
+1.71449E+12,31379,Products-2,200,OK,New Thread 1-48,text,TRUE,,411656,127,50,50,https://www.daraz.com.bd/products/,259,0,0
+1.71449E+12,47504,Mens-Clothing,200,OK,New Thread 1-23,text,TRUE,,555525,390,50,50,https://www.daraz.com.bd/mens-clothing/,134,0,0
+1.71449E+12,134,Mens-Clothing-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,134,0,0
+1.71449E+12,149,Mens-Clothing-1,301,Moved Permanently,New Thread 1-23,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,149,0,0
+1.71449E+12,47220,Mens-Clothing-2,200,OK,New Thread 1-23,text,TRUE,,554303,132,50,50,https://www.daraz.com.bd/mens-clothing/,708,0,0
+1.71449E+12,35493,Mens-Clothing,200,OK,New Thread 1-43,text,TRUE,,555756,390,50,50,https://www.daraz.com.bd/mens-clothing/,123,0,0
+1.71449E+12,123,Mens-Clothing-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,123,0,0
+1.71449E+12,482,Mens-Clothing-1,301,Moved Permanently,New Thread 1-43,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,482,0,0
+1.71449E+12,34888,Mens-Clothing-2,200,OK,New Thread 1-43,text,TRUE,,554534,132,50,50,https://www.daraz.com.bd/mens-clothing/,669,0,0
+1.71449E+12,120178,Cart,200,OK,New Thread 1-22,text,TRUE,,1154737,363,50,50,https://www.daraz.com.bd/cart/,1402,0,1265
+1.71449E+12,1402,Cart-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1402,0,1265
+1.71449E+12,802,Cart-1,301,Moved Permanently,New Thread 1-22,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,802,0,266
+1.71449E+12,117974,Cart-2,200,OK,New Thread 1-22,text,TRUE,,1153533,123,50,50,https://www.daraz.com.bd/cart/,162,0,0
+1.71449E+12,105296,Cart,200,OK,New Thread 1-20,text,TRUE,,1154721,363,50,50,https://www.daraz.com.bd/cart/,912,0,761
+1.71449E+12,912,Cart-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,912,0,761
+1.71449E+12,1427,Cart-1,301,Moved Permanently,New Thread 1-20,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,1427,0,1287
+1.71449E+12,102957,Cart-2,200,OK,New Thread 1-20,text,TRUE,,1153517,123,50,50,https://www.daraz.com.bd/cart/,462,0,0
+1.71449E+12,97026,Cart,200,OK,New Thread 1-39,text,TRUE,,1154721,363,50,50,https://www.daraz.com.bd/cart/,422,0,278
+1.71449E+12,422,Cart-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,422,0,278
+1.71449E+12,441,Cart-1,301,Moved Permanently,New Thread 1-39,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,441,0,287
+1.71449E+12,96162,Cart-2,200,OK,New Thread 1-39,text,TRUE,,1153517,123,50,50,https://www.daraz.com.bd/cart/,134,0,0
+1.71449E+12,28774,Mens-Clothing,200,OK,New Thread 1-4,text,TRUE,,555547,390,50,50,https://www.daraz.com.bd/mens-clothing/,526,0,0
+1.71449E+12,526,Mens-Clothing-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,526,0,0
+1.71449E+12,489,Mens-Clothing-1,301,Moved Permanently,New Thread 1-4,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,489,0,0
+1.71449E+12,27759,Mens-Clothing-2,200,OK,New Thread 1-4,text,TRUE,,554325,132,50,50,https://www.daraz.com.bd/mens-clothing/,706,0,0
+1.71449E+12,118831,Cart,200,OK,New Thread 1-32,text,TRUE,,1154745,363,50,50,https://www.daraz.com.bd/cart/,817,0,671
+1.71449E+12,817,Cart-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,817,0,671
+1.71449E+12,876,Cart-1,301,Moved Permanently,New Thread 1-32,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,876,0,293
+1.71449E+12,117136,Cart-2,200,OK,New Thread 1-32,text,TRUE,,1153541,123,50,50,https://www.daraz.com.bd/cart/,733,0,0
+1.71449E+12,30680,Products,200,OK,New Thread 1-1,text,TRUE,,412875,375,50,50,https://www.daraz.com.bd/products/,862,0,729
+1.71449E+12,862,Products-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,862,0,729
+1.71449E+12,796,Products-1,301,Moved Permanently,New Thread 1-1,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,796,0,260
+1.71449E+12,29021,Products-2,200,OK,New Thread 1-1,text,TRUE,,411663,127,50,50,https://www.daraz.com.bd/products/,251,0,0
+1.71449E+12,41471,Mens-Clothing,200,OK,New Thread 1-28,text,TRUE,,555755,390,50,50,https://www.daraz.com.bd/mens-clothing/,129,0,0
+1.71449E+12,129,Mens-Clothing-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,129,0,0
+1.71449E+12,140,Mens-Clothing-1,301,Moved Permanently,New Thread 1-28,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,140,0,0
+1.71449E+12,41202,Mens-Clothing-2,200,OK,New Thread 1-28,text,TRUE,,554533,132,50,50,https://www.daraz.com.bd/mens-clothing/,653,0,0
+1.71449E+12,33862,Mens-Clothing,200,OK,New Thread 1-31,text,TRUE,,555548,390,50,50,https://www.daraz.com.bd/mens-clothing/,130,0,0
+1.71449E+12,130,Mens-Clothing-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,130,0,0
+1.71449E+12,148,Mens-Clothing-1,301,Moved Permanently,New Thread 1-31,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,148,0,0
+1.71449E+12,33583,Mens-Clothing-2,200,OK,New Thread 1-31,text,TRUE,,554326,132,50,50,https://www.daraz.com.bd/mens-clothing/,695,0,0
+1.71449E+12,33633,Mens-Clothing,200,OK,New Thread 1-16,text,TRUE,,555700,390,50,50,https://www.daraz.com.bd/mens-clothing/,120,0,0
+1.71449E+12,120,Mens-Clothing-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,120,0,0
+1.71449E+12,154,Mens-Clothing-1,301,Moved Permanently,New Thread 1-16,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,154,0,0
+1.71449E+12,33359,Mens-Clothing-2,200,OK,New Thread 1-16,text,TRUE,,554478,132,50,50,https://www.daraz.com.bd/mens-clothing/,1571,0,0
+1.71449E+12,110561,Cart,200,OK,New Thread 1-11,text,TRUE,,1155921,363,50,50,https://www.daraz.com.bd/cart/,437,0,290
+1.71449E+12,437,Cart-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,437,0,290
+1.71449E+12,841,Cart-1,301,Moved Permanently,New Thread 1-11,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,841,0,287
+1.71449E+12,109283,Cart-2,200,OK,New Thread 1-11,text,TRUE,,1154717,123,50,50,https://www.daraz.com.bd/cart/,1057,0,0
+1.71449E+12,73112,Cart,200,OK,New Thread 1-15,text,TRUE,,1154756,363,50,50,https://www.daraz.com.bd/cart/,1423,0,1285
+1.71449E+12,1424,Cart-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1423,0,1285
+1.71449E+12,885,Cart-1,301,Moved Permanently,New Thread 1-15,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,885,0,739
+1.71449E+12,70803,Cart-2,200,OK,New Thread 1-15,text,TRUE,,1153552,123,50,50,https://www.daraz.com.bd/cart/,230,0,0
+1.71449E+12,61731,Cart,200,OK,New Thread 1-49,text,TRUE,,1154745,363,50,50,https://www.daraz.com.bd/cart/,1167,0,1029
+1.71449E+12,1167,Cart-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1167,0,1029
+1.71449E+12,396,Cart-1,301,Moved Permanently,New Thread 1-49,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,396,0,264
+1.71449E+12,60168,Cart-2,200,OK,New Thread 1-49,text,TRUE,,1153541,123,50,50,https://www.daraz.com.bd/cart/,136,0,0
+1.71449E+12,36911,Mens-Clothing,200,OK,New Thread 1-46,text,TRUE,,555549,390,50,50,https://www.daraz.com.bd/mens-clothing/,138,0,0
+1.71449E+12,138,Mens-Clothing-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,138,0,0
+1.71449E+12,130,Mens-Clothing-1,301,Moved Permanently,New Thread 1-46,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,130,0,0
+1.71449E+12,36643,Mens-Clothing-2,200,OK,New Thread 1-46,text,TRUE,,554327,132,50,50,https://www.daraz.com.bd/mens-clothing/,762,0,0
+1.71449E+12,27139,Products,200,OK,New Thread 1-26,text,TRUE,,412892,375,50,50,https://www.daraz.com.bd/products/,402,0,265
+1.71449E+12,402,Products-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,402,0,265
+1.71449E+12,2537,Products-1,301,Moved Permanently,New Thread 1-26,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,2537,0,2401
+1.71449E+12,24200,Products-2,200,OK,New Thread 1-26,text,TRUE,,411680,127,50,50,https://www.daraz.com.bd/products/,1967,0,0
+1.71449E+12,106807,Cart,200,OK,New Thread 1-2,text,TRUE,,1154737,363,50,50,https://www.daraz.com.bd/cart/,415,0,267
+1.71449E+12,415,Cart-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,415,0,267
+1.71449E+12,428,Cart-1,301,Moved Permanently,New Thread 1-2,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,428,0,283
+1.71449E+12,105963,Cart-2,200,OK,New Thread 1-2,text,TRUE,,1153533,123,50,50,https://www.daraz.com.bd/cart/,143,0,0
+1.71449E+12,37019,Mens-Clothing,200,OK,New Thread 1-27,text,TRUE,,555530,390,50,50,https://www.daraz.com.bd/mens-clothing/,127,0,0
+1.71449E+12,127,Mens-Clothing-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,127,0,0
+1.71449E+12,133,Mens-Clothing-1,301,Moved Permanently,New Thread 1-27,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,133,0,0
+1.71449E+12,36758,Mens-Clothing-2,200,OK,New Thread 1-27,text,TRUE,,554308,132,50,50,https://www.daraz.com.bd/mens-clothing/,719,0,0
+1.71449E+12,26876,Products,200,OK,New Thread 1-5,text,TRUE,,412844,375,50,50,https://www.daraz.com.bd/products/,398,0,269
+1.71449E+12,398,Products-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,398,0,269
+1.71449E+12,403,Products-1,301,Moved Permanently,New Thread 1-5,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,403,0,261
+1.71449E+12,26074,Products-2,200,OK,New Thread 1-5,text,TRUE,,411632,127,50,50,https://www.daraz.com.bd/products/,264,0,0
+1.71449E+12,44168,Products,200,OK,New Thread 1-6,text,TRUE,,412922,375,50,50,https://www.daraz.com.bd/products/,2037,0,1586
+1.71449E+12,2037,Products-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,2037,0,1586
+1.71449E+12,416,Products-1,301,Moved Permanently,New Thread 1-6,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,416,0,263
+1.71449E+12,41714,Products-2,200,OK,New Thread 1-6,text,TRUE,,411710,127,50,50,https://www.daraz.com.bd/products/,251,0,0
+1.71449E+12,787,Mens-Clothing,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.daraz.com.bd:443 failed to respond,New Thread 1-6,text,FALSE,,3422,127,50,50,https://www.daraz.com.bd/mens-clothing,787,0,257
+1.71449E+12,787,Mens-Clothing-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,787,0,257
+1.71449E+12,0,Mens-Clothing-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.daraz.com.bd:443 failed to respond,New Thread 1-6,text,FALSE,,2594,0,50,50,https://www.daraz.com.bd/mens-clothing,0,0,0
+1.71449E+12,33587,Products,200,OK,New Thread 1-35,text,TRUE,,412858,375,50,50,https://www.daraz.com.bd/products/,401,0,266
+1.71449E+12,401,Products-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,401,0,266
+1.71449E+12,802,Products-1,301,Moved Permanently,New Thread 1-35,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,802,0,265
+1.71449E+12,32384,Products-2,200,OK,New Thread 1-35,text,TRUE,,411646,127,50,50,https://www.daraz.com.bd/products/,252,0,0
+1.71449E+12,30940,Mens-Clothing,200,OK,New Thread 1-21,text,TRUE,,555533,390,50,50,https://www.daraz.com.bd/mens-clothing/,135,0,0
+1.71449E+12,135,Mens-Clothing-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,135,0,0
+1.71449E+12,129,Mens-Clothing-1,301,Moved Permanently,New Thread 1-21,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,129,0,0
+1.71449E+12,30675,Mens-Clothing-2,200,OK,New Thread 1-21,text,TRUE,,554311,132,50,50,https://www.daraz.com.bd/mens-clothing/,768,0,0
+1.71449E+12,38258,Mens-Clothing,200,OK,New Thread 1-47,text,TRUE,,555555,390,50,50,https://www.daraz.com.bd/mens-clothing/,131,0,0
+1.71449E+12,131,Mens-Clothing-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,131,0,0
+1.71449E+12,136,Mens-Clothing-1,301,Moved Permanently,New Thread 1-47,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,136,0,0
+1.71449E+12,37991,Mens-Clothing-2,200,OK,New Thread 1-47,text,TRUE,,554333,132,50,50,https://www.daraz.com.bd/mens-clothing/,1238,0,0
+1.71449E+12,31427,Mens-Clothing,200,OK,New Thread 1-36,text,TRUE,,555525,390,50,50,https://www.daraz.com.bd/mens-clothing/,135,0,0
+1.71449E+12,135,Mens-Clothing-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,135,0,0
+1.71449E+12,144,Mens-Clothing-1,301,Moved Permanently,New Thread 1-36,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,144,0,0
+1.71449E+12,31148,Mens-Clothing-2,200,OK,New Thread 1-36,text,TRUE,,554303,132,50,50,https://www.daraz.com.bd/mens-clothing/,1593,0,0
+1.71449E+12,227757,HomePage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-30,text,FALSE,,3734,114,50,50,https://www.daraz.com.bd/,225,0,170
+1.71449E+12,225,HomePage-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,815,114,50,50,https://daraz.com.bd/,225,0,170
+1.71449E+12,227532,HomePage-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-30,text,FALSE,,2919,0,50,50,https://www.daraz.com.bd/,1302,0,500
+1.71449E+12,30839,Skincare Beauty,200,OK,New Thread 1-25,text,TRUE,,525941,396,50,50,https://www.daraz.com.bd/skincare-beauty/,126,0,0
+1.71449E+12,126,Skincare Beauty-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,126,0,0
+1.71449E+12,138,Skincare Beauty-1,301,Moved Permanently,New Thread 1-25,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,138,0,0
+1.71449E+12,30575,Skincare Beauty-2,200,OK,New Thread 1-25,text,TRUE,,524715,134,50,50,https://www.daraz.com.bd/skincare-beauty/,526,0,0
+1.71449E+12,33983,Mens-Clothing,200,OK,New Thread 1-41,text,TRUE,,555540,390,50,50,https://www.daraz.com.bd/mens-clothing/,129,0,0
+1.71449E+12,129,Mens-Clothing-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,129,0,0
+1.71449E+12,151,Mens-Clothing-1,301,Moved Permanently,New Thread 1-41,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,151,0,0
+1.71449E+12,33701,Mens-Clothing-2,200,OK,New Thread 1-41,text,TRUE,,554318,132,50,50,https://www.daraz.com.bd/mens-clothing/,1634,0,0
+1.71449E+12,34591,Mens-Clothing,200,OK,New Thread 1-40,text,TRUE,,427962,390,50,50,https://www.daraz.com.bd/mens-clothing/,142,0,0
+1.71449E+12,142,Mens-Clothing-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,142,0,0
+1.71449E+12,480,Mens-Clothing-1,301,Moved Permanently,New Thread 1-40,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,480,0,0
+1.71449E+12,33968,Mens-Clothing-2,200,OK,New Thread 1-40,text,TRUE,,426740,132,50,50,https://www.daraz.com.bd/mens-clothing/,496,0,0
+1.71449E+12,22568,Products,200,OK,New Thread 1-20,text,TRUE,,412882,375,50,50,https://www.daraz.com.bd/products/,884,0,752
+1.71449E+12,884,Products-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,884,0,752
+1.71449E+12,2115,Products-1,301,Moved Permanently,New Thread 1-20,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,2115,0,272
+1.71449E+12,19568,Products-2,200,OK,New Thread 1-20,text,TRUE,,411670,127,50,50,https://www.daraz.com.bd/products/,232,0,0
+1.71449E+12,35899,Mens-Clothing,200,OK,New Thread 1-8,text,TRUE,,555556,390,50,50,https://www.daraz.com.bd/mens-clothing/,136,0,0
+1.71449E+12,136,Mens-Clothing-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,136,0,0
+1.71449E+12,124,Mens-Clothing-1,301,Moved Permanently,New Thread 1-8,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,124,0,0
+1.71449E+12,35639,Mens-Clothing-2,200,OK,New Thread 1-8,text,TRUE,,554334,132,50,50,https://www.daraz.com.bd/mens-clothing/,550,0,0
+1.71449E+12,41301,Mens-Clothing,200,OK,New Thread 1-38,text,TRUE,,555716,390,50,50,https://www.daraz.com.bd/mens-clothing/,134,0,0
+1.71449E+12,134,Mens-Clothing-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,134,0,0
+1.71449E+12,147,Mens-Clothing-1,301,Moved Permanently,New Thread 1-38,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,147,0,0
+1.71449E+12,41020,Mens-Clothing-2,200,OK,New Thread 1-38,text,TRUE,,554494,132,50,50,https://www.daraz.com.bd/mens-clothing/,1141,0,0
+1.71449E+12,103247,Cart,200,OK,New Thread 1-50,text,TRUE,,1154762,363,50,50,https://www.daraz.com.bd/cart/,803,0,654
+1.71449E+12,803,Cart-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,803,0,654
+1.71449E+12,2783,Cart-1,301,Moved Permanently,New Thread 1-50,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,2783,0,2642
+1.71449E+12,99661,Cart-2,200,OK,New Thread 1-50,text,TRUE,,1153558,123,50,50,https://www.daraz.com.bd/cart/,650,0,0
+1.71449E+12,72502,Products,200,OK,New Thread 1-18,text,TRUE,,412868,375,50,50,https://www.daraz.com.bd/products/,393,0,261
+1.71449E+12,393,Products-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,393,0,261
+1.71449E+12,422,Products-1,301,Moved Permanently,New Thread 1-18,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,422,0,284
+1.71449E+12,71687,Products-2,200,OK,New Thread 1-18,text,TRUE,,411656,127,50,50,https://www.daraz.com.bd/products/,264,0,0
+1.71449E+12,36064,Mens-Clothing,200,OK,New Thread 1-48,text,TRUE,,555573,390,50,50,https://www.daraz.com.bd/mens-clothing/,137,0,0
+1.71449E+12,137,Mens-Clothing-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,137,0,0
+1.71449E+12,141,Mens-Clothing-1,301,Moved Permanently,New Thread 1-48,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,141,0,0
+1.71449E+12,35786,Mens-Clothing-2,200,OK,New Thread 1-48,text,TRUE,,554351,132,50,50,https://www.daraz.com.bd/mens-clothing/,1286,0,0
+1.71449E+12,59348,Products,200,OK,New Thread 1-7,text,TRUE,,412883,375,50,50,https://www.daraz.com.bd/products/,400,0,267
+1.71449E+12,400,Products-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,400,0,267
+1.71449E+12,6107,Products-1,301,Moved Permanently,New Thread 1-7,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,6107,0,768
+1.71449E+12,52841,Products-2,200,OK,New Thread 1-7,text,TRUE,,411671,127,50,50,https://www.daraz.com.bd/products/,18949,0,0
+1.71449E+12,70948,Products,200,OK,New Thread 1-45,text,TRUE,,412891,375,50,50,https://www.daraz.com.bd/products/,1904,0,1756
+1.71449E+12,1904,Products-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,1904,0,1756
+1.71449E+12,2155,Products-1,301,Moved Permanently,New Thread 1-45,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,2155,0,2017
+1.71449E+12,66889,Products-2,200,OK,New Thread 1-45,text,TRUE,,411679,127,50,50,https://www.daraz.com.bd/products/,253,0,0
+1.71449E+12,36230,Skincare Beauty,200,OK,New Thread 1-43,text,TRUE,,562443,396,50,50,https://www.daraz.com.bd/skincare-beauty/,548,0,0
+1.71449E+12,548,Skincare Beauty-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,548,0,0
+1.71449E+12,474,Skincare Beauty-1,301,Moved Permanently,New Thread 1-43,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,474,0,0
+1.71449E+12,35207,Skincare Beauty-2,200,OK,New Thread 1-43,text,TRUE,,561217,134,50,50,https://www.daraz.com.bd/skincare-beauty/,968,0,0
+1.71449E+12,40314,Skincare Beauty,200,OK,New Thread 1-3,text,TRUE,,526078,396,50,50,https://www.daraz.com.bd/skincare-beauty/,1310,0,0
+1.71449E+12,1311,Skincare Beauty-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,1310,0,0
+1.71449E+12,413,Skincare Beauty-1,301,Moved Permanently,New Thread 1-3,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,413,0,251
+1.71449E+12,38590,Skincare Beauty-2,200,OK,New Thread 1-3,text,TRUE,,524852,134,50,50,https://www.daraz.com.bd/skincare-beauty/,564,0,0
+1.71449E+12,46158,Products,200,OK,New Thread 1-13,text,TRUE,,412922,375,50,50,https://www.daraz.com.bd/products/,9158,0,9022
+1.71449E+12,9158,Products-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,9158,0,9022
+1.71449E+12,759,Products-1,301,Moved Permanently,New Thread 1-13,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,759,0,255
+1.71449E+12,36241,Products-2,200,OK,New Thread 1-13,text,TRUE,,411710,127,50,50,https://www.daraz.com.bd/products/,236,0,0
+1.71449E+12,23070,Products,200,OK,New Thread 1-49,text,TRUE,,412889,375,50,50,https://www.daraz.com.bd/products/,387,0,253
+1.71449E+12,387,Products-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,387,0,253
+1.71449E+12,413,Products-1,301,Moved Permanently,New Thread 1-49,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,413,0,266
+1.71449E+12,22270,Products-2,200,OK,New Thread 1-49,text,TRUE,,411677,127,50,50,https://www.daraz.com.bd/products/,240,0,0
+1.71449E+12,39562,Skincare Beauty,200,OK,New Thread 1-23,text,TRUE,,526046,396,50,50,https://www.daraz.com.bd/skincare-beauty/,392,0,264
+1.71449E+12,392,Skincare Beauty-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,392,0,264
+1.71449E+12,395,Skincare Beauty-1,301,Moved Permanently,New Thread 1-23,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,395,0,261
+1.71449E+12,38775,Skincare Beauty-2,200,OK,New Thread 1-23,text,TRUE,,524820,134,50,50,https://www.daraz.com.bd/skincare-beauty/,530,0,0
+1.71449E+12,80967,Cart,200,OK,New Thread 1-29,text,TRUE,,1154730,363,50,50,https://www.daraz.com.bd/cart/,1422,0,1283
+1.71449E+12,1422,Cart-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,1422,0,1283
+1.71449E+12,402,Cart-1,301,Moved Permanently,New Thread 1-29,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,402,0,260
+1.71449E+12,79143,Cart-2,200,OK,New Thread 1-29,text,TRUE,,1153526,123,50,50,https://www.daraz.com.bd/cart/,152,0,0
+1.71449E+12,29308,Skincare Beauty,200,OK,New Thread 1-16,text,TRUE,,525933,396,50,50,https://www.daraz.com.bd/skincare-beauty/,144,0,0
+1.71449E+12,144,Skincare Beauty-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,144,0,0
+1.71449E+12,156,Skincare Beauty-1,301,Moved Permanently,New Thread 1-16,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,156,0,0
+1.71449E+12,29008,Skincare Beauty-2,200,OK,New Thread 1-16,text,TRUE,,524707,134,50,50,https://www.daraz.com.bd/skincare-beauty/,503,0,0
+1.71449E+12,36606,Products,200,OK,New Thread 1-39,text,TRUE,,412940,375,50,50,https://www.daraz.com.bd/products/,2459,0,2331
+1.71449E+12,2459,Products-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,2459,0,2331
+1.71449E+12,394,Products-1,301,Moved Permanently,New Thread 1-39,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,394,0,261
+1.71449E+12,33753,Products-2,200,OK,New Thread 1-39,text,TRUE,,411728,127,50,50,https://www.daraz.com.bd/products/,254,0,0
+1.71449E+12,33422,Products,200,OK,New Thread 1-32,text,TRUE,,412922,375,50,50,https://www.daraz.com.bd/products/,399,0,269
+1.71449E+12,399,Products-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,399,0,269
+1.71449E+12,783,Products-1,301,Moved Permanently,New Thread 1-32,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,783,0,259
+1.71449E+12,32240,Products-2,200,OK,New Thread 1-32,text,TRUE,,411710,127,50,50,https://www.daraz.com.bd/products/,761,0,0
+1.71449E+12,85117,Cart,200,OK,New Thread 1-17,text,TRUE,,1155890,363,50,50,https://www.daraz.com.bd/cart/,857,0,726
+1.71449E+12,857,Cart-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,857,0,726
+1.71449E+12,2588,Cart-1,301,Moved Permanently,New Thread 1-17,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,2588,0,2458
+1.71449E+12,81671,Cart-2,200,OK,New Thread 1-17,text,TRUE,,1154686,123,50,50,https://www.daraz.com.bd/cart/,459,0,0
+1.71449E+12,51359,Mens-Clothing,200,OK,New Thread 1-12,text,TRUE,,555714,390,50,50,https://www.daraz.com.bd/mens-clothing/,836,0,703
+1.71449E+12,836,Mens-Clothing-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,836,0,703
+1.71449E+12,140,Mens-Clothing-1,301,Moved Permanently,New Thread 1-12,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,140,0,0
+1.71449E+12,50383,Mens-Clothing-2,200,OK,New Thread 1-12,text,TRUE,,554492,132,50,50,https://www.daraz.com.bd/mens-clothing/,591,0,0
+1.71449E+12,55626,Products,200,OK,New Thread 1-10,text,TRUE,,412908,375,50,50,https://www.daraz.com.bd/products/,598,0,456
+1.71449E+12,598,Products-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,598,0,456
+1.71449E+12,4348,Products-1,301,Moved Permanently,New Thread 1-10,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,4348,0,2565
+1.71449E+12,50680,Products-2,200,OK,New Thread 1-10,text,TRUE,,411696,127,50,50,https://www.daraz.com.bd/products/,1595,0,0
+1.71449E+12,31206,Products,200,OK,New Thread 1-11,text,TRUE,,412836,375,50,50,https://www.daraz.com.bd/products/,405,0,269
+1.71449E+12,405,Products-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,405,0,269
+1.71449E+12,844,Products-1,301,Moved Permanently,New Thread 1-11,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,844,0,707
+1.71449E+12,29957,Products-2,200,OK,New Thread 1-11,text,TRUE,,411624,127,50,50,https://www.daraz.com.bd/products/,429,0,0
+1.71449E+12,49717,Mens-Clothing,200,OK,New Thread 1-44,text,TRUE,,555533,390,50,50,https://www.daraz.com.bd/mens-clothing/,145,0,0
+1.71449E+12,145,Mens-Clothing-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,145,0,0
+1.71449E+12,134,Mens-Clothing-1,301,Moved Permanently,New Thread 1-44,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,134,0,0
+1.71449E+12,49438,Mens-Clothing-2,200,OK,New Thread 1-44,text,TRUE,,554311,132,50,50,https://www.daraz.com.bd/mens-clothing/,748,0,0
+1.71449E+12,23247,mens-shoes,200,OK,New Thread 1-25,text,TRUE,,410968,381,50,50,https://www.daraz.com.bd/mens-shoes/,796,0,262
+1.71449E+12,796,mens-shoes-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,796,0,262
+1.71449E+12,1437,mens-shoes-1,301,Moved Permanently,New Thread 1-25,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,1437,0,1277
+1.71449E+12,21014,mens-shoes-2,200,OK,New Thread 1-25,text,TRUE,,409752,129,50,50,https://www.daraz.com.bd/mens-shoes/,494,0,0
+1.71449E+12,38897,Skincare Beauty,200,OK,New Thread 1-4,text,TRUE,,525932,396,50,50,https://www.daraz.com.bd/skincare-beauty/,134,0,0
+1.71449E+12,134,Skincare Beauty-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,134,0,0
+1.71449E+12,134,Skincare Beauty-1,301,Moved Permanently,New Thread 1-4,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,134,0,0
+1.71449E+12,38629,Skincare Beauty-2,200,OK,New Thread 1-4,text,TRUE,,524706,134,50,50,https://www.daraz.com.bd/skincare-beauty/,540,0,0
+1.71449E+12,29556,Products,200,OK,New Thread 1-2,text,TRUE,,412953,375,50,50,https://www.daraz.com.bd/products/,881,0,749
+1.71449E+12,881,Products-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,881,0,749
+1.71449E+12,400,Products-1,301,Moved Permanently,New Thread 1-2,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,400,0,264
+1.71449E+12,28275,Products-2,200,OK,New Thread 1-2,text,TRUE,,411741,127,50,50,https://www.daraz.com.bd/products/,238,0,0
+1.71449E+12,89748,Cart,200,OK,New Thread 1-42,text,TRUE,,1154778,363,50,50,https://www.daraz.com.bd/cart/,696,0,560
+1.71449E+12,696,Cart-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,696,0,560
+1.71449E+12,3014,Cart-1,301,Moved Permanently,New Thread 1-42,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,3014,0,697
+1.71449E+12,86038,Cart-2,200,OK,New Thread 1-42,text,TRUE,,1153574,123,50,50,https://www.daraz.com.bd/cart/,145,0,0
+1.71449E+12,38386,Skincare Beauty,200,OK,New Thread 1-31,text,TRUE,,525949,396,50,50,https://www.daraz.com.bd/skincare-beauty/,129,0,0
+1.71449E+12,129,Skincare Beauty-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,129,0,0
+1.71449E+12,140,Skincare Beauty-1,301,Moved Permanently,New Thread 1-31,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,140,0,0
+1.71449E+12,38117,Skincare Beauty-2,200,OK,New Thread 1-31,text,TRUE,,524723,134,50,50,https://www.daraz.com.bd/skincare-beauty/,483,0,0
+1.71449E+12,27843,Skincare Beauty,200,OK,New Thread 1-36,text,TRUE,,525917,396,50,50,https://www.daraz.com.bd/skincare-beauty/,130,0,0
+1.71449E+12,130,Skincare Beauty-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,130,0,0
+1.71449E+12,142,Skincare Beauty-1,301,Moved Permanently,New Thread 1-36,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,142,0,0
+1.71449E+12,27571,Skincare Beauty-2,200,OK,New Thread 1-36,text,TRUE,,524691,134,50,50,https://www.daraz.com.bd/skincare-beauty/,484,0,0
+1.71449E+12,68554,Cart,200,OK,New Thread 1-9,text,TRUE,,1154823,363,50,50,https://www.daraz.com.bd/cart/,870,0,735
+1.71449E+12,870,Cart-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,819,118,50,50,https://daraz.com.bd/cart,870,0,735
+1.71449E+12,409,Cart-1,301,Moved Permanently,New Thread 1-9,,TRUE,,385,122,50,50,https://www.daraz.com.bd/cart,409,0,270
+1.71449E+12,67275,Cart-2,200,OK,New Thread 1-9,text,TRUE,,1153619,123,50,50,https://www.daraz.com.bd/cart/,458,0,0
+1.71449E+12,26113,Skincare Beauty,200,OK,New Thread 1-40,text,TRUE,,525957,396,50,50,https://www.daraz.com.bd/skincare-beauty/,826,0,275
+1.71449E+12,826,Skincare Beauty-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,826,0,275
+1.71449E+12,438,Skincare Beauty-1,301,Moved Permanently,New Thread 1-40,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,438,0,263
+1.71449E+12,24849,Skincare Beauty-2,200,OK,New Thread 1-40,text,TRUE,,524731,134,50,50,https://www.daraz.com.bd/skincare-beauty/,493,0,0
+1.71449E+12,36391,Skincare Beauty,200,OK,New Thread 1-27,text,TRUE,,562411,396,50,50,https://www.daraz.com.bd/skincare-beauty/,405,0,269
+1.71449E+12,405,Skincare Beauty-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,405,0,269
+1.71449E+12,408,Skincare Beauty-1,301,Moved Permanently,New Thread 1-27,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,408,0,267
+1.71449E+12,35577,Skincare Beauty-2,200,OK,New Thread 1-27,text,TRUE,,561185,134,50,50,https://www.daraz.com.bd/skincare-beauty/,458,0,0
+1.71449E+12,37369,Mens-Clothing,200,OK,New Thread 1-26,text,TRUE,,555549,390,50,50,https://www.daraz.com.bd/mens-clothing/,129,0,0
+1.71449E+12,129,Mens-Clothing-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,129,0,0
+1.71449E+12,140,Mens-Clothing-1,301,Moved Permanently,New Thread 1-26,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,140,0,0
+1.71449E+12,37100,Mens-Clothing-2,200,OK,New Thread 1-26,text,TRUE,,554327,132,50,50,https://www.daraz.com.bd/mens-clothing/,671,0,0
+1.71449E+12,90595,Products,200,OK,New Thread 1-14,text,TRUE,,412874,375,50,50,https://www.daraz.com.bd/products/,836,0,708
+1.71449E+12,836,Products-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,836,0,708
+1.71449E+12,392,Products-1,301,Moved Permanently,New Thread 1-14,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,392,0,266
+1.71449E+12,89367,Products-2,200,OK,New Thread 1-14,text,TRUE,,411662,127,50,50,https://www.daraz.com.bd/products/,255,0,0
+1.71449E+12,34317,Skincare Beauty,200,OK,New Thread 1-21,text,TRUE,,525941,396,50,50,https://www.daraz.com.bd/skincare-beauty/,129,0,0
+1.71449E+12,129,Skincare Beauty-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,129,0,0
+1.71449E+12,135,Skincare Beauty-1,301,Moved Permanently,New Thread 1-21,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,135,0,0
+1.71449E+12,34052,Skincare Beauty-2,200,OK,New Thread 1-21,text,TRUE,,524715,134,50,50,https://www.daraz.com.bd/skincare-beauty/,534,0,0
+1.71449E+12,46281,Mens-Clothing,200,OK,New Thread 1-1,text,TRUE,,555532,390,50,50,https://www.daraz.com.bd/mens-clothing/,953,0,0
+1.71449E+12,953,Mens-Clothing-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,953,0,0
+1.71449E+12,134,Mens-Clothing-1,301,Moved Permanently,New Thread 1-1,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,134,0,0
+1.71449E+12,45194,Mens-Clothing-2,200,OK,New Thread 1-1,text,TRUE,,554310,132,50,50,https://www.daraz.com.bd/mens-clothing/,1309,0,0
+1.71449E+12,46346,Skincare Beauty,200,OK,New Thread 1-28,text,TRUE,,562459,396,50,50,https://www.daraz.com.bd/skincare-beauty/,395,0,263
+1.71449E+12,395,Skincare Beauty-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,395,0,263
+1.71449E+12,395,Skincare Beauty-1,301,Moved Permanently,New Thread 1-28,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,395,0,261
+1.71449E+12,45556,Skincare Beauty-2,200,OK,New Thread 1-28,text,TRUE,,561233,134,50,50,https://www.daraz.com.bd/skincare-beauty/,457,0,0
+1.71449E+12,33155,Skincare Beauty,200,OK,New Thread 1-41,text,TRUE,,562403,396,50,50,https://www.daraz.com.bd/skincare-beauty/,140,0,0
+1.71449E+12,140,Skincare Beauty-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,140,0,0
+1.71449E+12,125,Skincare Beauty-1,301,Moved Permanently,New Thread 1-41,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,125,0,0
+1.71449E+12,32890,Skincare Beauty-2,200,OK,New Thread 1-41,text,TRUE,,561177,134,50,50,https://www.daraz.com.bd/skincare-beauty/,961,0,0
+1.71449E+12,40306,Mens-Clothing,200,OK,New Thread 1-5,text,TRUE,,555509,390,50,50,https://www.daraz.com.bd/mens-clothing/,545,0,0
+1.71449E+12,545,Mens-Clothing-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,545,0,0
+1.71449E+12,145,Mens-Clothing-1,301,Moved Permanently,New Thread 1-5,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,145,0,0
+1.71449E+12,39616,Mens-Clothing-2,200,OK,New Thread 1-5,text,TRUE,,554287,132,50,50,https://www.daraz.com.bd/mens-clothing/,770,0,0
+1.71449E+12,28303,Products,200,OK,New Thread 1-50,text,TRUE,,412939,375,50,50,https://www.daraz.com.bd/products/,394,0,258
+1.71449E+12,394,Products-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,394,0,258
+1.71449E+12,400,Products-1,301,Moved Permanently,New Thread 1-50,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,400,0,260
+1.71449E+12,27507,Products-2,200,OK,New Thread 1-50,text,TRUE,,411727,127,50,50,https://www.daraz.com.bd/products/,562,0,0
+1.71449E+12,13672,Products,200,OK,New Thread 1-42,text,TRUE,,412882,375,50,50,https://www.daraz.com.bd/products/,915,0,775
+1.71449E+12,915,Products-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,915,0,775
+1.71449E+12,417,Products-1,301,Moved Permanently,New Thread 1-42,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,417,0,267
+1.71449E+12,12340,Products-2,200,OK,New Thread 1-42,text,TRUE,,411670,127,50,50,https://www.daraz.com.bd/products/,239,0,0
+1.71449E+12,48324,Products,200,OK,New Thread 1-15,text,TRUE,,412858,375,50,50,https://www.daraz.com.bd/products/,1400,0,1264
+1.71449E+12,1400,Products-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,1400,0,1264
+1.71449E+12,395,Products-1,301,Moved Permanently,New Thread 1-15,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,395,0,260
+1.71449E+12,46529,Products-2,200,OK,New Thread 1-15,text,TRUE,,411646,127,50,50,https://www.daraz.com.bd/products/,229,0,0
+1.71449E+12,43733,Mens-Clothing,200,OK,New Thread 1-35,text,TRUE,,555524,390,50,50,https://www.daraz.com.bd/mens-clothing/,132,0,0
+1.71449E+12,132,Mens-Clothing-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,132,0,0
+1.71449E+12,131,Mens-Clothing-1,301,Moved Permanently,New Thread 1-35,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,131,0,0
+1.71449E+12,43469,Mens-Clothing-2,200,OK,New Thread 1-35,text,TRUE,,554302,132,50,50,https://www.daraz.com.bd/mens-clothing/,647,0,0
+1.71449E+12,36467,Skincare Beauty,200,OK,New Thread 1-38,text,TRUE,,525958,396,50,50,https://www.daraz.com.bd/skincare-beauty/,442,0,289
+1.71449E+12,442,Skincare Beauty-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,442,0,289
+1.71449E+12,393,Skincare Beauty-1,301,Moved Permanently,New Thread 1-38,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,393,0,257
+1.71449E+12,35632,Skincare Beauty-2,200,OK,New Thread 1-38,text,TRUE,,524732,134,50,50,https://www.daraz.com.bd/skincare-beauty/,585,0,0
+1.71449E+12,24380,Products,200,OK,New Thread 1-29,text,TRUE,,412851,375,50,50,https://www.daraz.com.bd/products/,399,0,265
+1.71449E+12,399,Products-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,399,0,265
+1.71449E+12,809,Products-1,301,Moved Permanently,New Thread 1-29,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,809,0,269
+1.71449E+12,23172,Products-2,200,OK,New Thread 1-29,text,TRUE,,411639,127,50,50,https://www.daraz.com.bd/products/,267,0,0
+1.71449E+12,44104,Skincare Beauty,200,OK,New Thread 1-47,text,TRUE,,525957,396,50,50,https://www.daraz.com.bd/skincare-beauty/,747,0,614
+1.71449E+12,747,Skincare Beauty-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,747,0,614
+1.71449E+12,856,Skincare Beauty-1,301,Moved Permanently,New Thread 1-47,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,856,0,702
+1.71449E+12,42501,Skincare Beauty-2,200,OK,New Thread 1-47,text,TRUE,,524731,134,50,50,https://www.daraz.com.bd/skincare-beauty/,530,0,0
+1.71449E+12,32502,Mens-Clothing,200,OK,New Thread 1-45,text,TRUE,,555731,390,50,50,https://www.daraz.com.bd/mens-clothing/,799,0,261
+1.71449E+12,799,Mens-Clothing-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,799,0,261
+1.71449E+12,1396,Mens-Clothing-1,301,Moved Permanently,New Thread 1-45,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,1396,0,1260
+1.71449E+12,30307,Mens-Clothing-2,200,OK,New Thread 1-45,text,TRUE,,554509,132,50,50,https://www.daraz.com.bd/mens-clothing/,1512,0,0
+1.71449E+12,36248,Skincare Beauty,200,OK,New Thread 1-48,text,TRUE,,525957,396,50,50,https://www.daraz.com.bd/skincare-beauty/,392,0,253
+1.71449E+12,392,Skincare Beauty-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,392,0,253
+1.71449E+12,409,Skincare Beauty-1,301,Moved Permanently,New Thread 1-48,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,409,0,270
+1.71449E+12,35447,Skincare Beauty-2,200,OK,New Thread 1-48,text,TRUE,,524731,134,50,50,https://www.daraz.com.bd/skincare-beauty/,894,0,0
+1.71449E+12,46076,Mens-Clothing,200,OK,New Thread 1-20,text,TRUE,,555541,390,50,50,https://www.daraz.com.bd/mens-clothing/,553,0,0
+1.71449E+12,553,Mens-Clothing-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,553,0,0
+1.71449E+12,155,Mens-Clothing-1,301,Moved Permanently,New Thread 1-20,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,155,0,0
+1.71449E+12,45368,Mens-Clothing-2,200,OK,New Thread 1-20,text,TRUE,,554319,132,50,50,https://www.daraz.com.bd/mens-clothing/,694,0,0
+1.71449E+12,29442,Skincare Beauty,200,OK,New Thread 1-12,text,TRUE,,525957,396,50,50,https://www.daraz.com.bd/skincare-beauty/,424,0,279
+1.71449E+12,424,Skincare Beauty-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,424,0,279
+1.71449E+12,760,Skincare Beauty-1,301,Moved Permanently,New Thread 1-12,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,760,0,251
+1.71449E+12,28258,Skincare Beauty-2,200,OK,New Thread 1-12,text,TRUE,,524731,134,50,50,https://www.daraz.com.bd/skincare-beauty/,490,0,0
+1.71449E+12,36207,mens-shoes,200,OK,New Thread 1-43,text,TRUE,,540753,381,50,50,https://www.daraz.com.bd/mens-shoes/,881,0,751
+1.71449E+12,881,mens-shoes-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,881,0,751
+1.71449E+12,810,mens-shoes-1,301,Moved Permanently,New Thread 1-43,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,810,0,258
+1.71449E+12,34516,mens-shoes-2,200,OK,New Thread 1-43,text,TRUE,,539537,129,50,50,https://www.daraz.com.bd/mens-shoes/,1254,0,0
+1.71449E+12,24660,Products,200,OK,New Thread 1-9,text,TRUE,,412898,375,50,50,https://www.daraz.com.bd/products/,773,0,638
+1.71449E+12,773,Products-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,773,0,638
+1.71449E+12,412,Products-1,301,Moved Permanently,New Thread 1-9,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,412,0,274
+1.71449E+12,23474,Products-2,200,OK,New Thread 1-9,text,TRUE,,411686,127,50,50,https://www.daraz.com.bd/products/,772,0,0
+1.71449E+12,35728,Mens-Clothing,200,OK,New Thread 1-49,text,TRUE,,555555,390,50,50,https://www.daraz.com.bd/mens-clothing/,131,0,0
+1.71449E+12,131,Mens-Clothing-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,131,0,0
+1.71449E+12,494,Mens-Clothing-1,301,Moved Permanently,New Thread 1-49,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,494,0,0
+1.71449E+12,35103,Mens-Clothing-2,200,OK,New Thread 1-49,text,TRUE,,554333,132,50,50,https://www.daraz.com.bd/mens-clothing/,682,0,0
+1.71449E+12,72419,Products,200,OK,New Thread 1-22,text,TRUE,,412876,375,50,50,https://www.daraz.com.bd/products/,849,0,713
+1.71449E+12,849,Products-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,849,0,713
+1.71449E+12,395,Products-1,301,Moved Permanently,New Thread 1-22,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,395,0,254
+1.71449E+12,71175,Products-2,200,OK,New Thread 1-22,text,TRUE,,411664,127,50,50,https://www.daraz.com.bd/products/,267,0,0
+1.71449E+12,60864,Skincare Beauty,200,OK,New Thread 1-46,text,TRUE,,562449,396,50,50,https://www.daraz.com.bd/skincare-beauty/,386,0,255
+1.71449E+12,386,Skincare Beauty-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,386,0,255
+1.71449E+12,1396,Skincare Beauty-1,301,Moved Permanently,New Thread 1-46,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,1396,0,1258
+1.71449E+12,59082,Skincare Beauty-2,200,OK,New Thread 1-46,text,TRUE,,561223,134,50,50,https://www.daraz.com.bd/skincare-beauty/,1041,0,0
+1.71449E+12,34307,Products,200,OK,New Thread 1-17,text,TRUE,,412876,375,50,50,https://www.daraz.com.bd/products/,420,0,275
+1.71449E+12,420,Products-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,823,122,50,50,https://daraz.com.bd/products,420,0,275
+1.71449E+12,399,Products-1,301,Moved Permanently,New Thread 1-17,,TRUE,,389,126,50,50,https://www.daraz.com.bd/products,399,0,255
+1.71449E+12,33487,Products-2,200,OK,New Thread 1-17,text,TRUE,,411664,127,50,50,https://www.daraz.com.bd/products/,246,0,0
+1.71449E+12,35805,Mens-Clothing,200,OK,New Thread 1-39,text,TRUE,,555613,390,50,50,https://www.daraz.com.bd/mens-clothing/,142,0,0
+1.71449E+12,142,Mens-Clothing-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,142,0,0
+1.71449E+12,140,Mens-Clothing-1,301,Moved Permanently,New Thread 1-39,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,140,0,0
+1.71449E+12,35523,Mens-Clothing-2,200,OK,New Thread 1-39,text,TRUE,,554391,132,50,50,https://www.daraz.com.bd/mens-clothing/,636,0,0
+1.71449E+12,32886,Mens-Clothing,200,OK,New Thread 1-11,text,TRUE,,555507,390,50,50,https://www.daraz.com.bd/mens-clothing/,528,0,0
+1.71449E+12,528,Mens-Clothing-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,528,0,0
+1.71449E+12,150,Mens-Clothing-1,301,Moved Permanently,New Thread 1-11,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,150,0,0
+1.71449E+12,32208,Mens-Clothing-2,200,OK,New Thread 1-11,text,TRUE,,554285,132,50,50,https://www.daraz.com.bd/mens-clothing/,671,0,0
+1.71449E+12,30491,mens-shoes,200,OK,New Thread 1-31,text,TRUE,,424101,381,50,50,https://www.daraz.com.bd/mens-shoes/,406,0,276
+1.71449E+12,406,mens-shoes-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,406,0,276
+1.71449E+12,404,mens-shoes-1,301,Moved Permanently,New Thread 1-31,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,404,0,263
+1.71449E+12,29681,mens-shoes-2,200,OK,New Thread 1-31,text,TRUE,,422885,129,50,50,https://www.daraz.com.bd/mens-shoes/,540,0,0
+1.71449E+12,40174,mens-shoes,200,OK,New Thread 1-23,text,TRUE,,424132,381,50,50,https://www.daraz.com.bd/mens-shoes/,125,0,0
+1.71449E+12,125,mens-shoes-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,125,0,0
+1.71449E+12,134,mens-shoes-1,301,Moved Permanently,New Thread 1-23,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,134,0,0
+1.71449E+12,39915,mens-shoes-2,200,OK,New Thread 1-23,text,TRUE,,422916,129,50,50,https://www.daraz.com.bd/mens-shoes/,498,0,0
+1.71449E+12,46408,Mens-Clothing,200,OK,New Thread 1-18,text,TRUE,,555812,390,50,50,https://www.daraz.com.bd/mens-clothing/,402,0,269
+1.71449E+12,402,Mens-Clothing-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,402,0,269
+1.71449E+12,872,Mens-Clothing-1,301,Moved Permanently,New Thread 1-18,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,872,0,731
+1.71449E+12,45134,Mens-Clothing-2,200,OK,New Thread 1-18,text,TRUE,,554590,132,50,50,https://www.daraz.com.bd/mens-clothing/,712,0,0
+1.71449E+12,39157,mens-shoes,200,OK,New Thread 1-16,text,TRUE,,424164,381,50,50,https://www.daraz.com.bd/mens-shoes/,2803,0,1980
+1.71449E+12,2803,mens-shoes-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,2803,0,1980
+1.71449E+12,873,mens-shoes-1,301,Moved Permanently,New Thread 1-16,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,873,0,748
+1.71449E+12,35481,mens-shoes-2,200,OK,New Thread 1-16,text,TRUE,,422948,129,50,50,https://www.daraz.com.bd/mens-shoes/,513,0,0
+1.71449E+12,34849,Skincare Beauty,200,OK,New Thread 1-44,text,TRUE,,525933,396,50,50,https://www.daraz.com.bd/skincare-beauty/,770,0,256
+1.71449E+12,770,Skincare Beauty-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,770,0,256
+1.71449E+12,925,Skincare Beauty-1,301,Moved Permanently,New Thread 1-44,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,925,0,772
+1.71449E+12,33154,Skincare Beauty-2,200,OK,New Thread 1-44,text,TRUE,,524707,134,50,50,https://www.daraz.com.bd/skincare-beauty/,492,0,0
+1.71449E+12,43137,Mens-Clothing,200,OK,New Thread 1-13,text,TRUE,,555581,390,50,50,https://www.daraz.com.bd/mens-clothing/,131,0,0
+1.71449E+12,131,Mens-Clothing-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,131,0,0
+1.71449E+12,137,Mens-Clothing-1,301,Moved Permanently,New Thread 1-13,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,137,0,0
+1.71449E+12,42869,Mens-Clothing-2,200,OK,New Thread 1-13,text,TRUE,,554359,132,50,50,https://www.daraz.com.bd/mens-clothing/,1320,0,0
+1.71449E+12,30668,mens-shoes,200,OK,New Thread 1-40,text,TRUE,,540735,381,50,50,https://www.daraz.com.bd/mens-shoes/,553,0,0
+1.71449E+12,553,mens-shoes-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,553,0,0
+1.71449E+12,826,mens-shoes-1,301,Moved Permanently,New Thread 1-40,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,826,0,0
+1.71449E+12,29289,mens-shoes-2,200,OK,New Thread 1-40,text,TRUE,,539519,129,50,50,https://www.daraz.com.bd/mens-shoes/,1277,0,0
+1.71449E+12,288739,HomePage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-19,text,FALSE,,3734,114,50,50,https://www.daraz.com.bd/,377,0,317
+1.71449E+12,381,HomePage-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,815,114,50,50,https://daraz.com.bd/,377,0,317
+1.71449E+12,288355,HomePage-1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-19,text,FALSE,,2919,0,50,50,https://www.daraz.com.bd/,948,0,555
+1.71449E+12,37781,mens-shoes,200,OK,New Thread 1-4,text,TRUE,,424053,381,50,50,https://www.daraz.com.bd/mens-shoes/,1429,0,1291
+1.71449E+12,1429,mens-shoes-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,1429,0,1291
+1.71449E+12,424,mens-shoes-1,301,Moved Permanently,New Thread 1-4,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,424,0,270
+1.71449E+12,35928,mens-shoes-2,200,OK,New Thread 1-4,text,TRUE,,422837,129,50,50,https://www.daraz.com.bd/mens-shoes/,995,0,0
+1.71449E+12,25966,Mens-Clothing,200,OK,New Thread 1-42,text,TRUE,,555525,390,50,50,https://www.daraz.com.bd/mens-clothing/,132,0,0
+1.71449E+12,132,Mens-Clothing-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,132,0,0
+1.71449E+12,142,Mens-Clothing-1,301,Moved Permanently,New Thread 1-42,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,142,0,0
+1.71449E+12,25692,Mens-Clothing-2,200,OK,New Thread 1-42,text,TRUE,,554303,132,50,50,https://www.daraz.com.bd/mens-clothing/,664,0,0
+1.71449E+12,67297,Skincare Beauty,200,OK,New Thread 1-6,text,TRUE,,562395,396,50,50,https://www.daraz.com.bd/skincare-beauty/,132,0,0
+1.71449E+12,132,Skincare Beauty-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,132,0,0
+1.71449E+12,820,Skincare Beauty-1,301,Moved Permanently,New Thread 1-6,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,820,0,267
+1.71449E+12,66343,Skincare Beauty-2,200,OK,New Thread 1-6,text,TRUE,,561169,134,50,50,https://www.daraz.com.bd/skincare-beauty/,462,0,0
+1.71449E+12,60096,Skincare Beauty,200,OK,New Thread 1-8,text,TRUE,,562434,396,50,50,https://www.daraz.com.bd/skincare-beauty/,136,0,0
+1.71449E+12,136,Skincare Beauty-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,136,0,0
+1.71449E+12,137,Skincare Beauty-1,301,Moved Permanently,New Thread 1-8,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,137,0,0
+1.71449E+12,59823,Skincare Beauty-2,200,OK,New Thread 1-8,text,TRUE,,561208,134,50,50,https://www.daraz.com.bd/skincare-beauty/,475,0,0
+1.71449E+12,34234,Skincare Beauty,200,OK,New Thread 1-26,text,TRUE,,525951,396,50,50,https://www.daraz.com.bd/skincare-beauty/,593,0,460
+1.71449E+12,593,Skincare Beauty-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,593,0,460
+1.71449E+12,813,Skincare Beauty-1,301,Moved Permanently,New Thread 1-26,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,813,0,674
+1.71449E+12,32828,Skincare Beauty-2,200,OK,New Thread 1-26,text,TRUE,,524725,134,50,50,https://www.daraz.com.bd/skincare-beauty/,484,0,0
+1.71449E+12,31924,Skincare Beauty,200,OK,New Thread 1-1,text,TRUE,,562491,396,50,50,https://www.daraz.com.bd/skincare-beauty/,398,0,257
+1.71449E+12,398,Skincare Beauty-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,830,129,50,50,https://daraz.com.bd/skincare-beauty,398,0,257
+1.71449E+12,424,Skincare Beauty-1,301,Moved Permanently,New Thread 1-1,,TRUE,,396,133,50,50,https://www.daraz.com.bd/skincare-beauty,424,0,280
+1.71449E+12,31102,Skincare Beauty-2,200,OK,New Thread 1-1,text,TRUE,,561265,134,50,50,https://www.daraz.com.bd/skincare-beauty/,539,0,0
+1.71449E+12,32840,mens-shoes,200,OK,New Thread 1-28,text,TRUE,,424117,381,50,50,https://www.daraz.com.bd/mens-shoes/,772,0,634
+1.71449E+12,772,mens-shoes-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,772,0,634
+1.71449E+12,644,mens-shoes-1,301,Moved Permanently,New Thread 1-28,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,644,0,0
+1.71449E+12,31424,mens-shoes-2,200,OK,New Thread 1-28,text,TRUE,,422901,129,50,50,https://www.daraz.com.bd/mens-shoes/,578,0,0
+1.71449E+12,35096,mens-shoes,200,OK,New Thread 1-21,text,TRUE,,540728,381,50,50,https://www.daraz.com.bd/mens-shoes/,387,0,259
+1.71449E+12,387,mens-shoes-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,387,0,259
+1.71449E+12,411,mens-shoes-1,301,Moved Permanently,New Thread 1-21,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,411,0,276
+1.71449E+12,34298,mens-shoes-2,200,OK,New Thread 1-21,text,TRUE,,539512,129,50,50,https://www.daraz.com.bd/mens-shoes/,1218,0,0
+1.71449E+12,43201,mens-shoes,200,OK,New Thread 1-36,text,TRUE,,540769,381,50,50,https://www.daraz.com.bd/mens-shoes/,766,0,253
+1.71449E+12,766,mens-shoes-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,825,124,50,50,https://daraz.com.bd/mens-shoes,766,0,253
+1.71449E+12,7104,mens-shoes-1,301,Moved Permanently,New Thread 1-36,,TRUE,,391,128,50,50,https://www.daraz.com.bd/mens-shoes,7104,0,6968
+1.71449E+12,35329,mens-shoes-2,200,OK,New Thread 1-36,text,TRUE,,539553,129,50,50,https://www.daraz.com.bd/mens-shoes/,687,0,0
+1.71449E+12,48040,Mens-Clothing,200,OK,New Thread 1-10,text,TRUE,,555756,390,50,50,https://www.daraz.com.bd/mens-clothing/,2286,0,709
+1.71449E+12,2286,Mens-Clothing-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,2286,0,709
+1.71449E+12,147,Mens-Clothing-1,301,Moved Permanently,New Thread 1-10,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,147,0,0
+1.71449E+12,45606,Mens-Clothing-2,200,OK,New Thread 1-10,text,TRUE,,554534,132,50,50,https://www.daraz.com.bd/mens-clothing/,1230,0,0
+1.71449E+12,32394,Mens-Clothing,200,OK,New Thread 1-50,text,TRUE,,555666,390,50,50,https://www.daraz.com.bd/mens-clothing/,139,0,0
+1.71449E+12,139,Mens-Clothing-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,828,127,50,50,https://daraz.com.bd/mens-clothing,139,0,0
+1.71449E+12,1205,Mens-Clothing-1,301,Moved Permanently,New Thread 1-50,,TRUE,,394,131,50,50,https://www.daraz.com.bd/mens-clothing,1205,0,0
+1.71449E+12,31050,Mens-Clothing-2,200,OK,New Thread 1-50,text,TRUE,,554444,132,50,50,https://www.daraz.com.bd/mens-clothing/,646,0,0
+1.71449E+12,47821,Womens-traditional-clothing,200,OK,New Thread 1-25,text,TRUE,,537457,432,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,141,0,0
+1.71449E+12,141,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-25,text,TRUE,,842,141,50,50,https://daraz.com.bd/womens-traditional-clothing,141,0,0
+1.71449E+12,848,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-25,,TRUE,,408,145,50,50,https://www.daraz.com.bd/womens-traditional-clothing,848,0,0
+1.71449E+12,46832,Womens-traditional-clothing-2,200,OK,New Thread 1-25,text,TRUE,,536207,146,50,50,https://www.daraz.com.bd/womens-traditional-clothing/,1347,0,0
+1.71449E+12,58404,Mens-Clothing,200,OK,New Thread 1-7,text,TRUE,,555715,390,49,49,https://www.daraz.com.bd/mens-clothing/,407,0,275
+1.71449E+12,407,Mens-Clothing-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,828,127,49,49,https://daraz.com.bd/mens-clothing,407,0,275
+1.71449E+12,138,Mens-Clothing-1,301,Moved Permanently,New Thread 1-7,,TRUE,,394,131,49,49,https://www.daraz.com.bd/mens-clothing,138,0,0
+1.71449E+12,57858,Mens-Clothing-2,200,OK,New Thread 1-7,text,TRUE,,554493,132,49,49,https://www.daraz.com.bd/mens-clothing/,655,0,0
+1.71449E+12,41296,mens-shoes,200,OK,New Thread 1-27,text,TRUE,,540761,381,49,49,https://www.daraz.com.bd/mens-shoes/,138,0,0
+1.71449E+12,138,mens-shoes-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,138,0,0
+1.71449E+12,137,mens-shoes-1,301,Moved Permanently,New Thread 1-27,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,137,0,0
+1.71449E+12,41020,mens-shoes-2,200,OK,New Thread 1-27,text,TRUE,,539545,129,49,49,https://www.daraz.com.bd/mens-shoes/,687,0,0
+1.71449E+12,72413,Cart,200,OK,New Thread 1-30,text,TRUE,,1154753,363,49,49,https://www.daraz.com.bd/cart/,414,0,279
+1.71449E+12,414,Cart-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,819,118,49,49,https://daraz.com.bd/cart,414,0,279
+1.71449E+12,790,Cart-1,301,Moved Permanently,New Thread 1-30,,TRUE,,385,122,49,49,https://www.daraz.com.bd/cart,790,0,262
+1.71449E+12,71208,Cart-2,200,OK,New Thread 1-30,text,TRUE,,1153549,123,49,49,https://www.daraz.com.bd/cart/,135,0,0
+1.71449E+12,29786,mens-shoes,200,OK,New Thread 1-47,text,TRUE,,540736,381,49,49,https://www.daraz.com.bd/mens-shoes/,912,0,771
+1.71449E+12,912,mens-shoes-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,912,0,771
+1.71449E+12,139,mens-shoes-1,301,Moved Permanently,New Thread 1-47,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,139,0,0
+1.71449E+12,28734,mens-shoes-2,200,OK,New Thread 1-47,text,TRUE,,539520,129,49,49,https://www.daraz.com.bd/mens-shoes/,709,0,0
+1.71449E+12,30528,mens-shoes,200,OK,New Thread 1-38,text,TRUE,,540744,381,49,49,https://www.daraz.com.bd/mens-shoes/,137,0,0
+1.71449E+12,137,mens-shoes-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,137,0,0
+1.71449E+12,153,mens-shoes-1,301,Moved Permanently,New Thread 1-38,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,153,0,0
+1.71449E+12,30238,mens-shoes-2,200,OK,New Thread 1-38,text,TRUE,,539528,129,49,49,https://www.daraz.com.bd/mens-shoes/,764,0,0
+1.71449E+12,52151,Mens-Clothing,200,OK,New Thread 1-2,text,TRUE,,555780,390,49,49,https://www.daraz.com.bd/mens-clothing/,143,0,0
+1.71449E+12,143,Mens-Clothing-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,828,127,49,49,https://daraz.com.bd/mens-clothing,143,0,0
+1.71449E+12,140,Mens-Clothing-1,301,Moved Permanently,New Thread 1-2,,TRUE,,394,131,49,49,https://www.daraz.com.bd/mens-clothing,140,0,0
+1.71449E+12,51868,Mens-Clothing-2,200,OK,New Thread 1-2,text,TRUE,,554558,132,49,49,https://www.daraz.com.bd/mens-clothing/,729,0,0
+1.71449E+12,26179,Mens-Clothing,200,OK,New Thread 1-9,text,TRUE,,427907,390,49,49,https://www.daraz.com.bd/mens-clothing/,136,0,0
+1.71449E+12,136,Mens-Clothing-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,828,127,49,49,https://daraz.com.bd/mens-clothing,136,0,0
+1.71449E+12,133,Mens-Clothing-1,301,Moved Permanently,New Thread 1-9,,TRUE,,394,131,49,49,https://www.daraz.com.bd/mens-clothing,133,0,0
+1.71449E+12,25911,Mens-Clothing-2,200,OK,New Thread 1-9,text,TRUE,,426685,132,49,49,https://www.daraz.com.bd/mens-clothing/,1011,0,0
+1.71449E+12,44750,mens-shoes,200,OK,New Thread 1-41,text,TRUE,,424116,381,49,49,https://www.daraz.com.bd/mens-shoes/,835,0,705
+1.71449E+12,835,mens-shoes-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,835,0,705
+1.71449E+12,406,mens-shoes-1,301,Moved Permanently,New Thread 1-41,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,406,0,270
+1.71449E+12,43509,mens-shoes-2,200,OK,New Thread 1-41,text,TRUE,,422900,129,49,49,https://www.daraz.com.bd/mens-shoes/,3644,0,0
+1.71449E+12,38219,Mens-Clothing,200,OK,New Thread 1-29,text,TRUE,,555684,390,49,49,https://www.daraz.com.bd/mens-clothing/,521,0,0
+1.71449E+12,521,Mens-Clothing-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,828,127,49,49,https://daraz.com.bd/mens-clothing,521,0,0
+1.71449E+12,137,Mens-Clothing-1,301,Moved Permanently,New Thread 1-29,,TRUE,,394,131,49,49,https://www.daraz.com.bd/mens-clothing,137,0,0
+1.71449E+12,37561,Mens-Clothing-2,200,OK,New Thread 1-29,text,TRUE,,554462,132,49,49,https://www.daraz.com.bd/mens-clothing/,816,0,0
+1.71449E+12,26501,mens-shoes,200,OK,New Thread 1-46,text,TRUE,,424077,381,49,49,https://www.daraz.com.bd/mens-shoes/,1809,0,1667
+1.71449E+12,1809,mens-shoes-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,1809,0,1667
+1.71449E+12,410,mens-shoes-1,301,Moved Permanently,New Thread 1-46,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,410,0,276
+1.71449E+12,24282,mens-shoes-2,200,OK,New Thread 1-46,text,TRUE,,422861,129,49,49,https://www.daraz.com.bd/mens-shoes/,507,0,0
+1.71449E+12,60955,Mens-Clothing,200,OK,New Thread 1-32,text,TRUE,,555605,390,49,49,https://www.daraz.com.bd/mens-clothing/,986,0,0
+1.71449E+12,986,Mens-Clothing-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,828,127,49,49,https://daraz.com.bd/mens-clothing,986,0,0
+1.71449E+12,144,Mens-Clothing-1,301,Moved Permanently,New Thread 1-32,,TRUE,,394,131,49,49,https://www.daraz.com.bd/mens-clothing,144,0,0
+1.71449E+12,59825,Mens-Clothing-2,200,OK,New Thread 1-32,text,TRUE,,554383,132,49,49,https://www.daraz.com.bd/mens-clothing/,788,0,0
+1.71449E+12,32153,Skincare Beauty,200,OK,New Thread 1-20,text,TRUE,,525926,396,49,49,https://www.daraz.com.bd/skincare-beauty/,385,0,251
+1.71449E+12,385,Skincare Beauty-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,830,129,49,49,https://daraz.com.bd/skincare-beauty,385,0,251
+1.71449E+12,1398,Skincare Beauty-1,301,Moved Permanently,New Thread 1-20,,TRUE,,396,133,49,49,https://www.daraz.com.bd/skincare-beauty,1398,0,1274
+1.71449E+12,30370,Skincare Beauty-2,200,OK,New Thread 1-20,text,TRUE,,524700,134,49,49,https://www.daraz.com.bd/skincare-beauty/,533,0,0
+1.71449E+12,36535,Skincare Beauty,200,OK,New Thread 1-45,text,TRUE,,562418,396,49,49,https://www.daraz.com.bd/skincare-beauty/,135,0,0
+1.71449E+12,135,Skincare Beauty-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,830,129,49,49,https://daraz.com.bd/skincare-beauty,135,0,0
+1.71449E+12,486,Skincare Beauty-1,301,Moved Permanently,New Thread 1-45,,TRUE,,396,133,49,49,https://www.daraz.com.bd/skincare-beauty,486,0,0
+1.71449E+12,35914,Skincare Beauty-2,200,OK,New Thread 1-45,text,TRUE,,561192,134,49,49,https://www.daraz.com.bd/skincare-beauty/,463,0,0
+1.71449E+12,68625,mens-shoes,200,OK,New Thread 1-3,text,TRUE,,540854,381,49,49,https://www.daraz.com.bd/mens-shoes/,384,0,255
+1.71449E+12,384,mens-shoes-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,384,0,255
+1.71449E+12,138,mens-shoes-1,301,Moved Permanently,New Thread 1-3,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,138,0,0
+1.71449E+12,68103,mens-shoes-2,200,OK,New Thread 1-3,text,TRUE,,539638,129,49,49,https://www.daraz.com.bd/mens-shoes/,1338,0,0
+1.71449E+12,35115,mens-shoes,200,OK,New Thread 1-12,text,TRUE,,540758,381,49,49,https://www.daraz.com.bd/mens-shoes/,135,0,0
+1.71449E+12,135,mens-shoes-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,135,0,0
+1.71449E+12,153,mens-shoes-1,301,Moved Permanently,New Thread 1-12,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,153,0,0
+1.71449E+12,34827,mens-shoes-2,200,OK,New Thread 1-12,text,TRUE,,539542,129,49,49,https://www.daraz.com.bd/mens-shoes/,654,0,0
+1.71449E+12,37666,mens-shoes,200,OK,New Thread 1-48,text,TRUE,,424101,381,49,49,https://www.daraz.com.bd/mens-shoes/,494,0,0
+1.71449E+12,494,mens-shoes-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,494,0,0
+1.71449E+12,147,mens-shoes-1,301,Moved Permanently,New Thread 1-48,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,147,0,0
+1.71449E+12,37025,mens-shoes-2,200,OK,New Thread 1-48,text,TRUE,,422885,129,49,49,https://www.daraz.com.bd/mens-shoes/,513,0,0
+1.71449E+12,32373,Mens-Clothing,200,OK,New Thread 1-17,text,TRUE,,556676,390,49,49,https://www.daraz.com.bd/mens-clothing/,130,0,0
+1.71449E+12,130,Mens-Clothing-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,828,127,49,49,https://daraz.com.bd/mens-clothing,130,0,0
+1.71449E+12,137,Mens-Clothing-1,301,Moved Permanently,New Thread 1-17,,TRUE,,394,131,49,49,https://www.daraz.com.bd/mens-clothing,137,0,0
+1.71449E+12,32106,Mens-Clothing-2,200,OK,New Thread 1-17,text,TRUE,,555454,132,49,49,https://www.daraz.com.bd/mens-clothing/,2365,0,0
+1.71449E+12,32422,Skincare Beauty,200,OK,New Thread 1-39,text,TRUE,,562411,396,49,49,https://www.daraz.com.bd/skincare-beauty/,408,0,270
+1.71449E+12,408,Skincare Beauty-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,830,129,49,49,https://daraz.com.bd/skincare-beauty,408,0,270
+1.71449E+12,407,Skincare Beauty-1,301,Moved Permanently,New Thread 1-39,,TRUE,,396,133,49,49,https://www.daraz.com.bd/skincare-beauty,407,0,259
+1.71449E+12,31607,Skincare Beauty-2,200,OK,New Thread 1-39,text,TRUE,,561185,134,49,49,https://www.daraz.com.bd/skincare-beauty/,444,0,0
+1.71449E+12,51975,Skincare Beauty,200,OK,New Thread 1-5,text,TRUE,,525957,396,49,49,https://www.daraz.com.bd/skincare-beauty/,404,0,266
+1.71449E+12,404,Skincare Beauty-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,830,129,49,49,https://daraz.com.bd/skincare-beauty,404,0,266
+1.71449E+12,786,Skincare Beauty-1,301,Moved Permanently,New Thread 1-5,,TRUE,,396,133,49,49,https://www.daraz.com.bd/skincare-beauty,786,0,263
+1.71449E+12,50785,Skincare Beauty-2,200,OK,New Thread 1-5,text,TRUE,,524731,134,49,49,https://www.daraz.com.bd/skincare-beauty/,489,0,0
+1.71449E+12,25181,mens-shoes,200,OK,New Thread 1-26,text,TRUE,,424076,381,49,49,https://www.daraz.com.bd/mens-shoes/,137,0,0
+1.71449E+12,137,mens-shoes-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,825,124,49,49,https://daraz.com.bd/mens-shoes,137,0,0
+1.71449E+12,144,mens-shoes-1,301,Moved Permanently,New Thread 1-26,,TRUE,,391,128,49,49,https://www.daraz.com.bd/mens-shoes,144,0,0
+1.71449E+12,24900,mens-shoes-2,200,OK,New Thread 1-26,text,TRUE,,422860,129,49,49,https://www.daraz.com.bd/mens-shoes/,507,0,0
+1.71449E+12,36822,Womens-traditional-clothing,200,OK,New Thread 1-31,text,TRUE,,537455,432,49,49,https://www.daraz.com.bd/womens-traditional-clothing/,137,0,0
+1.71449E+12,137,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-31,text,TRUE,,842,141,49,49,https://daraz.com.bd/womens-traditional-clothing,137,0,0
+1.71449E+12,175,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-31,,TRUE,,408,145,49,49,https://www.daraz.com.bd/womens-traditional-clothing,175,0,0
+1.71449E+12,36509,Womens-traditional-clothing-2,200,OK,New Thread 1-31,text,TRUE,,536205,146,49,49,https://www.daraz.com.bd/womens-traditional-clothing/,597,0,0
+1.71449E+12,34083,Womens-traditional-clothing,200,OK,New Thread 1-4,text,TRUE,,534133,432,48,48,https://www.daraz.com.bd/womens-traditional-clothing/,126,0,0
+1.71449E+12,126,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-4,text,TRUE,,842,141,48,48,https://daraz.com.bd/womens-traditional-clothing,126,0,0
+1.71449E+12,636,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-4,,TRUE,,408,145,48,48,https://www.daraz.com.bd/womens-traditional-clothing,636,0,0
+1.71449E+12,33320,Womens-traditional-clothing-2,200,OK,New Thread 1-4,text,TRUE,,532883,146,48,48,https://www.daraz.com.bd/womens-traditional-clothing/,1050,0,0
+1.71449E+12,63446,Mens-Clothing,200,OK,New Thread 1-14,text,TRUE,,555699,390,47,47,https://www.daraz.com.bd/mens-clothing/,808,0,678
+1.71449E+12,808,Mens-Clothing-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,828,127,47,47,https://daraz.com.bd/mens-clothing,808,0,678
+1.71449E+12,16648,Mens-Clothing-1,301,Moved Permanently,New Thread 1-14,,TRUE,,394,131,47,47,https://www.daraz.com.bd/mens-clothing,16648,0,15500
+1.71449E+12,45990,Mens-Clothing-2,200,OK,New Thread 1-14,text,TRUE,,554477,132,47,47,https://www.daraz.com.bd/mens-clothing/,442,0,0
+1.71449E+12,33809,mens-shoes,200,OK,New Thread 1-8,text,TRUE,,424117,381,47,47,https://www.daraz.com.bd/mens-shoes/,395,0,258
+1.71449E+12,395,mens-shoes-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,825,124,47,47,https://daraz.com.bd/mens-shoes,395,0,258
+1.71449E+12,888,mens-shoes-1,301,Moved Permanently,New Thread 1-8,,TRUE,,391,128,47,47,https://www.daraz.com.bd/mens-shoes,888,0,748
+1.71449E+12,32526,mens-shoes-2,200,OK,New Thread 1-8,text,TRUE,,422901,129,47,47,https://www.daraz.com.bd/mens-shoes/,476,0,0
+1.71449E+12,26786,Products,200,OK,New Thread 1-30,text,TRUE,,412843,375,47,47,https://www.daraz.com.bd/products/,392,0,259
+1.71449E+12,392,Products-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,823,122,47,47,https://daraz.com.bd/products,392,0,259
+1.71449E+12,423,Products-1,301,Moved Permanently,New Thread 1-30,,TRUE,,389,126,47,47,https://www.daraz.com.bd/products,423,0,285
+1.71449E+12,25971,Products-2,200,OK,New Thread 1-30,text,TRUE,,411631,127,47,47,https://www.daraz.com.bd/products/,254,0,0
+1.71449E+12,42388,mens-shoes,200,OK,New Thread 1-44,text,TRUE,,540727,381,47,47,https://www.daraz.com.bd/mens-shoes/,135,0,0
+1.71449E+12,135,mens-shoes-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,825,124,47,47,https://daraz.com.bd/mens-shoes,135,0,0
+1.71449E+12,134,mens-shoes-1,301,Moved Permanently,New Thread 1-44,,TRUE,,391,128,47,47,https://www.daraz.com.bd/mens-shoes,134,0,0
+1.71449E+12,42119,mens-shoes-2,200,OK,New Thread 1-44,text,TRUE,,539511,129,47,47,https://www.daraz.com.bd/mens-shoes/,655,0,0
+1.71449E+12,43258,Womens-traditional-clothing,200,OK,New Thread 1-23,text,TRUE,,537416,432,47,47,https://www.daraz.com.bd/womens-traditional-clothing/,382,0,253
+1.71449E+12,382,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-23,text,TRUE,,842,141,47,47,https://daraz.com.bd/womens-traditional-clothing,382,0,253
+1.71449E+12,1835,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-23,,TRUE,,408,145,47,47,https://www.daraz.com.bd/womens-traditional-clothing,1835,0,1269
+1.71449E+12,41041,Womens-traditional-clothing-2,200,OK,New Thread 1-23,text,TRUE,,536166,146,47,47,https://www.daraz.com.bd/womens-traditional-clothing/,548,0,0
+1.71449E+12,48081,Mens-Clothing,200,OK,New Thread 1-22,text,TRUE,,555549,390,46,46,https://www.daraz.com.bd/mens-clothing/,856,0,723
+1.71449E+12,856,Mens-Clothing-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,828,127,46,46,https://daraz.com.bd/mens-clothing,856,0,723
+1.71449E+12,7566,Mens-Clothing-1,301,Moved Permanently,New Thread 1-22,,TRUE,,394,131,46,46,https://www.daraz.com.bd/mens-clothing,7566,0,713
+1.71449E+12,39657,Mens-Clothing-2,200,OK,New Thread 1-22,text,TRUE,,554327,132,46,46,https://www.daraz.com.bd/mens-clothing/,1354,0,0
+1.71449E+12,30466,Skincare Beauty,200,OK,New Thread 1-7,text,TRUE,,525940,396,46,46,https://www.daraz.com.bd/skincare-beauty/,393,0,259
+1.71449E+12,393,Skincare Beauty-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,830,129,46,46,https://daraz.com.bd/skincare-beauty,393,0,259
+1.71449E+12,396,Skincare Beauty-1,301,Moved Permanently,New Thread 1-7,,TRUE,,396,133,46,46,https://www.daraz.com.bd/skincare-beauty,396,0,259
+1.71449E+12,29677,Skincare Beauty-2,200,OK,New Thread 1-7,text,TRUE,,524714,134,46,46,https://www.daraz.com.bd/skincare-beauty/,463,0,0
+1.71449E+12,51166,Womens-traditional-clothing,200,OK,New Thread 1-43,text,TRUE,,537441,432,46,46,https://www.daraz.com.bd/womens-traditional-clothing/,140,0,0
+1.71449E+12,140,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-43,text,TRUE,,842,141,46,46,https://daraz.com.bd/womens-traditional-clothing,140,0,0
+1.71449E+12,498,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-43,,TRUE,,408,145,46,46,https://www.daraz.com.bd/womens-traditional-clothing,498,0,0
+1.71449E+12,50528,Womens-traditional-clothing-2,200,OK,New Thread 1-43,text,TRUE,,536191,146,46,46,https://www.daraz.com.bd/womens-traditional-clothing/,601,0,0
+1.71449E+12,128166,Skincare Beauty,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 340,633; actual size: 291,839)",New Thread 1-33,text,FALSE,,3022,262,45,45,https://www.daraz.com.bd/skincare-beauty/,392,0,259
+1.71449E+12,392,Skincare Beauty-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,830,129,45,45,https://daraz.com.bd/skincare-beauty,392,0,259
+1.71449E+12,400,Skincare Beauty-1,301,Moved Permanently,New Thread 1-33,,TRUE,,396,133,45,45,https://www.daraz.com.bd/skincare-beauty,400,0,266
+1.71449E+12,127374,Skincare Beauty-2,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 340,633; actual size: 291,839)",New Thread 1-33,text,FALSE,,1796,0,45,45,https://www.daraz.com.bd/skincare-beauty/,912,0,0
+1.71449E+12,30623,Womens-traditional-clothing,200,OK,New Thread 1-47,text,TRUE,,534246,432,45,45,https://www.daraz.com.bd/womens-traditional-clothing/,135,0,0
+1.71449E+12,135,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-47,text,TRUE,,842,141,45,45,https://daraz.com.bd/womens-traditional-clothing,135,0,0
+1.71449E+12,1403,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-47,,TRUE,,408,145,45,45,https://www.daraz.com.bd/womens-traditional-clothing,1403,0,1265
+1.71449E+12,29085,Womens-traditional-clothing-2,200,OK,New Thread 1-47,text,TRUE,,532996,146,45,45,https://www.daraz.com.bd/womens-traditional-clothing/,631,0,0
+1.71449E+12,37865,mens-shoes,200,OK,New Thread 1-1,text,TRUE,,424148,381,44,44,https://www.daraz.com.bd/mens-shoes/,134,0,0
+1.71449E+12,134,mens-shoes-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,825,124,44,44,https://daraz.com.bd/mens-shoes,134,0,0
+1.71449E+12,808,mens-shoes-1,301,Moved Permanently,New Thread 1-1,,TRUE,,391,128,44,44,https://www.daraz.com.bd/mens-shoes,808,0,0
+1.71449E+12,36923,mens-shoes-2,200,OK,New Thread 1-1,text,TRUE,,422932,129,44,44,https://www.daraz.com.bd/mens-shoes/,506,0,0
+1.71449E+12,39739,mens-shoes,200,OK,New Thread 1-6,text,TRUE,,540737,381,44,44,https://www.daraz.com.bd/mens-shoes/,1150,0,1012
+1.71449E+12,1150,mens-shoes-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,825,124,44,44,https://daraz.com.bd/mens-shoes,1150,0,1012
+1.71449E+12,2948,mens-shoes-1,301,Moved Permanently,New Thread 1-6,,TRUE,,391,128,44,44,https://www.daraz.com.bd/mens-shoes,2948,0,2327
+1.71449E+12,35640,mens-shoes-2,200,OK,New Thread 1-6,text,TRUE,,539521,129,44,44,https://www.daraz.com.bd/mens-shoes/,705,0,0
+1.71449E+12,47731,Skincare Beauty,200,OK,New Thread 1-11,text,TRUE,,526039,396,44,44,https://www.daraz.com.bd/skincare-beauty/,1223,0,1079
+1.71449E+12,1223,Skincare Beauty-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,830,129,44,44,https://daraz.com.bd/skincare-beauty,1223,0,1079
+1.71449E+12,783,Skincare Beauty-1,301,Moved Permanently,New Thread 1-11,,TRUE,,396,133,44,44,https://www.daraz.com.bd/skincare-beauty,783,0,259
+1.71449E+12,45724,Skincare Beauty-2,200,OK,New Thread 1-11,text,TRUE,,524813,134,44,44,https://www.daraz.com.bd/skincare-beauty/,983,0,0
+1.71449E+12,51627,Skincare Beauty,200,OK,New Thread 1-49,text,TRUE,,525943,396,44,44,https://www.daraz.com.bd/skincare-beauty/,130,0,0
+1.71449E+12,130,Skincare Beauty-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,830,129,44,44,https://daraz.com.bd/skincare-beauty,130,0,0
+1.71449E+12,138,Skincare Beauty-1,301,Moved Permanently,New Thread 1-49,,TRUE,,396,133,44,44,https://www.daraz.com.bd/skincare-beauty,138,0,0
+1.71449E+12,51359,Skincare Beauty-2,200,OK,New Thread 1-49,text,TRUE,,524717,134,44,44,https://www.daraz.com.bd/skincare-beauty/,493,0,0
+1.71449E+12,34192,Skincare Beauty,200,OK,New Thread 1-10,text,TRUE,,525917,396,44,44,https://www.daraz.com.bd/skincare-beauty/,392,0,263
+1.71449E+12,392,Skincare Beauty-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,830,129,44,44,https://daraz.com.bd/skincare-beauty,392,0,263
+1.71449E+12,404,Skincare Beauty-1,301,Moved Permanently,New Thread 1-10,,TRUE,,396,133,44,44,https://www.daraz.com.bd/skincare-beauty,404,0,263
+1.71449E+12,33395,Skincare Beauty-2,200,OK,New Thread 1-10,text,TRUE,,524691,134,44,44,https://www.daraz.com.bd/skincare-beauty/,1073,0,0
+1.71449E+12,227615,Cart,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 926,021; actual size: 347,869)",New Thread 1-37,text,FALSE,,3000,240,44,44,https://www.daraz.com.bd/cart/,412,0,267
+1.71449E+12,412,Cart-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,819,118,44,44,https://daraz.com.bd/cart,412,0,267
+1.71449E+12,439,Cart-1,301,Moved Permanently,New Thread 1-37,,TRUE,,385,122,44,44,https://www.daraz.com.bd/cart,439,0,294
+1.71449E+12,226764,Cart-2,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 926,021; actual size: 347,869)",New Thread 1-37,text,FALSE,,1796,0,44,44,https://www.daraz.com.bd/cart/,154,0,0
+1.71449E+12,39258,Womens-traditional-clothing,200,OK,New Thread 1-28,text,TRUE,,537416,432,44,44,https://www.daraz.com.bd/womens-traditional-clothing/,136,0,0
+1.71449E+12,136,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-28,text,TRUE,,842,141,44,44,https://daraz.com.bd/womens-traditional-clothing,136,0,0
+1.71449E+12,399,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-28,,TRUE,,408,145,44,44,https://www.daraz.com.bd/womens-traditional-clothing,399,0,264
+1.71449E+12,38723,Womens-traditional-clothing-2,200,OK,New Thread 1-28,text,TRUE,,536166,146,44,44,https://www.daraz.com.bd/womens-traditional-clothing/,594,0,0
+1.71449E+12,38708,Womens-traditional-clothing,200,OK,New Thread 1-21,text,TRUE,,422287,432,43,43,https://www.daraz.com.bd/womens-traditional-clothing/,527,0,0
+1.71449E+12,527,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-21,text,TRUE,,842,141,43,43,https://daraz.com.bd/womens-traditional-clothing,527,0,0
+1.71449E+12,149,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-21,,TRUE,,408,145,43,43,https://www.daraz.com.bd/womens-traditional-clothing,149,0,0
+1.71449E+12,38032,Womens-traditional-clothing-2,200,OK,New Thread 1-21,text,TRUE,,421037,146,43,43,https://www.daraz.com.bd/womens-traditional-clothing/,498,0,0
+1.71449E+12,24698,mens-shoes,200,OK,New Thread 1-20,text,TRUE,,541018,381,42,42,https://www.daraz.com.bd/mens-shoes/,868,0,0
+1.71449E+12,868,mens-shoes-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,825,124,42,42,https://daraz.com.bd/mens-shoes,868,0,0
+1.71449E+12,136,mens-shoes-1,301,Moved Permanently,New Thread 1-20,,TRUE,,391,128,42,42,https://www.daraz.com.bd/mens-shoes,136,0,0
+1.71449E+12,23694,mens-shoes-2,200,OK,New Thread 1-20,text,TRUE,,539802,129,42,42,https://www.daraz.com.bd/mens-shoes/,684,0,0
+1.71449E+12,46319,Womens-traditional-clothing,200,OK,New Thread 1-40,text,TRUE,,534181,432,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,135,0,0
+1.71449E+12,135,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-40,text,TRUE,,842,141,42,42,https://daraz.com.bd/womens-traditional-clothing,135,0,0
+1.71449E+12,495,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-40,,TRUE,,408,145,42,42,https://www.daraz.com.bd/womens-traditional-clothing,495,0,0
+1.71449E+12,45689,Womens-traditional-clothing-2,200,OK,New Thread 1-40,text,TRUE,,532931,146,42,42,https://www.daraz.com.bd/womens-traditional-clothing/,689,0,0
+1.71449E+12,212731,Cart,200,OK,New Thread 1-24,text,TRUE,,1154730,363,41,41,https://www.daraz.com.bd/cart/,411,0,285
+1.71449E+12,411,Cart-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,819,118,41,41,https://daraz.com.bd/cart,411,0,285
+1.71449E+12,430,Cart-1,301,Moved Permanently,New Thread 1-24,,TRUE,,385,122,41,41,https://www.daraz.com.bd/cart,430,0,289
+1.71449E+12,211888,Cart-2,200,OK,New Thread 1-24,text,TRUE,,1153526,123,41,41,https://www.daraz.com.bd/cart/,147,0,0
+1.71449E+12,39566,Womens-traditional-clothing,200,OK,New Thread 1-36,text,TRUE,,534214,432,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,2413,0,2282
+1.71449E+12,2413,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-36,text,TRUE,,842,141,41,41,https://daraz.com.bd/womens-traditional-clothing,2413,0,2282
+1.71449E+12,135,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-36,,TRUE,,408,145,41,41,https://www.daraz.com.bd/womens-traditional-clothing,135,0,0
+1.71449E+12,37018,Womens-traditional-clothing-2,200,OK,New Thread 1-36,text,TRUE,,532964,146,41,41,https://www.daraz.com.bd/womens-traditional-clothing/,623,0,0
+1.71449E+12,33042,Skincare Beauty,200,OK,New Thread 1-29,text,TRUE,,525918,396,40,40,https://www.daraz.com.bd/skincare-beauty/,1190,0,260
+1.71449E+12,1190,Skincare Beauty-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,830,129,40,40,https://daraz.com.bd/skincare-beauty,1190,0,260
+1.71449E+12,390,Skincare Beauty-1,301,Moved Permanently,New Thread 1-29,,TRUE,,396,133,40,40,https://www.daraz.com.bd/skincare-beauty,390,0,261
+1.71449E+12,31462,Skincare Beauty-2,200,OK,New Thread 1-29,text,TRUE,,524692,134,40,40,https://www.daraz.com.bd/skincare-beauty/,6869,0,0
+1.71449E+12,31229,mens-shoes,200,OK,New Thread 1-45,text,TRUE,,541271,381,40,40,https://www.daraz.com.bd/mens-shoes/,1799,0,1270
+1.71449E+12,1799,mens-shoes-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,825,124,40,40,https://daraz.com.bd/mens-shoes,1799,0,1270
+1.71449E+12,403,mens-shoes-1,301,Moved Permanently,New Thread 1-45,,TRUE,,391,128,40,40,https://www.daraz.com.bd/mens-shoes,403,0,271
+1.71449E+12,29027,mens-shoes-2,200,OK,New Thread 1-45,text,TRUE,,540055,129,40,40,https://www.daraz.com.bd/mens-shoes/,735,0,0
+1.71449E+12,44989,Womens-traditional-clothing,200,OK,New Thread 1-27,text,TRUE,,534181,432,40,40,https://www.daraz.com.bd/womens-traditional-clothing/,391,0,268
+1.71449E+12,391,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-27,text,TRUE,,842,141,40,40,https://daraz.com.bd/womens-traditional-clothing,391,0,268
+1.71449E+12,422,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-27,,TRUE,,408,145,40,40,https://www.daraz.com.bd/womens-traditional-clothing,422,0,271
+1.71449E+12,44176,Womens-traditional-clothing-2,200,OK,New Thread 1-27,text,TRUE,,532931,146,40,40,https://www.daraz.com.bd/womens-traditional-clothing/,562,0,0
+1.71449E+12,36503,Womens-traditional-clothing,200,OK,New Thread 1-46,text,TRUE,,537424,432,39,39,https://www.daraz.com.bd/womens-traditional-clothing/,134,0,0
+1.71449E+12,134,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-46,text,TRUE,,842,141,39,39,https://daraz.com.bd/womens-traditional-clothing,134,0,0
+1.71449E+12,140,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-46,,TRUE,,408,145,39,39,https://www.daraz.com.bd/womens-traditional-clothing,140,0,0
+1.71449E+12,36229,Womens-traditional-clothing-2,200,OK,New Thread 1-46,text,TRUE,,536174,146,39,39,https://www.daraz.com.bd/womens-traditional-clothing/,1122,0,0
+1.71449E+12,37126,Womens-traditional-clothing,200,OK,New Thread 1-41,text,TRUE,,537432,432,38,38,https://www.daraz.com.bd/womens-traditional-clothing/,792,0,262
+1.71449E+12,792,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-41,text,TRUE,,842,141,38,38,https://daraz.com.bd/womens-traditional-clothing,792,0,262
+1.71449E+12,133,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-41,,TRUE,,408,145,38,38,https://www.daraz.com.bd/womens-traditional-clothing,133,0,0
+1.71449E+12,36200,Womens-traditional-clothing-2,200,OK,New Thread 1-41,text,TRUE,,536182,146,38,38,https://www.daraz.com.bd/womens-traditional-clothing/,1130,0,0
+1.71449E+12,54142,Skincare Beauty,200,OK,New Thread 1-42,text,TRUE,,562450,396,37,37,https://www.daraz.com.bd/skincare-beauty/,137,0,0
+1.71449E+12,137,Skincare Beauty-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,830,129,37,37,https://daraz.com.bd/skincare-beauty,137,0,0
+1.71449E+12,22649,Skincare Beauty-1,301,Moved Permanently,New Thread 1-42,,TRUE,,396,133,37,37,https://www.daraz.com.bd/skincare-beauty,22649,0,0
+1.71449E+12,31356,Skincare Beauty-2,200,OK,New Thread 1-42,text,TRUE,,561224,134,37,37,https://www.daraz.com.bd/skincare-beauty/,1142,0,721
+1.71449E+12,40292,Skincare Beauty,200,OK,New Thread 1-9,text,TRUE,,562434,396,37,37,https://www.daraz.com.bd/skincare-beauty/,130,0,0
+1.71449E+12,130,Skincare Beauty-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,830,129,37,37,https://daraz.com.bd/skincare-beauty,130,0,0
+1.71449E+12,139,Skincare Beauty-1,301,Moved Permanently,New Thread 1-9,,TRUE,,396,133,37,37,https://www.daraz.com.bd/skincare-beauty,139,0,0
+1.71449E+12,40023,Skincare Beauty-2,200,OK,New Thread 1-9,text,TRUE,,561208,134,37,37,https://www.daraz.com.bd/skincare-beauty/,445,0,0
+1.71449E+12,23197,Skincare Beauty,200,OK,New Thread 1-14,text,TRUE,,562419,396,37,37,https://www.daraz.com.bd/skincare-beauty/,747,0,605
+1.71449E+12,747,Skincare Beauty-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,830,129,37,37,https://daraz.com.bd/skincare-beauty,747,0,605
+1.71449E+12,609,Skincare Beauty-1,301,Moved Permanently,New Thread 1-14,,TRUE,,396,133,37,37,https://www.daraz.com.bd/skincare-beauty,609,0,472
+1.71449E+12,21841,Skincare Beauty-2,200,OK,New Thread 1-14,text,TRUE,,561193,134,37,37,https://www.daraz.com.bd/skincare-beauty/,1031,0,0
+1.71449E+12,33565,Womens-traditional-clothing,200,OK,New Thread 1-48,text,TRUE,,537508,432,37,37,https://www.daraz.com.bd/womens-traditional-clothing/,2007,0,1876
+1.71449E+12,2007,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-48,text,TRUE,,842,141,37,37,https://daraz.com.bd/womens-traditional-clothing,2007,0,1876
+1.71449E+12,2691,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-48,,TRUE,,408,145,37,37,https://www.daraz.com.bd/womens-traditional-clothing,2691,0,2252
+1.71449E+12,28868,Womens-traditional-clothing-2,200,OK,New Thread 1-48,text,TRUE,,536258,146,37,37,https://www.daraz.com.bd/womens-traditional-clothing/,607,0,0
+1.71449E+12,47283,Womens-traditional-clothing,200,OK,New Thread 1-38,text,TRUE,,537426,432,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,392,0,263
+1.71449E+12,392,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-38,text,TRUE,,842,141,36,36,https://daraz.com.bd/womens-traditional-clothing,392,0,263
+1.71449E+12,4502,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-38,,TRUE,,408,145,36,36,https://www.daraz.com.bd/womens-traditional-clothing,4502,0,4361
+1.71449E+12,42389,Womens-traditional-clothing-2,200,OK,New Thread 1-38,text,TRUE,,536176,146,36,36,https://www.daraz.com.bd/womens-traditional-clothing/,617,0,0
+1.71449E+12,50927,Skincare Beauty,200,OK,New Thread 1-50,text,TRUE,,562403,396,35,35,https://www.daraz.com.bd/skincare-beauty/,408,0,269
+1.71449E+12,408,Skincare Beauty-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,830,129,35,35,https://daraz.com.bd/skincare-beauty,408,0,269
+1.71449E+12,410,Skincare Beauty-1,301,Moved Permanently,New Thread 1-50,,TRUE,,396,133,35,35,https://www.daraz.com.bd/skincare-beauty,410,0,264
+1.71449E+12,50109,Skincare Beauty-2,200,OK,New Thread 1-50,text,TRUE,,561177,134,35,35,https://www.daraz.com.bd/skincare-beauty/,458,0,0
+1.71449E+12,35882,Skincare Beauty,200,OK,New Thread 1-17,text,TRUE,,562419,396,35,35,https://www.daraz.com.bd/skincare-beauty/,392,0,259
+1.71449E+12,392,Skincare Beauty-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,830,129,35,35,https://daraz.com.bd/skincare-beauty,392,0,259
+1.71449E+12,1717,Skincare Beauty-1,301,Moved Permanently,New Thread 1-17,,TRUE,,396,133,35,35,https://www.daraz.com.bd/skincare-beauty,1717,0,1131
+1.71449E+12,33773,Skincare Beauty-2,200,OK,New Thread 1-17,text,TRUE,,561193,134,35,35,https://www.daraz.com.bd/skincare-beauty/,477,0,0
+1.71449E+12,66113,Skincare Beauty,200,OK,New Thread 1-18,text,TRUE,,526039,396,35,35,https://www.daraz.com.bd/skincare-beauty/,394,0,273
+1.71449E+12,394,Skincare Beauty-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,830,129,35,35,https://daraz.com.bd/skincare-beauty,394,0,273
+1.71449E+12,129,Skincare Beauty-1,301,Moved Permanently,New Thread 1-18,,TRUE,,396,133,35,35,https://www.daraz.com.bd/skincare-beauty,129,0,0
+1.71449E+12,65590,Skincare Beauty-2,200,OK,New Thread 1-18,text,TRUE,,524813,134,35,35,https://www.daraz.com.bd/skincare-beauty/,553,0,0
+1.71449E+12,40625,Womens-traditional-clothing,200,OK,New Thread 1-3,text,TRUE,,537434,432,35,35,https://www.daraz.com.bd/womens-traditional-clothing/,1788,0,1264
+1.71449E+12,1788,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-3,text,TRUE,,842,141,35,35,https://daraz.com.bd/womens-traditional-clothing,1788,0,1264
+1.71449E+12,390,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-3,,TRUE,,408,145,35,35,https://www.daraz.com.bd/womens-traditional-clothing,390,0,253
+1.71449E+12,38446,Womens-traditional-clothing-2,200,OK,New Thread 1-3,text,TRUE,,536184,146,35,35,https://www.daraz.com.bd/womens-traditional-clothing/,1438,0,0
+1.71449E+12,43376,Skincare Beauty,200,OK,New Thread 1-32,text,TRUE,,562451,396,34,34,https://www.daraz.com.bd/skincare-beauty/,768,0,259
+1.71449E+12,768,Skincare Beauty-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,830,129,34,34,https://daraz.com.bd/skincare-beauty,768,0,259
+1.71449E+12,382,Skincare Beauty-1,301,Moved Permanently,New Thread 1-32,,TRUE,,396,133,34,34,https://www.daraz.com.bd/skincare-beauty,382,0,250
+1.71449E+12,42225,Skincare Beauty-2,200,OK,New Thread 1-32,text,TRUE,,561225,134,34,34,https://www.daraz.com.bd/skincare-beauty/,474,0,0
+1.71449E+12,34273,Womens-traditional-clothing,200,OK,New Thread 1-26,text,TRUE,,534440,432,34,34,https://www.daraz.com.bd/womens-traditional-clothing/,131,0,0
+1.71449E+12,131,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-26,text,TRUE,,842,141,34,34,https://daraz.com.bd/womens-traditional-clothing,131,0,0
+1.71449E+12,162,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-26,,TRUE,,408,145,34,34,https://www.daraz.com.bd/womens-traditional-clothing,162,0,0
+1.71449E+12,33980,Womens-traditional-clothing-2,200,OK,New Thread 1-26,text,TRUE,,533190,146,34,34,https://www.daraz.com.bd/womens-traditional-clothing/,673,0,0
+1.71449E+12,39695,Womens-traditional-clothing,200,OK,New Thread 1-12,text,TRUE,,537402,432,34,34,https://www.daraz.com.bd/womens-traditional-clothing/,1171,0,651
+1.71449E+12,1171,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-12,text,TRUE,,842,141,34,34,https://daraz.com.bd/womens-traditional-clothing,1171,0,651
+1.71449E+12,396,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-12,,TRUE,,408,145,34,34,https://www.daraz.com.bd/womens-traditional-clothing,396,0,267
+1.71449E+12,38127,Womens-traditional-clothing-2,200,OK,New Thread 1-12,text,TRUE,,536152,146,34,34,https://www.daraz.com.bd/womens-traditional-clothing/,572,0,0
+1.71449E+12,37877,mens-shoes,200,OK,New Thread 1-39,text,TRUE,,541294,381,32,32,https://www.daraz.com.bd/mens-shoes/,138,0,0
+1.71449E+12,138,mens-shoes-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,825,124,32,32,https://daraz.com.bd/mens-shoes,138,0,0
+1.71449E+12,147,mens-shoes-1,301,Moved Permanently,New Thread 1-39,,TRUE,,391,128,32,32,https://www.daraz.com.bd/mens-shoes,147,0,0
+1.71449E+12,37592,mens-shoes-2,200,OK,New Thread 1-39,text,TRUE,,540078,129,32,32,https://www.daraz.com.bd/mens-shoes/,648,0,0
+1.71449E+12,26908,Mens-Clothing,200,OK,New Thread 1-30,text,TRUE,,555560,390,32,32,https://www.daraz.com.bd/mens-clothing/,133,0,0
+1.71449E+12,133,Mens-Clothing-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,828,127,32,32,https://daraz.com.bd/mens-clothing,133,0,0
+1.71449E+12,138,Mens-Clothing-1,301,Moved Permanently,New Thread 1-30,,TRUE,,394,131,32,32,https://www.daraz.com.bd/mens-clothing,138,0,0
+1.71449E+12,26637,Mens-Clothing-2,200,OK,New Thread 1-30,text,TRUE,,554338,132,32,32,https://www.daraz.com.bd/mens-clothing/,617,0,0
+1.71449E+12,22073,Products,200,OK,New Thread 1-37,text,TRUE,,412865,375,32,32,https://www.daraz.com.bd/products/,1577,0,718
+1.71449E+12,1577,Products-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,823,122,32,32,https://daraz.com.bd/products,1577,0,718
+1.71449E+12,393,Products-1,301,Moved Permanently,New Thread 1-37,,TRUE,,389,126,32,32,https://www.daraz.com.bd/products,393,0,256
+1.71449E+12,20103,Products-2,200,OK,New Thread 1-37,text,TRUE,,411653,127,32,32,https://www.daraz.com.bd/products/,267,0,0
+1.71449E+12,23299,mens-shoes,200,OK,New Thread 1-11,text,TRUE,,424164,381,32,32,https://www.daraz.com.bd/mens-shoes/,385,0,256
+1.71449E+12,385,mens-shoes-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,825,124,32,32,https://daraz.com.bd/mens-shoes,385,0,256
+1.71449E+12,135,mens-shoes-1,301,Moved Permanently,New Thread 1-11,,TRUE,,391,128,32,32,https://www.daraz.com.bd/mens-shoes,135,0,0
+1.71449E+12,22779,mens-shoes-2,200,OK,New Thread 1-11,text,TRUE,,422948,129,32,32,https://www.daraz.com.bd/mens-shoes/,6256,0,0
+1.71449E+12,26222,Skincare Beauty,200,OK,New Thread 1-22,text,TRUE,,525975,396,32,32,https://www.daraz.com.bd/skincare-beauty/,405,0,268
+1.71449E+12,405,Skincare Beauty-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,830,129,32,32,https://daraz.com.bd/skincare-beauty,405,0,268
+1.71449E+12,633,Skincare Beauty-1,301,Moved Permanently,New Thread 1-22,,TRUE,,396,133,32,32,https://www.daraz.com.bd/skincare-beauty,633,0,0
+1.71449E+12,25184,Skincare Beauty-2,200,OK,New Thread 1-22,text,TRUE,,524749,134,32,32,https://www.daraz.com.bd/skincare-beauty/,556,0,0
+1.71449E+12,24520,mens-shoes,200,OK,New Thread 1-10,text,TRUE,,541276,381,32,32,https://www.daraz.com.bd/mens-shoes/,132,0,0
+1.71449E+12,132,mens-shoes-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,825,124,32,32,https://daraz.com.bd/mens-shoes,132,0,0
+1.71449E+12,136,mens-shoes-1,301,Moved Permanently,New Thread 1-10,,TRUE,,391,128,32,32,https://www.daraz.com.bd/mens-shoes,136,0,0
+1.71449E+12,24252,mens-shoes-2,200,OK,New Thread 1-10,text,TRUE,,540060,129,32,32,https://www.daraz.com.bd/mens-shoes/,620,0,0
+1.71449E+12,22745,Womens-traditional-clothing,200,OK,New Thread 1-20,text,TRUE,,537410,432,32,32,https://www.daraz.com.bd/womens-traditional-clothing/,1348,0,0
+1.71449E+12,1348,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-20,text,TRUE,,842,141,32,32,https://daraz.com.bd/womens-traditional-clothing,1348,0,0
+1.71449E+12,136,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-20,,TRUE,,408,145,32,32,https://www.daraz.com.bd/womens-traditional-clothing,136,0,0
+1.71449E+12,21261,Womens-traditional-clothing-2,200,OK,New Thread 1-20,text,TRUE,,536160,146,32,32,https://www.daraz.com.bd/womens-traditional-clothing/,1232,0,0
+1.71449E+12,32368,Womens-traditional-clothing,200,OK,New Thread 1-8,text,TRUE,,537460,432,31,31,https://www.daraz.com.bd/womens-traditional-clothing/,134,0,0
+1.71449E+12,134,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-8,text,TRUE,,842,141,31,31,https://daraz.com.bd/womens-traditional-clothing,134,0,0
+1.71449E+12,136,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-8,,TRUE,,408,145,31,31,https://www.daraz.com.bd/womens-traditional-clothing,136,0,0
+1.71449E+12,32098,Womens-traditional-clothing-2,200,OK,New Thread 1-8,text,TRUE,,536210,146,31,31,https://www.daraz.com.bd/womens-traditional-clothing/,532,0,0
+1.71449E+12,28508,mens-shoes,200,OK,New Thread 1-33,text,TRUE,,424101,381,30,30,https://www.daraz.com.bd/mens-shoes/,388,0,263
+1.71449E+12,388,mens-shoes-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,825,124,30,30,https://daraz.com.bd/mens-shoes,388,0,263
+1.71449E+12,774,mens-shoes-1,301,Moved Permanently,New Thread 1-33,,TRUE,,391,128,30,30,https://www.daraz.com.bd/mens-shoes,774,0,256
+1.71449E+12,27346,mens-shoes-2,200,OK,New Thread 1-33,text,TRUE,,422885,129,30,30,https://www.daraz.com.bd/mens-shoes/,505,0,0
+1.71449E+12,26973,mens-shoes,200,OK,New Thread 1-49,text,TRUE,,424084,381,30,30,https://www.daraz.com.bd/mens-shoes/,857,0,729
+1.71449E+12,857,mens-shoes-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,825,124,30,30,https://daraz.com.bd/mens-shoes,857,0,729
+1.71449E+12,401,mens-shoes-1,301,Moved Permanently,New Thread 1-49,,TRUE,,391,128,30,30,https://www.daraz.com.bd/mens-shoes,401,0,262
+1.71449E+12,25715,mens-shoes-2,200,OK,New Thread 1-49,text,TRUE,,422868,129,30,30,https://www.daraz.com.bd/mens-shoes/,4971,0,0
+1.71449E+12,17478,Womens-traditional-clothing,200,OK,New Thread 1-45,text,TRUE,,534409,432,30,30,https://www.daraz.com.bd/womens-traditional-clothing/,131,0,0
+1.71449E+12,131,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-45,text,TRUE,,842,141,30,30,https://daraz.com.bd/womens-traditional-clothing,131,0,0
+1.71449E+12,137,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-45,,TRUE,,408,145,30,30,https://www.daraz.com.bd/womens-traditional-clothing,137,0,0
+1.71449E+12,17209,Womens-traditional-clothing-2,200,OK,New Thread 1-45,text,TRUE,,533159,146,30,30,https://www.daraz.com.bd/womens-traditional-clothing/,1119,0,0
+1.71449E+12,43566,mens-shoes,200,OK,New Thread 1-5,text,TRUE,,541324,381,29,29,https://www.daraz.com.bd/mens-shoes/,826,0,259
+1.71449E+12,826,mens-shoes-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,825,124,29,29,https://daraz.com.bd/mens-shoes,826,0,259
+1.71449E+12,132,mens-shoes-1,301,Moved Permanently,New Thread 1-5,,TRUE,,391,128,29,29,https://www.daraz.com.bd/mens-shoes,132,0,0
+1.71449E+12,42608,mens-shoes-2,200,OK,New Thread 1-5,text,TRUE,,540108,129,29,29,https://www.daraz.com.bd/mens-shoes/,665,0,0
+1.71449E+12,31184,Womens-traditional-clothing,200,OK,New Thread 1-44,text,TRUE,,537433,432,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,849,0,713
+1.71449E+12,849,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-44,text,TRUE,,842,141,29,29,https://daraz.com.bd/womens-traditional-clothing,849,0,713
+1.71449E+12,1409,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-44,,TRUE,,408,145,29,29,https://www.daraz.com.bd/womens-traditional-clothing,1409,0,1268
+1.71449E+12,28926,Womens-traditional-clothing-2,200,OK,New Thread 1-44,text,TRUE,,536183,146,29,29,https://www.daraz.com.bd/womens-traditional-clothing/,2179,0,0
+1.71449E+12,56725,Skincare Beauty,200,OK,New Thread 1-2,text,TRUE,,525925,396,28,28,https://www.daraz.com.bd/skincare-beauty/,1266,0,708
+1.71449E+12,1266,Skincare Beauty-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,830,129,28,28,https://daraz.com.bd/skincare-beauty,1266,0,708
+1.71449E+12,401,Skincare Beauty-1,301,Moved Permanently,New Thread 1-2,,TRUE,,396,133,28,28,https://www.daraz.com.bd/skincare-beauty,401,0,263
+1.71449E+12,55058,Skincare Beauty-2,200,OK,New Thread 1-2,text,TRUE,,524699,134,28,28,https://www.daraz.com.bd/skincare-beauty/,12938,0,0
+1.71449E+12,92064,Skincare Beauty,200,OK,New Thread 1-35,text,TRUE,,562410,396,28,28,https://www.daraz.com.bd/skincare-beauty/,1526,0,731
+1.71449E+12,1526,Skincare Beauty-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,830,129,28,28,https://daraz.com.bd/skincare-beauty,1526,0,731
+1.71449E+12,414,Skincare Beauty-1,301,Moved Permanently,New Thread 1-35,,TRUE,,396,133,28,28,https://www.daraz.com.bd/skincare-beauty,414,0,275
+1.71449E+12,90122,Skincare Beauty-2,200,OK,New Thread 1-35,text,TRUE,,561184,134,28,28,https://www.daraz.com.bd/skincare-beauty/,488,0,0
+1.71449E+12,263589,Cart,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-34,text,FALSE,,4123,240,28,28,https://www.daraz.com.bd/cart/,441,0,289
+1.71449E+12,441,Cart-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,819,118,28,28,https://daraz.com.bd/cart,441,0,289
+1.71449E+12,443,Cart-1,301,Moved Permanently,New Thread 1-34,,TRUE,,385,122,28,28,https://www.daraz.com.bd/cart,443,0,293
+1.71449E+12,262704,Cart-2,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,New Thread 1-34,text,FALSE,,2919,0,28,28,https://www.daraz.com.bd/cart/,144,0,0
+1.71449E+12,21812,mens-shoes,200,OK,New Thread 1-29,text,TRUE,,541287,381,28,28,https://www.daraz.com.bd/mens-shoes/,1386,0,0
+1.71449E+12,1386,mens-shoes-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,825,124,28,28,https://daraz.com.bd/mens-shoes,1386,0,0
+1.71449E+12,141,mens-shoes-1,301,Moved Permanently,New Thread 1-29,,TRUE,,391,128,28,28,https://www.daraz.com.bd/mens-shoes,141,0,0
+1.71449E+12,20285,mens-shoes-2,200,OK,New Thread 1-29,text,TRUE,,540071,129,28,28,https://www.daraz.com.bd/mens-shoes/,639,0,0
+1.71449E+12,28694,Products,200,OK,New Thread 1-24,text,TRUE,,412876,375,28,28,https://www.daraz.com.bd/products/,7428,0,7284
+1.71449E+12,7428,Products-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,823,122,28,28,https://daraz.com.bd/products,7428,0,7284
+1.71449E+12,1399,Products-1,301,Moved Permanently,New Thread 1-24,,TRUE,,389,126,28,28,https://www.daraz.com.bd/products,1399,0,1275
+1.71449E+12,19867,Products-2,200,OK,New Thread 1-24,text,TRUE,,411664,127,28,28,https://www.daraz.com.bd/products/,256,0,0
+1.71449E+12,34210,mens-shoes,200,OK,New Thread 1-7,text,TRUE,,541301,381,28,28,https://www.daraz.com.bd/mens-shoes/,138,0,0
+1.71449E+12,138,mens-shoes-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,825,124,28,28,https://daraz.com.bd/mens-shoes,138,0,0
+1.71449E+12,139,mens-shoes-1,301,Moved Permanently,New Thread 1-7,,TRUE,,391,128,28,28,https://www.daraz.com.bd/mens-shoes,139,0,0
+1.71449E+12,33933,mens-shoes-2,200,OK,New Thread 1-7,text,TRUE,,540085,129,28,28,https://www.daraz.com.bd/mens-shoes/,736,0,0
+1.71449E+12,35632,Womens-traditional-clothing,200,OK,New Thread 1-1,text,TRUE,,537474,432,28,28,https://www.daraz.com.bd/womens-traditional-clothing/,1556,0,1428
+1.71449E+12,1556,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-1,text,TRUE,,842,141,28,28,https://daraz.com.bd/womens-traditional-clothing,1556,0,1428
+1.71449E+12,397,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-1,,TRUE,,408,145,28,28,https://www.daraz.com.bd/womens-traditional-clothing,397,0,255
+1.71449E+12,33679,Womens-traditional-clothing-2,200,OK,New Thread 1-1,text,TRUE,,536224,146,28,28,https://www.daraz.com.bd/womens-traditional-clothing/,443,0,0
+1.71449E+12,81780,Womens-traditional-clothing,200,OK,New Thread 1-16,text,TRUE,,537495,432,27,27,https://www.daraz.com.bd/womens-traditional-clothing/,130,0,0
+1.71449E+12,130,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-16,text,TRUE,,842,141,27,27,https://daraz.com.bd/womens-traditional-clothing,130,0,0
+1.71449E+12,139,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-16,,TRUE,,408,145,27,27,https://www.daraz.com.bd/womens-traditional-clothing,139,0,0
+1.71449E+12,81511,Womens-traditional-clothing-2,200,OK,New Thread 1-16,text,TRUE,,536245,146,27,27,https://www.daraz.com.bd/womens-traditional-clothing/,1922,0,0
+1.71449E+12,22393,mens-shoes,200,OK,New Thread 1-9,text,TRUE,,541317,381,26,26,https://www.daraz.com.bd/mens-shoes/,392,0,264
+1.71449E+12,392,mens-shoes-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,825,124,26,26,https://daraz.com.bd/mens-shoes,392,0,264
+1.71449E+12,411,mens-shoes-1,301,Moved Permanently,New Thread 1-9,,TRUE,,391,128,26,26,https://www.daraz.com.bd/mens-shoes,411,0,275
+1.71449E+12,21590,mens-shoes-2,200,OK,New Thread 1-9,text,TRUE,,540101,129,26,26,https://www.daraz.com.bd/mens-shoes/,649,0,0
+1.71449E+12,17647,mens-shoes,200,OK,New Thread 1-18,text,TRUE,,425238,381,26,26,https://www.daraz.com.bd/mens-shoes/,867,0,732
+1.71449E+12,867,mens-shoes-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,825,124,26,26,https://daraz.com.bd/mens-shoes,867,0,732
+1.71449E+12,791,mens-shoes-1,301,Moved Permanently,New Thread 1-18,,TRUE,,391,128,26,26,https://www.daraz.com.bd/mens-shoes,791,0,259
+1.71449E+12,15989,mens-shoes-2,200,OK,New Thread 1-18,text,TRUE,,424022,129,26,26,https://www.daraz.com.bd/mens-shoes/,483,0,0
+1.71449E+12,21018,mens-shoes,200,OK,New Thread 1-50,text,TRUE,,424084,381,26,26,https://www.daraz.com.bd/mens-shoes/,1382,0,1258
+1.71449E+12,1382,mens-shoes-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,825,124,26,26,https://daraz.com.bd/mens-shoes,1382,0,1258
+1.71449E+12,136,mens-shoes-1,301,Moved Permanently,New Thread 1-50,,TRUE,,391,128,26,26,https://www.daraz.com.bd/mens-shoes,136,0,0
+1.71449E+12,19500,mens-shoes-2,200,OK,New Thread 1-50,text,TRUE,,422868,129,26,26,https://www.daraz.com.bd/mens-shoes/,485,0,0
+1.71449E+12,81325,Cart,200,OK,New Thread 1-19,text,TRUE,,1155924,363,26,26,https://www.daraz.com.bd/cart/,431,0,289
+1.71449E+12,431,Cart-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,819,118,26,26,https://daraz.com.bd/cart,431,0,289
+1.71449E+12,436,Cart-1,301,Moved Permanently,New Thread 1-19,,TRUE,,385,122,26,26,https://www.daraz.com.bd/cart,436,0,265
+1.71449E+12,80457,Cart-2,200,OK,New Thread 1-19,text,TRUE,,1154720,123,26,26,https://www.daraz.com.bd/cart/,141,0,0
+1.71449E+12,16100,Mens-Clothing,200,OK,New Thread 1-37,text,TRUE,,555533,390,26,26,https://www.daraz.com.bd/mens-clothing/,134,0,0
+1.71449E+12,134,Mens-Clothing-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,828,127,26,26,https://daraz.com.bd/mens-clothing,134,0,0
+1.71449E+12,127,Mens-Clothing-1,301,Moved Permanently,New Thread 1-37,,TRUE,,394,131,26,26,https://www.daraz.com.bd/mens-clothing,127,0,0
+1.71449E+12,15839,Mens-Clothing-2,200,OK,New Thread 1-37,text,TRUE,,554311,132,26,26,https://www.daraz.com.bd/mens-clothing/,793,0,0
+1.71449E+12,23875,mens-shoes,200,OK,New Thread 1-14,text,TRUE,,541309,381,26,26,https://www.daraz.com.bd/mens-shoes/,132,0,0
+1.71449E+12,132,mens-shoes-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,825,124,26,26,https://daraz.com.bd/mens-shoes,132,0,0
+1.71449E+12,136,mens-shoes-1,301,Moved Permanently,New Thread 1-14,,TRUE,,391,128,26,26,https://www.daraz.com.bd/mens-shoes,136,0,0
+1.71449E+12,23607,mens-shoes-2,200,OK,New Thread 1-14,text,TRUE,,540093,129,26,26,https://www.daraz.com.bd/mens-shoes/,659,0,0
+1.71449E+12,25329,mens-shoes,200,OK,New Thread 1-42,text,TRUE,,541335,381,26,26,https://www.daraz.com.bd/mens-shoes/,2445,0,2321
+1.71449E+12,2445,mens-shoes-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,825,124,26,26,https://daraz.com.bd/mens-shoes,2445,0,2321
+1.71449E+12,809,mens-shoes-1,301,Moved Permanently,New Thread 1-42,,TRUE,,391,128,26,26,https://www.daraz.com.bd/mens-shoes,809,0,0
+1.71449E+12,22075,mens-shoes-2,200,OK,New Thread 1-42,text,TRUE,,540119,129,26,26,https://www.daraz.com.bd/mens-shoes/,616,0,0
+1.71449E+12,16558,mens-shoes,200,OK,New Thread 1-22,text,TRUE,,541293,381,26,26,https://www.daraz.com.bd/mens-shoes/,526,0,0
+1.71449E+12,526,mens-shoes-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,825,124,26,26,https://daraz.com.bd/mens-shoes,526,0,0
+1.71449E+12,771,mens-shoes-1,301,Moved Permanently,New Thread 1-22,,TRUE,,391,128,26,26,https://www.daraz.com.bd/mens-shoes,771,0,260
+1.71449E+12,15261,mens-shoes-2,200,OK,New Thread 1-22,text,TRUE,,540077,129,26,26,https://www.daraz.com.bd/mens-shoes/,597,0,0
+1.71449E+12,17007,Womens-traditional-clothing,200,OK,New Thread 1-10,text,TRUE,,534417,432,26,26,https://www.daraz.com.bd/womens-traditional-clothing/,142,0,0
+1.71449E+12,142,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-10,text,TRUE,,842,141,26,26,https://daraz.com.bd/womens-traditional-clothing,142,0,0
+1.71449E+12,130,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-10,,TRUE,,408,145,26,26,https://www.daraz.com.bd/womens-traditional-clothing,130,0,0
+1.71449E+12,16734,Womens-traditional-clothing-2,200,OK,New Thread 1-10,text,TRUE,,533167,146,26,26,https://www.daraz.com.bd/womens-traditional-clothing/,562,0,0
+1.71449E+12,42585,Womens-traditional-clothing,200,OK,New Thread 1-6,text,TRUE,,537418,432,25,25,https://www.daraz.com.bd/womens-traditional-clothing/,136,0,0
+1.71449E+12,136,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-6,text,TRUE,,842,141,25,25,https://daraz.com.bd/womens-traditional-clothing,136,0,0
+1.71449E+12,139,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-6,,TRUE,,408,145,25,25,https://www.daraz.com.bd/womens-traditional-clothing,139,0,0
+1.71449E+12,42309,Womens-traditional-clothing-2,200,OK,New Thread 1-6,text,TRUE,,536168,146,25,25,https://www.daraz.com.bd/womens-traditional-clothing/,558,0,0
+1.71449E+12,23173,mens-shoes,200,OK,New Thread 1-17,text,TRUE,,541309,381,24,24,https://www.daraz.com.bd/mens-shoes/,492,0,0
+1.71449E+12,492,mens-shoes-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,825,124,24,24,https://daraz.com.bd/mens-shoes,492,0,0
+1.71449E+12,137,mens-shoes-1,301,Moved Permanently,New Thread 1-17,,TRUE,,391,128,24,24,https://www.daraz.com.bd/mens-shoes,137,0,0
+1.71449E+12,22544,mens-shoes-2,200,OK,New Thread 1-17,text,TRUE,,540093,129,24,24,https://www.daraz.com.bd/mens-shoes/,814,0,0
+1.71449E+12,22483,Skincare Beauty,200,OK,New Thread 1-30,text,TRUE,,525919,396,24,24,https://www.daraz.com.bd/skincare-beauty/,126,0,0
+1.71449E+12,126,Skincare Beauty-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,830,129,24,24,https://daraz.com.bd/skincare-beauty,126,0,0
+1.71449E+12,477,Skincare Beauty-1,301,Moved Permanently,New Thread 1-30,,TRUE,,396,133,24,24,https://www.daraz.com.bd/skincare-beauty,477,0,0
+1.71449E+12,21880,Skincare Beauty-2,200,OK,New Thread 1-30,text,TRUE,,524693,134,24,24,https://www.daraz.com.bd/skincare-beauty/,585,0,0
+1.71449E+12,23039,Womens-traditional-clothing,200,OK,New Thread 1-39,text,TRUE,,537443,432,24,24,https://www.daraz.com.bd/womens-traditional-clothing/,3351,0,3226
+1.71449E+12,3351,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-39,text,TRUE,,842,141,24,24,https://daraz.com.bd/womens-traditional-clothing,3351,0,3226
+1.71449E+12,397,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-39,,TRUE,,408,145,24,24,https://www.daraz.com.bd/womens-traditional-clothing,397,0,259
+1.71449E+12,19291,Womens-traditional-clothing-2,200,OK,New Thread 1-39,text,TRUE,,536193,146,24,24,https://www.daraz.com.bd/womens-traditional-clothing/,1053,0,0
+1.71449E+12,15581,mens-shoes,200,OK,New Thread 1-35,text,TRUE,,424053,381,23,23,https://www.daraz.com.bd/mens-shoes/,391,0,256
+1.71449E+12,391,mens-shoes-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,825,124,23,23,https://daraz.com.bd/mens-shoes,391,0,256
+1.71449E+12,819,mens-shoes-1,301,Moved Permanently,New Thread 1-35,,TRUE,,391,128,23,23,https://www.daraz.com.bd/mens-shoes,819,0,268
+1.71449E+12,14369,mens-shoes-2,200,OK,New Thread 1-35,text,TRUE,,422837,129,23,23,https://www.daraz.com.bd/mens-shoes/,1029,0,0
+1.71449E+12,18678,Womens-traditional-clothing,200,OK,New Thread 1-33,text,TRUE,,537442,432,23,23,https://www.daraz.com.bd/womens-traditional-clothing/,119,0,0
+1.71449E+12,119,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-33,text,TRUE,,842,141,23,23,https://daraz.com.bd/womens-traditional-clothing,119,0,0
+1.71449E+12,142,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-33,,TRUE,,408,145,23,23,https://www.daraz.com.bd/womens-traditional-clothing,142,0,0
+1.71449E+12,18417,Womens-traditional-clothing-2,200,OK,New Thread 1-33,text,TRUE,,536192,146,23,23,https://www.daraz.com.bd/womens-traditional-clothing/,602,0,0
+1.71449E+12,23646,Womens-traditional-clothing,200,OK,New Thread 1-11,text,TRUE,,537459,432,22,22,https://www.daraz.com.bd/womens-traditional-clothing/,134,0,0
+1.71449E+12,134,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-11,text,TRUE,,842,141,22,22,https://daraz.com.bd/womens-traditional-clothing,134,0,0
+1.71449E+12,606,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-11,,TRUE,,408,145,22,22,https://www.daraz.com.bd/womens-traditional-clothing,606,0,471
+1.71449E+12,22906,Womens-traditional-clothing-2,200,OK,New Thread 1-11,text,TRUE,,536209,146,22,22,https://www.daraz.com.bd/womens-traditional-clothing/,547,0,0
+1.71449E+12,27789,mens-shoes,200,OK,New Thread 1-32,text,TRUE,,541327,381,21,21,https://www.daraz.com.bd/mens-shoes/,394,0,255
+1.71449E+12,394,mens-shoes-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,825,124,21,21,https://daraz.com.bd/mens-shoes,394,0,255
+1.71449E+12,136,mens-shoes-1,301,Moved Permanently,New Thread 1-32,,TRUE,,391,128,21,21,https://www.daraz.com.bd/mens-shoes,136,0,0
+1.71449E+12,27259,mens-shoes-2,200,OK,New Thread 1-32,text,TRUE,,540111,129,21,21,https://www.daraz.com.bd/mens-shoes/,1572,0,0
+1.71449E+12,17203,Womens-traditional-clothing,200,OK,New Thread 1-29,text,TRUE,,537420,432,21,21,https://www.daraz.com.bd/womens-traditional-clothing/,134,0,0
+1.71449E+12,134,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-29,text,TRUE,,842,141,21,21,https://daraz.com.bd/womens-traditional-clothing,134,0,0
+1.71449E+12,132,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-29,,TRUE,,408,145,21,21,https://www.daraz.com.bd/womens-traditional-clothing,132,0,0
+1.71449E+12,16937,Womens-traditional-clothing-2,200,OK,New Thread 1-29,text,TRUE,,536170,146,21,21,https://www.daraz.com.bd/womens-traditional-clothing/,557,0,0
+1.71449E+12,20323,mens-shoes,200,OK,New Thread 1-2,text,TRUE,,424069,381,20,20,https://www.daraz.com.bd/mens-shoes/,3231,0,2320
+1.71449E+12,3231,mens-shoes-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,825,124,20,20,https://daraz.com.bd/mens-shoes,3231,0,2320
+1.71449E+12,142,mens-shoes-1,301,Moved Permanently,New Thread 1-2,,TRUE,,391,128,20,20,https://www.daraz.com.bd/mens-shoes,142,0,0
+1.71449E+12,16950,mens-shoes-2,200,OK,New Thread 1-2,text,TRUE,,422853,129,20,20,https://www.daraz.com.bd/mens-shoes/,496,0,0
+1.71449E+12,14043,Womens-traditional-clothing,200,OK,New Thread 1-9,text,TRUE,,538605,432,20,20,https://www.daraz.com.bd/womens-traditional-clothing/,132,0,0
+1.71449E+12,132,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-9,text,TRUE,,842,141,20,20,https://daraz.com.bd/womens-traditional-clothing,132,0,0
+1.71449E+12,138,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-9,,TRUE,,408,145,20,20,https://www.daraz.com.bd/womens-traditional-clothing,138,0,0
+1.71449E+12,13773,Womens-traditional-clothing-2,200,OK,New Thread 1-9,text,TRUE,,537355,146,20,20,https://www.daraz.com.bd/womens-traditional-clothing/,584,0,0
+1.71449E+12,13540,Skincare Beauty,200,OK,New Thread 1-37,text,TRUE,,562418,396,19,19,https://www.daraz.com.bd/skincare-beauty/,126,0,0
+1.71449E+12,126,Skincare Beauty-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,830,129,19,19,https://daraz.com.bd/skincare-beauty,126,0,0
+1.71449E+12,136,Skincare Beauty-1,301,Moved Permanently,New Thread 1-37,,TRUE,,396,133,19,19,https://www.daraz.com.bd/skincare-beauty,136,0,0
+1.71449E+12,13278,Skincare Beauty-2,200,OK,New Thread 1-37,text,TRUE,,561192,134,19,19,https://www.daraz.com.bd/skincare-beauty/,574,0,0
+1.71449E+12,25323,Womens-traditional-clothing,200,OK,New Thread 1-49,text,TRUE,,537410,432,19,19,https://www.daraz.com.bd/womens-traditional-clothing/,134,0,0
+1.71449E+12,134,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-49,text,TRUE,,842,141,19,19,https://daraz.com.bd/womens-traditional-clothing,134,0,0
+1.71449E+12,138,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-49,,TRUE,,408,145,19,19,https://www.daraz.com.bd/womens-traditional-clothing,138,0,0
+1.71449E+12,25050,Womens-traditional-clothing-2,200,OK,New Thread 1-49,text,TRUE,,536160,146,19,19,https://www.daraz.com.bd/womens-traditional-clothing/,541,0,0
+1.71449E+12,20652,Womens-traditional-clothing,200,OK,New Thread 1-7,text,TRUE,,537442,432,18,18,https://www.daraz.com.bd/womens-traditional-clothing/,789,0,263
+1.71449E+12,789,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-7,text,TRUE,,842,141,18,18,https://daraz.com.bd/womens-traditional-clothing,789,0,263
+1.71449E+12,394,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-7,,TRUE,,408,145,18,18,https://www.daraz.com.bd/womens-traditional-clothing,394,0,252
+1.71449E+12,19469,Womens-traditional-clothing-2,200,OK,New Thread 1-7,text,TRUE,,536192,146,18,18,https://www.daraz.com.bd/womens-traditional-clothing/,612,0,0
+1.71449E+12,14464,Womens-traditional-clothing,200,OK,New Thread 1-42,text,TRUE,,537458,432,17,17,https://www.daraz.com.bd/womens-traditional-clothing/,129,0,0
+1.71449E+12,129,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-42,text,TRUE,,842,141,17,17,https://daraz.com.bd/womens-traditional-clothing,129,0,0
+1.71449E+12,144,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-42,,TRUE,,408,145,17,17,https://www.daraz.com.bd/womens-traditional-clothing,144,0,0
+1.71449E+12,14191,Womens-traditional-clothing-2,200,OK,New Thread 1-42,text,TRUE,,536208,146,17,17,https://www.daraz.com.bd/womens-traditional-clothing/,574,0,0
+1.71449E+12,15867,Products,200,OK,New Thread 1-19,text,TRUE,,412883,375,16,16,https://www.daraz.com.bd/products/,861,0,727
+1.71449E+12,861,Products-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,823,122,16,16,https://daraz.com.bd/products,861,0,727
+1.71449E+12,392,Products-1,301,Moved Permanently,New Thread 1-19,,TRUE,,389,126,16,16,https://www.daraz.com.bd/products,392,0,251
+1.71449E+12,14614,Products-2,200,OK,New Thread 1-19,text,TRUE,,411671,127,16,16,https://www.daraz.com.bd/products/,278,0,0
+1.71449E+12,23054,Mens-Clothing,200,OK,New Thread 1-24,text,TRUE,,555570,390,16,16,https://www.daraz.com.bd/mens-clothing/,128,0,0
+1.71449E+12,128,Mens-Clothing-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,828,127,16,16,https://daraz.com.bd/mens-clothing,128,0,0
+1.71449E+12,842,Mens-Clothing-1,301,Moved Permanently,New Thread 1-24,,TRUE,,394,131,16,16,https://www.daraz.com.bd/mens-clothing,842,0,0
+1.71449E+12,22084,Mens-Clothing-2,200,OK,New Thread 1-24,text,TRUE,,554348,132,16,16,https://www.daraz.com.bd/mens-clothing/,1380,0,0
+1.71449E+12,17011,Womens-traditional-clothing,200,OK,New Thread 1-50,text,TRUE,,537418,432,16,16,https://www.daraz.com.bd/womens-traditional-clothing/,124,0,0
+1.71449E+12,124,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-50,text,TRUE,,842,141,16,16,https://daraz.com.bd/womens-traditional-clothing,124,0,0
+1.71449E+12,384,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-50,,TRUE,,408,145,16,16,https://www.daraz.com.bd/womens-traditional-clothing,384,0,257
+1.71449E+12,16503,Womens-traditional-clothing-2,200,OK,New Thread 1-50,text,TRUE,,536168,146,16,16,https://www.daraz.com.bd/womens-traditional-clothing/,613,0,0
+1.71449E+12,25228,Products,200,OK,New Thread 1-34,text,TRUE,,412866,375,15,15,https://www.daraz.com.bd/products/,424,0,280
+1.71449E+12,424,Products-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,823,122,15,15,https://daraz.com.bd/products,424,0,280
+1.71449E+12,405,Products-1,301,Moved Permanently,New Thread 1-34,,TRUE,,389,126,15,15,https://www.daraz.com.bd/products,405,0,270
+1.71449E+12,24398,Products-2,200,OK,New Thread 1-34,text,TRUE,,411654,127,15,15,https://www.daraz.com.bd/products/,237,0,0
+1.71449E+12,18395,Womens-traditional-clothing,200,OK,New Thread 1-18,text,TRUE,,538581,432,15,15,https://www.daraz.com.bd/womens-traditional-clothing/,131,0,0
+1.71449E+12,131,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-18,text,TRUE,,842,141,15,15,https://daraz.com.bd/womens-traditional-clothing,131,0,0
+1.71449E+12,484,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-18,,TRUE,,408,145,15,15,https://www.daraz.com.bd/womens-traditional-clothing,484,0,0
+1.71449E+12,17778,Womens-traditional-clothing-2,200,OK,New Thread 1-18,text,TRUE,,537331,146,15,15,https://www.daraz.com.bd/womens-traditional-clothing/,531,0,0
+1.71449E+12,28948,Womens-traditional-clothing,200,OK,New Thread 1-5,text,TRUE,,534441,432,14,14,https://www.daraz.com.bd/womens-traditional-clothing/,1589,0,1457
+1.71449E+12,1589,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-5,text,TRUE,,842,141,14,14,https://daraz.com.bd/womens-traditional-clothing,1589,0,1457
+1.71449E+12,402,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-5,,TRUE,,408,145,14,14,https://www.daraz.com.bd/womens-traditional-clothing,402,0,262
+1.71449E+12,26957,Womens-traditional-clothing-2,200,OK,New Thread 1-5,text,TRUE,,533191,146,14,14,https://www.daraz.com.bd/womens-traditional-clothing/,658,0,0
+1.71449E+12,17774,Womens-traditional-clothing,200,OK,New Thread 1-14,text,TRUE,,537452,432,13,13,https://www.daraz.com.bd/womens-traditional-clothing/,135,0,0
+1.71449E+12,135,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-14,text,TRUE,,842,141,13,13,https://daraz.com.bd/womens-traditional-clothing,135,0,0
+1.71449E+12,134,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-14,,TRUE,,408,145,13,13,https://www.daraz.com.bd/womens-traditional-clothing,134,0,0
+1.71449E+12,17505,Womens-traditional-clothing-2,200,OK,New Thread 1-14,text,TRUE,,536202,146,13,13,https://www.daraz.com.bd/womens-traditional-clothing/,542,0,0
+1.71449E+12,17368,Womens-traditional-clothing,200,OK,New Thread 1-22,text,TRUE,,537412,432,12,12,https://www.daraz.com.bd/womens-traditional-clothing/,522,0,0
+1.71449E+12,522,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-22,text,TRUE,,842,141,12,12,https://daraz.com.bd/womens-traditional-clothing,522,0,0
+1.71449E+12,135,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-22,,TRUE,,408,145,12,12,https://www.daraz.com.bd/womens-traditional-clothing,135,0,0
+1.71449E+12,16711,Womens-traditional-clothing-2,200,OK,New Thread 1-22,text,TRUE,,536162,146,12,12,https://www.daraz.com.bd/womens-traditional-clothing/,573,0,0
+1.71449E+12,12332,Womens-traditional-clothing,200,OK,New Thread 1-35,text,TRUE,,537395,432,11,11,https://www.daraz.com.bd/womens-traditional-clothing/,137,0,0
+1.71449E+12,137,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-35,text,TRUE,,842,141,11,11,https://daraz.com.bd/womens-traditional-clothing,137,0,0
+1.71449E+12,128,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-35,,TRUE,,408,145,11,11,https://www.daraz.com.bd/womens-traditional-clothing,128,0,0
+1.71449E+12,12067,Womens-traditional-clothing-2,200,OK,New Thread 1-35,text,TRUE,,536145,146,11,11,https://www.daraz.com.bd/womens-traditional-clothing/,614,0,0
+1.71449E+12,15863,Womens-traditional-clothing,200,OK,New Thread 1-17,text,TRUE,,534457,432,10,10,https://www.daraz.com.bd/womens-traditional-clothing/,127,0,0
+1.71449E+12,127,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-17,text,TRUE,,842,141,10,10,https://daraz.com.bd/womens-traditional-clothing,127,0,0
+1.71449E+12,151,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-17,,TRUE,,408,145,10,10,https://www.daraz.com.bd/womens-traditional-clothing,151,0,0
+1.71449E+12,15585,Womens-traditional-clothing-2,200,OK,New Thread 1-17,text,TRUE,,533207,146,10,10,https://www.daraz.com.bd/womens-traditional-clothing/,609,0,0
+1.71449E+12,14493,mens-shoes,200,OK,New Thread 1-30,text,TRUE,,541301,381,9,9,https://www.daraz.com.bd/mens-shoes/,409,0,276
+1.71449E+12,409,mens-shoes-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,825,124,9,9,https://daraz.com.bd/mens-shoes,409,0,276
+1.71449E+12,405,mens-shoes-1,301,Moved Permanently,New Thread 1-30,,TRUE,,391,128,9,9,https://www.daraz.com.bd/mens-shoes,405,0,267
+1.71449E+12,13679,mens-shoes-2,200,OK,New Thread 1-30,text,TRUE,,540085,129,9,9,https://www.daraz.com.bd/mens-shoes/,1001,0,0
+1.71449E+12,10279,Womens-traditional-clothing,200,OK,New Thread 1-2,text,TRUE,,537386,432,9,9,https://www.daraz.com.bd/womens-traditional-clothing/,126,0,0
+1.71449E+12,126,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-2,text,TRUE,,842,141,9,9,https://daraz.com.bd/womens-traditional-clothing,126,0,0
+1.71449E+12,407,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-2,,TRUE,,408,145,9,9,https://www.daraz.com.bd/womens-traditional-clothing,407,0,258
+1.71449E+12,9746,Womens-traditional-clothing-2,200,OK,New Thread 1-2,text,TRUE,,536136,146,9,9,https://www.daraz.com.bd/womens-traditional-clothing/,743,0,0
+1.71449E+12,11127,Womens-traditional-clothing,200,OK,New Thread 1-32,text,TRUE,,535311,432,8,8,https://www.daraz.com.bd/womens-traditional-clothing/,144,0,0
+1.71449E+12,144,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-32,text,TRUE,,842,141,8,8,https://daraz.com.bd/womens-traditional-clothing,144,0,0
+1.71449E+12,392,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-32,,TRUE,,408,145,8,8,https://www.daraz.com.bd/womens-traditional-clothing,392,0,255
+1.71449E+12,10591,Womens-traditional-clothing-2,200,OK,New Thread 1-32,text,TRUE,,534061,146,8,8,https://www.daraz.com.bd/womens-traditional-clothing/,647,0,0
+1.71449E+12,5242,Skincare Beauty,200,OK,New Thread 1-24,text,TRUE,,561693,396,7,7,https://www.daraz.com.bd/skincare-beauty/,129,0,0
+1.71449E+12,129,Skincare Beauty-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,830,129,7,7,https://daraz.com.bd/skincare-beauty,129,0,0
+1.71449E+12,135,Skincare Beauty-1,301,Moved Permanently,New Thread 1-24,,TRUE,,396,133,7,7,https://www.daraz.com.bd/skincare-beauty,135,0,0
+1.71449E+12,4978,Skincare Beauty-2,200,OK,New Thread 1-24,text,TRUE,,560467,134,7,7,https://www.daraz.com.bd/skincare-beauty/,571,0,0
+1.71449E+12,8655,mens-shoes,200,OK,New Thread 1-37,text,TRUE,,542464,381,7,7,https://www.daraz.com.bd/mens-shoes/,133,0,0
+1.71449E+12,133,mens-shoes-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,825,124,7,7,https://daraz.com.bd/mens-shoes,133,0,0
+1.71449E+12,145,mens-shoes-1,301,Moved Permanently,New Thread 1-37,,TRUE,,391,128,7,7,https://www.daraz.com.bd/mens-shoes,145,0,0
+1.71449E+12,8377,mens-shoes-2,200,OK,New Thread 1-37,text,TRUE,,541248,129,7,7,https://www.daraz.com.bd/mens-shoes/,1245,0,0
+1.71449E+12,6044,Mens-Clothing,200,OK,New Thread 1-34,text,TRUE,,555258,390,7,7,https://www.daraz.com.bd/mens-clothing/,120,0,0
+1.71449E+12,120,Mens-Clothing-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,828,127,7,7,https://daraz.com.bd/mens-clothing,120,0,0
+1.71449E+12,120,Mens-Clothing-1,301,Moved Permanently,New Thread 1-34,,TRUE,,394,131,7,7,https://www.daraz.com.bd/mens-clothing,120,0,0
+1.71449E+12,5804,Mens-Clothing-2,200,OK,New Thread 1-34,text,TRUE,,554036,132,7,7,https://www.daraz.com.bd/mens-clothing/,700,0,0
+1.71449E+12,7788,Mens-Clothing,200,OK,New Thread 1-19,text,TRUE,,555549,390,7,7,https://www.daraz.com.bd/mens-clothing/,123,0,0
+1.71449E+12,123,Mens-Clothing-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,828,127,7,7,https://daraz.com.bd/mens-clothing,123,0,0
+1.71449E+12,137,Mens-Clothing-1,301,Moved Permanently,New Thread 1-19,,TRUE,,394,131,7,7,https://www.daraz.com.bd/mens-clothing,137,0,0
+1.71449E+12,7528,Mens-Clothing-2,200,OK,New Thread 1-19,text,TRUE,,554327,132,7,7,https://www.daraz.com.bd/mens-clothing/,721,0,0
+1.71449E+12,4448,mens-shoes,200,OK,New Thread 1-24,text,TRUE,,542480,381,7,7,https://www.daraz.com.bd/mens-shoes/,93,0,0
+1.71449E+12,93,mens-shoes-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,825,124,7,7,https://daraz.com.bd/mens-shoes,93,0,0
+1.71449E+12,95,mens-shoes-1,301,Moved Permanently,New Thread 1-24,,TRUE,,391,128,7,7,https://www.daraz.com.bd/mens-shoes,95,0,0
+1.71449E+12,4260,mens-shoes-2,200,OK,New Thread 1-24,text,TRUE,,541264,129,7,7,https://www.daraz.com.bd/mens-shoes/,636,0,0
+1.71449E+12,6105,Womens-traditional-clothing,200,OK,New Thread 1-30,text,TRUE,,538586,432,7,7,https://www.daraz.com.bd/womens-traditional-clothing/,119,0,0
+1.71449E+12,119,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-30,text,TRUE,,842,141,7,7,https://daraz.com.bd/womens-traditional-clothing,119,0,0
+1.71449E+12,128,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-30,,TRUE,,408,145,7,7,https://www.daraz.com.bd/womens-traditional-clothing,128,0,0
+1.71449E+12,5858,Womens-traditional-clothing-2,200,OK,New Thread 1-30,text,TRUE,,537336,146,7,7,https://www.daraz.com.bd/womens-traditional-clothing/,605,0,0
+1.71449E+12,4564,Womens-traditional-clothing,200,OK,New Thread 1-37,text,TRUE,,538554,432,6,6,https://www.daraz.com.bd/womens-traditional-clothing/,417,0,345
+1.71449E+12,417,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-37,text,TRUE,,842,141,6,6,https://daraz.com.bd/womens-traditional-clothing,417,0,345
+1.71449E+12,63,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-37,,TRUE,,408,145,6,6,https://www.daraz.com.bd/womens-traditional-clothing,63,0,0
+1.71449E+12,4084,Womens-traditional-clothing-2,200,OK,New Thread 1-37,text,TRUE,,537304,146,6,6,https://www.daraz.com.bd/womens-traditional-clothing/,504,0,0
+1.71449E+12,4529,Skincare Beauty,200,OK,New Thread 1-34,text,TRUE,,525949,396,5,5,https://www.daraz.com.bd/skincare-beauty/,65,0,0
+1.71449E+12,65,Skincare Beauty-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,830,129,5,5,https://daraz.com.bd/skincare-beauty,65,0,0
+1.71449E+12,63,Skincare Beauty-1,301,Moved Permanently,New Thread 1-34,,TRUE,,396,133,5,5,https://www.daraz.com.bd/skincare-beauty,63,0,0
+1.71449E+12,4401,Skincare Beauty-2,200,OK,New Thread 1-34,text,TRUE,,524723,134,5,5,https://www.daraz.com.bd/skincare-beauty/,544,0,0
+1.71449E+12,4224,Skincare Beauty,200,OK,New Thread 1-19,text,TRUE,,562839,396,5,5,https://www.daraz.com.bd/skincare-beauty/,70,0,0
+1.71449E+12,70,Skincare Beauty-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,830,129,5,5,https://daraz.com.bd/skincare-beauty,70,0,0
+1.71449E+12,69,Skincare Beauty-1,301,Moved Permanently,New Thread 1-19,,TRUE,,396,133,5,5,https://www.daraz.com.bd/skincare-beauty,69,0,0
+1.71449E+12,4085,Skincare Beauty-2,200,OK,New Thread 1-19,text,TRUE,,561613,134,5,5,https://www.daraz.com.bd/skincare-beauty/,391,0,0
+1.71449E+12,2491,Womens-traditional-clothing,200,OK,New Thread 1-24,text,TRUE,,538588,432,5,5,https://www.daraz.com.bd/womens-traditional-clothing/,260,0,172
+1.71449E+12,260,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-24,text,TRUE,,842,141,5,5,https://daraz.com.bd/womens-traditional-clothing,260,0,172
+1.71449E+12,96,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-24,,TRUE,,408,145,5,5,https://www.daraz.com.bd/womens-traditional-clothing,96,0,0
+1.71449E+12,2134,Womens-traditional-clothing-2,200,OK,New Thread 1-24,text,TRUE,,537338,146,5,5,https://www.daraz.com.bd/womens-traditional-clothing/,482,0,0
+1.71449E+12,131719,Mens-Clothing,200,OK,New Thread 1-15,text,TRUE,,555748,390,4,4,https://www.daraz.com.bd/mens-clothing/,1409,0,1273
+1.71449E+12,1409,Mens-Clothing-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,828,127,4,4,https://daraz.com.bd/mens-clothing,1409,0,1273
+1.71449E+12,134,Mens-Clothing-1,301,Moved Permanently,New Thread 1-15,,TRUE,,394,131,4,4,https://www.daraz.com.bd/mens-clothing,134,0,0
+1.71449E+12,130176,Mens-Clothing-2,200,OK,New Thread 1-15,text,TRUE,,554526,132,4,4,https://www.daraz.com.bd/mens-clothing/,654,0,0
+1.71449E+12,2370,mens-shoes,200,OK,New Thread 1-19,text,TRUE,,541002,381,4,4,https://www.daraz.com.bd/mens-shoes/,55,0,0
+1.71449E+12,55,mens-shoes-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,825,124,4,4,https://daraz.com.bd/mens-shoes,55,0,0
+1.71449E+12,63,mens-shoes-1,301,Moved Permanently,New Thread 1-19,,TRUE,,391,128,4,4,https://www.daraz.com.bd/mens-shoes,63,0,0
+1.71449E+12,2252,mens-shoes-2,200,OK,New Thread 1-19,text,TRUE,,539786,129,4,4,https://www.daraz.com.bd/mens-shoes/,532,0,0
+1.71449E+12,3044,mens-shoes,200,OK,New Thread 1-34,text,TRUE,,541008,381,4,4,https://www.daraz.com.bd/mens-shoes/,69,0,0
+1.71449E+12,69,mens-shoes-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,825,124,4,4,https://daraz.com.bd/mens-shoes,69,0,0
+1.71449E+12,84,mens-shoes-1,301,Moved Permanently,New Thread 1-34,,TRUE,,391,128,4,4,https://www.daraz.com.bd/mens-shoes,84,0,0
+1.71449E+12,2891,mens-shoes-2,200,OK,New Thread 1-34,text,TRUE,,539792,129,4,4,https://www.daraz.com.bd/mens-shoes/,642,0,0
+1.71449E+12,2009,Womens-traditional-clothing,200,OK,New Thread 1-19,text,TRUE,,537412,432,4,4,https://www.daraz.com.bd/womens-traditional-clothing/,56,0,0
+1.71449E+12,56,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-19,text,TRUE,,842,141,4,4,https://daraz.com.bd/womens-traditional-clothing,56,0,0
+1.71449E+12,58,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-19,,TRUE,,408,145,4,4,https://www.daraz.com.bd/womens-traditional-clothing,58,0,0
+1.71449E+12,1893,Womens-traditional-clothing-2,200,OK,New Thread 1-19,text,TRUE,,536162,146,4,4,https://www.daraz.com.bd/womens-traditional-clothing/,570,0,0
+1.71449E+12,2132,Womens-traditional-clothing,200,OK,New Thread 1-34,text,TRUE,,538578,432,3,3,https://www.daraz.com.bd/womens-traditional-clothing/,60,0,0
+1.71449E+12,60,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-34,text,TRUE,,842,141,3,3,https://daraz.com.bd/womens-traditional-clothing,60,0,0
+1.71449E+12,61,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-34,,TRUE,,408,145,3,3,https://www.daraz.com.bd/womens-traditional-clothing,61,0,0
+1.71449E+12,2011,Womens-traditional-clothing-2,200,OK,New Thread 1-34,text,TRUE,,537328,146,3,3,https://www.daraz.com.bd/womens-traditional-clothing/,452,0,0
+1.71449E+12,4496,Skincare Beauty,200,OK,New Thread 1-15,text,TRUE,,561096,396,2,2,https://www.daraz.com.bd/skincare-beauty/,278,0,181
+1.71449E+12,278,Skincare Beauty-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,830,129,2,2,https://daraz.com.bd/skincare-beauty,278,0,181
+1.71449E+12,1287,Skincare Beauty-1,301,Moved Permanently,New Thread 1-15,,TRUE,,396,133,2,2,https://www.daraz.com.bd/skincare-beauty,1287,0,1221
+1.71449E+12,2930,Skincare Beauty-2,200,OK,New Thread 1-15,text,TRUE,,559870,134,2,2,https://www.daraz.com.bd/skincare-beauty/,489,0,0
+1.71449E+12,1265,mens-shoes,200,OK,New Thread 1-15,text,TRUE,,424061,381,2,2,https://www.daraz.com.bd/mens-shoes/,58,0,0
+1.71449E+12,58,mens-shoes-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,825,124,2,2,https://daraz.com.bd/mens-shoes,58,0,0
+1.71449E+12,58,mens-shoes-1,301,Moved Permanently,New Thread 1-15,,TRUE,,391,128,2,2,https://www.daraz.com.bd/mens-shoes,58,0,0
+1.71449E+12,1149,mens-shoes-2,200,OK,New Thread 1-15,text,TRUE,,422845,129,2,2,https://www.daraz.com.bd/mens-shoes/,418,0,0
+1.71449E+12,1336,Womens-traditional-clothing,200,OK,New Thread 1-15,text,TRUE,,538588,432,2,2,https://www.daraz.com.bd/womens-traditional-clothing/,57,0,0
+1.71449E+12,57,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-15,text,TRUE,,842,141,2,2,https://daraz.com.bd/womens-traditional-clothing,57,0,0
+1.71449E+12,67,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-15,,TRUE,,408,145,2,2,https://www.daraz.com.bd/womens-traditional-clothing,67,0,0
+1.71449E+12,1211,Womens-traditional-clothing-2,200,OK,New Thread 1-15,text,TRUE,,537338,146,2,2,https://www.daraz.com.bd/womens-traditional-clothing/,444,0,0
+1.71449E+12,131988,Skincare Beauty,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 324,145; actual size: 303,420)",New Thread 1-13,text,FALSE,,3022,262,1,1,https://www.daraz.com.bd/skincare-beauty/,826,0,679
+1.71449E+12,826,Skincare Beauty-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,830,129,1,1,https://daraz.com.bd/skincare-beauty,826,0,679
+1.71449E+12,3214,Skincare Beauty-1,301,Moved Permanently,New Thread 1-13,,TRUE,,396,133,1,1,https://www.daraz.com.bd/skincare-beauty,3214,0,3074
+1.71449E+12,127948,Skincare Beauty-2,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 324,145; actual size: 303,420)",New Thread 1-13,text,FALSE,,1796,0,1,1,https://www.daraz.com.bd/skincare-beauty/,566,0,0
+1.71449E+12,2155,mens-shoes,200,OK,New Thread 1-13,text,TRUE,,425222,381,1,1,https://www.daraz.com.bd/mens-shoes/,170,0,114
+1.71449E+12,171,mens-shoes-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,825,124,1,1,https://daraz.com.bd/mens-shoes,170,0,114
+1.71449E+12,165,mens-shoes-1,301,Moved Permanently,New Thread 1-13,,TRUE,,391,128,1,1,https://www.daraz.com.bd/mens-shoes,164,0,105
+1.71449E+12,1819,mens-shoes-2,200,OK,New Thread 1-13,text,TRUE,,424006,129,1,1,https://www.daraz.com.bd/mens-shoes/,423,0,0
+1.71449E+12,1950,Womens-traditional-clothing,200,OK,New Thread 1-13,text,TRUE,,535042,432,1,1,https://www.daraz.com.bd/womens-traditional-clothing/,55,0,0
+1.71449E+12,55,Womens-traditional-clothing-0,301,Moved Permanently,New Thread 1-13,text,TRUE,,842,141,1,1,https://daraz.com.bd/womens-traditional-clothing,55,0,0
+1.71449E+12,59,Womens-traditional-clothing-1,301,Moved Permanently,New Thread 1-13,,TRUE,,408,145,1,1,https://www.daraz.com.bd/womens-traditional-clothing,59,0,0
+1.71449E+12,1836,Womens-traditional-clothing-2,200,OK,New Thread 1-13,text,TRUE,,533792,146,1,1,https://www.daraz.com.bd/womens-traditional-clothing/,523,0,0
